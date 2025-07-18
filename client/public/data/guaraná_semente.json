@@ -1,0 +1,1906 @@
+{
+  "type": "FeatureCollection",
+  "name": "Guaraná (semente)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ariquemes",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.07564461710045,
+          -12.465998921071138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Machadinho D'Oeste",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.35799059545948,
+          -11.196820362076354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Velho",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.63358436368998,
+          -10.70297687930321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Crespo",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.099868249205926,
+          -10.866865235465383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rolim de Moura",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.27038086711889,
+          -10.87933364579586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Paraíso",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3043165745713,
+          -11.69446871532617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Horizonte do Oeste",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.35162650273675,
+          -11.429762581176158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Candeias do Jamari",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.784453531868145,
+          -11.272358836389603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cujubim",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.66580633387573,
+          -11.981285168630647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapuã do Oeste",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.776151391294626,
+          -10.514610080263935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Apuí",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.335645397067836,
+          -5.5718255041336375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Autazes",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.37797728782578,
+          -4.606648346399459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barreirinha",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.95412670011488,
+          -4.457926977202023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Vista do Ramos",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.845049457259265,
+          -5.1162960608015355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Borba",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.93481607078348,
+          -4.943291239495026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coari",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 33.0,
+        "production": 33.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.10958304687498,
+          -5.937360154160725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itacoatiara",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.84025948338317,
+          -4.5577557238158155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manacapuru",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.687089496109195,
+          -4.135109972986614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maués",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 2220.0,
+        "production": 2220.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.59904061686728,
+          -5.672420387530199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Olinda do Norte",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.152908945828344,
+          -5.548975300097762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Aripuanã",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.14294350318315,
+          -4.930293713857386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parintins",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.144124969345334,
+          -4.21341751361353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Figueiredo",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 454.0,
+        "production": 454.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.64787402771335,
+          -5.232137664628209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Sebastião do Uatumã",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.51498240889321,
+          -4.780719239254255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tabatinga",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.89060642620482,
+          -5.463229848391632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Urucará",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 515.0,
+        "production": 515.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.55535135472589,
+          -5.8837963213252396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Urucurituba",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.54438536195706,
+          -5.177636594590044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Altamira",
+        "state": "PA",
+        "crop": "Guaraná (semente)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.35017657269312,
+          -3.3428432995326123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aveiro",
+        "state": "PA",
+        "crop": "Guaraná (semente)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.464400505399674,
+          -2.887313281280502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasil Novo",
+        "state": "PA",
+        "crop": "Guaraná (semente)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.26105411318223,
+          -3.0830437091043796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacareacanga",
+        "state": "PA",
+        "crop": "Guaraná (semente)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.82216829308481,
+          -3.8844048599615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Medicilândia",
+        "state": "PA",
+        "crop": "Guaraná (semente)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.24584206117708,
+          -3.3954749754700404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Placas",
+        "state": "PA",
+        "crop": "Guaraná (semente)",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85519623839006,
+          -4.155169968932039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arataca",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31389579245138,
+          -13.544628469976281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camamu",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 710.0,
+        "production": 710.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.19282212086149,
+          -12.96461576916309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gandu",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2911204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.493544368121334,
+          -12.384508694532357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibirapitanga",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2912707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.78338423388291,
+          -13.637465361819013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibirataia",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2912905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.014135967507286,
+          -12.313598239502062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Igrapiúna",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 175.0,
+        "production": 175.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.40739760296311,
+          -13.784059381870174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilhéus",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 19.0,
+        "production": 19.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82283005867878,
+          -12.459592387139983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itamari",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.33314447329871,
+          -13.036659231713251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ituberá",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 1140.0,
+        "production": 1140.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.50686584870191,
+          -14.241179935446752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguaquara",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.56866821078406,
+          -13.364663290510707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jiquiriçá",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 52.0,
+        "production": 52.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.89495579784139,
+          -13.465642345491442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Laje",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7717334675571,
+          -13.161293533872342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maraú",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2920700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85645240796179,
+          -14.190158031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mutuípe",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 94.0,
+        "production": 94.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.32021472370738,
+          -12.296411871616735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nilo Peçanha",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 315.0,
+        "production": 315.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.205444617100454,
+          -14.250798921071139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Ibiá",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31389579245138,
+          -13.544628469976281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piraí do Norte",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 55.0,
+        "production": 55.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2924678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753025039920466,
+          -13.436362217066218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Tancredo Neves",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 400.0,
+        "production": 400.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.63283360932826,
+          -14.135015967561094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taperoá",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 1100.0,
+        "production": 1100.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.772792477088274,
+          -14.227185051915306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teolândia",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 131.0,
+        "production": 131.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.676327535751085,
+          -12.799380747632995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubaíra",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.80102327242698,
+          -13.346812262630948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Una",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91550894582834,
+          -13.878575300097763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valença",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 1029.0,
+        "production": 1029.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.02002047867224,
+          -13.877424242874978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Wenceslau Guimarães",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 84.0,
+        "production": 84.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.40719204847991,
+          -13.069703687659388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alta Floresta",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5100250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.317234709058894,
+          -12.558731271279006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarantã do Norte",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5104104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.67329421713804,
+          -13.59274841024332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Juína",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5105150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3821326140763,
+          -12.964436775664826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marcelândia",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5105580"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.779368210784064,
+          -12.756063290510708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Santa Helena",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 144.0,
+        "production": 144.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5106190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.325621672629566,
+          -11.778665495542802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Mundo",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5106265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.64587845802536,
+          -13.138000677520706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Horizonte do Norte",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5106273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.57688583828861,
+          -13.338001383326763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Madeira-Guaporé",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.2761393441891,
+          -11.20546669653632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Leste Rondoniense",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 53.0,
+        "production": 53.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.96844539706783,
+          -12.116625504133637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Amazonense",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.04807114165585,
+          -4.618174730557049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Amazonense",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 3662.0,
+        "production": 3662.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.64151384552595,
+          -5.484575625354871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Amazonense",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 176.0,
+        "production": 176.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.082519406805304,
+          -5.512529050305346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baixo Amazonas",
+        "state": "PA",
+        "crop": "Guaraná (semente)",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.09816668962762,
+          -3.2046268344033133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Paraense",
+        "state": "PA",
+        "crop": "Guaraná (semente)",
+        "hectares": 47.0,
+        "production": 47.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.551980377858,
+          -2.958038950563545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Sul Baiano",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 199.0,
+        "production": 199.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.09173558568529,
+          -13.030702507914706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Baiano",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 5290.0,
+        "production": 5290.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36618583828861,
+          -13.946601383326762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Mato-grossense",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 198.0,
+        "production": 198.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.850844188611426,
+          -12.598965154944363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Velho",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.63358436368998,
+          -10.70297687930321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ariquemes",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 45.0,
+        "production": 45.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.07564461710045,
+          -12.465998921071138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacoal",
+        "state": "RO",
+        "crop": "Guaraná (semente)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.79958886846444,
+          -12.106099838063882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Solimões",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.602935693198425,
+          -4.930168704322699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coari",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 33.0,
+        "production": 33.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.10958304687498,
+          -5.937360154160725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manaus",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 45.0,
+        "production": 45.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.316766095329115,
+          -5.633565333549862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Preto da Eva",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 454.0,
+        "production": 454.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.24790941269896,
+          -4.331096704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itacoatiara",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 125.0,
+        "production": 125.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.84025948338317,
+          -4.5577557238158155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parintins",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 3005.0,
+        "production": 3005.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.144124969345334,
+          -4.21341751361353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Madeira",
+        "state": "AM",
+        "crop": "Guaraná (semente)",
+        "hectares": 176.0,
+        "production": 176.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.293245247373875,
+          -4.558413124560597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santarém",
+        "state": "PA",
+        "crop": "Guaraná (semente)",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.25557114812373,
+          -3.6502389890628244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaituba",
+        "state": "PA",
+        "crop": "Guaraná (semente)",
+        "hectares": 38.0,
+        "production": 38.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.84811027495047,
+          -2.9321150601668453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Altamira",
+        "state": "PA",
+        "crop": "Guaraná (semente)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.35017657269312,
+          -3.3428432995326123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequié",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 199.0,
+        "production": 199.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82395810873852,
+          -13.146694300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valença",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 4938.0,
+        "production": 4938.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.02002047867224,
+          -13.877424242874978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilhéus-Itabuna",
+        "state": "BA",
+        "crop": "Guaraná (semente)",
+        "hectares": 352.0,
+        "production": 352.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31024911085011,
+          -13.482543850112666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aripuanã",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.72905411318224,
+          -12.05294370910438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alta Floresta",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.317234709058894,
+          -12.558731271279006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colíder",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.36481745344867,
+          -12.990704298276654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arinos",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.06571137094062,
+          -12.873358684918559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sinop",
+        "state": "MT",
+        "crop": "Guaraná (semente)",
+        "hectares": 154.0,
+        "production": 154.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.097712500615486,
+          -12.76735557573335
+        ]
+      }
+    }
+  ]
+}

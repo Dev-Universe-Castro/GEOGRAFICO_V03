@@ -1,0 +1,1566 @@
+{
+  "type": "FeatureCollection",
+  "name": "Dendê (cacho de coco)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caroebe",
+        "state": "RR",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 311.0,
+        "production": 311.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.72621484291481,
+          2.795896390900272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rorainópolis",
+        "state": "RR",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 156.0,
+        "production": 156.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1344557879898,
+          2.9792301969685298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João da Baliza",
+        "state": "RR",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 1775.0,
+        "production": 1775.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.976621765346934,
+          1.9665425235172518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Luiz",
+        "state": "RR",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 44.0,
+        "production": 44.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.567180217620866,
+          3.73367714129792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Abaetetuba",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 2000.0,
+        "production": 2000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.80190089133465,
+          -4.577795482481193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Acará",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 14000.0,
+        "production": 14000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79790543865896,
+          -4.474564730770357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aurora do Pará",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 3800.0,
+        "production": 3800.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.25348963934446,
+          -3.0692849371208215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baião",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1894634693573,
+          -3.6385539477218893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bonito",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 8800.0,
+        "production": 8800.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0927197283299,
+          -3.546823121233645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bujaru",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 400.0,
+        "production": 400.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.228302277839525,
+          -4.687443505204049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capitão Poço",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 600.0,
+        "production": 600.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.17559792527761,
+          -4.058575313401521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castanhal",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 919.0,
+        "production": 919.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.59915240796179,
+          -4.611658031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Concórdia do Pará",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 18400.0,
+        "production": 18400.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.01330238938425,
+          -3.6791231810444742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curuçá",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 45.0,
+        "production": 45.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.877190046261624,
+          -4.348427837313711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Garrafão do Norte",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 2301.0,
+        "production": 2301.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503077"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.87595585722682,
+          -2.819622940070236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Igarapé-Açu",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 4712.0,
+        "production": 4712.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5324917613051,
+          -3.7542416376115364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Inhangapi",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 44.0,
+        "production": 44.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9853682465155,
+          -3.395124982227255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irituia",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 1016.0,
+        "production": 1016.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.216899367146624,
+          -4.292638041258286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mãe do Rio",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 1253.0,
+        "production": 1253.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.34358362081896,
+          -2.8624345201482653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maracanã",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.577034352288194,
+          -4.290657924063412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marapanim",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.48835511859021,
+          -3.919474192837907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Moju",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 21000.0,
+        "production": 21000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.387524573226976,
+          -3.9963325059246735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Timboteua",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 240.0,
+        "production": 240.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.592656639884595,
+          -2.756629916679742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Izabel do Pará",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 400.0,
+        "production": 400.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.72165136754407,
+          -2.759642764466747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria do Pará",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 1203.0,
+        "production": 1203.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6776406841695,
+          -3.6107628530298843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio do Tauá",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 2900.0,
+        "production": 2900.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.069074480620415,
+          -4.322369164586477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Domingos do Capim",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 2800.0,
+        "production": 2800.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.75320941269896,
+          -3.082196704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Francisco do Pará",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 657.0,
+        "production": 657.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.20715242717694,
+          -2.715246269732232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João da Ponta",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.85437271284029,
+          -3.965327625504477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel do Guamá",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 725.0,
+        "production": 725.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.24503953085742,
+          -3.8110109623620465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tailândia",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 61000.0,
+        "production": 61000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.08640200397083,
+          -2.9183917480072203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Terra Alta",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 530.0,
+        "production": 530.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.64141969960511,
+          -4.537107232757726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tomé-Açu",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 35780.0,
+        "production": 35780.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.289949808748396,
+          -3.9002368313726414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vigia",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.84811027495047,
+          -2.9321150601668453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aratuípe",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 95.0,
+        "production": 95.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.44619070487755,
+          -13.574205843838808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Belmonte",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36442465622979,
+          -13.046719137106916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cairu",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 550.0,
+        "production": 550.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.42267346023627,
+          -14.049165780150894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camamu",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 1088.0,
+        "production": 1088.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.19282212086149,
+          -12.96461576916309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coaraci",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2908002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.28316642107002,
+          -14.135656432293391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Igrapiúna",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 1200.0,
+        "production": 1200.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.40739760296311,
+          -13.784059381870174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilhéus",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82283005867878,
+          -12.459592387139983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itacaré",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.61388938098942,
+          -12.368938486489535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ituberá",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 1650.0,
+        "production": 1650.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.50686584870191,
+          -14.241179935446752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguaripe",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 4671.0,
+        "production": 4671.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85682298454736,
+          -13.536575395219227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Laje",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 82.0,
+        "production": 82.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7717334675571,
+          -13.161293533872342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maraú",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2920700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85645240796179,
+          -14.190158031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Muniz Ferreira",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.545685527318014,
+          -14.16751997292881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nazaré",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 76.0,
+        "production": 76.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.36151484291481,
+          -13.232203609099727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nilo Peçanha",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.205444617100454,
+          -14.250798921071139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Seguro",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 47.0,
+        "production": 47.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.014135967507286,
+          -12.313598239502062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Tancredo Neves",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.63283360932826,
+          -14.135015967561094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salinas da Margarida",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2927309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.938074563253714,
+          -14.28237466156481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Amaro",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2928604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.814505643594764,
+          -14.237128351678264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taperoá",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 1200.0,
+        "production": 1200.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.772792477088274,
+          -14.227185051915306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Una",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91550894582834,
+          -13.878575300097763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uruçuca",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.68392496818996,
+          -13.67271068251409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valença",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 1633.0,
+        "production": 1633.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.02002047867224,
+          -13.877424242874978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vera Cruz",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.798432548604,
+          -12.921335226405777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Wenceslau Guimarães",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 34.0,
+        "production": 34.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.40719204847991,
+          -13.069703687659388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul de Roraima",
+        "state": "RR",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 2286.0,
+        "production": 2286.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.079726612692546,
+          3.5513002184023046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Belém",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 4663.0,
+        "production": 4663.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92082048652647,
+          -3.2622402738902068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Paraense",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 181577.0,
+        "production": 181577.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.264773298307006,
+          -3.3611966961972977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Salvador",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 4903.0,
+        "production": 4903.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.90554350318315,
+          -13.259893713857387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Sul Baiano",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 82.0,
+        "production": 82.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.09173558568529,
+          -13.030702507914706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Baiano",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 7711.0,
+        "production": 7711.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36618583828861,
+          -13.946601383326762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste de Roraima",
+        "state": "RR",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 2286.0,
+        "production": 2286.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "14004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.27929941489221,
+          2.564790424145347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castanhal",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 4663.0,
+        "production": 4663.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.59915240796179,
+          -4.611658031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salgado",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 1250.0,
+        "production": 1250.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.73637548043681,
+          -4.5123083914464654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bragantina",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 15612.0,
+        "production": 15612.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.818484715691234,
+          -3.145389349926716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cametá",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 2040.0,
+        "production": 2040.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.543245990971954,
+          -4.42066148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tomé-Açu",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 150180.0,
+        "production": 150180.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.289949808748396,
+          -3.9002368313726414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guamá",
+        "state": "PA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 12495.0,
+        "production": 12495.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.16537346023627,
+          -4.470665780150894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio de Jesus",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 4900.0,
+        "production": 4900.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.12222303532223,
+          -13.400221549686353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salvador",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.279543684803,
+          -12.334371724679814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequié",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 82.0,
+        "production": 82.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82395810873852,
+          -13.146694300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valença",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 7488.0,
+        "production": 7488.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.02002047867224,
+          -13.877424242874978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilhéus-Itabuna",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 176.0,
+        "production": 176.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31024911085011,
+          -13.482543850112666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Seguro",
+        "state": "BA",
+        "crop": "Dendê (cacho de coco)",
+        "hectares": 47.0,
+        "production": 47.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.014135967507286,
+          -12.313598239502062
+        ]
+      }
+    }
+  ]
+}

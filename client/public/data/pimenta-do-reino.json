@@ -1,0 +1,7866 @@
+{
+  "type": "FeatureCollection",
+  "name": "Pimenta-do-reino_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alta Floresta D'Oeste",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.47108362081896,
+          -10.656134520148264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacoal",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.79958886846444,
+          -12.106099838063882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ji-Paraná",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.54652753575108,
+          -11.014580747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Machadinho D'Oeste",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.35799059545948,
+          -11.196820362076354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Brasilândia D'Oeste",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.36481135333994,
+          -11.38568795223679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Velho",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.63358436368998,
+          -10.70297687930321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Médici",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.804530540760624,
+          -10.637176074592054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rolim de Moura",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.27038086711889,
+          -10.87933364579586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alvorada D'Oeste",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.43822496417242,
+          -10.976167874931267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Alegre dos Parecis",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.599844517858365,
+          -10.990922536568295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Paraíso",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3043165745713,
+          -11.69446871532617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Horizonte do Oeste",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.35162650273675,
+          -11.429762581176158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castanheiras",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.949668293084805,
+          -11.678104859961499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cujubim",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.66580633387573,
+          -11.981285168630647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Primavera de Rondônia",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.44617177332965,
+          -10.875916926893682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Felipe D'Oeste",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.023236007096536,
+          -11.741252601805476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Francisco do Guaporé",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1709646982858,
+          -11.581306032908882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seringueiras",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.949331273934966,
+          -12.244659540198658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Anari",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.836872625954854,
+          -10.585778139610088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Apuí",
+        "state": "AM",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.335645397067836,
+          -5.5718255041336375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boca do Acre",
+        "state": "AM",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.020784233882914,
+          -5.307865361819012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Abaetetuba",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.80190089133465,
+          -4.577795482481193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Abel Figueiredo",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.87500533500761,
+          -3.521733579821166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Acará",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 900.0,
+        "production": 900.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79790543865896,
+          -4.474564730770357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Almeirim",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06633462735893,
+          -4.2875946606979305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Altamira",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.35017657269312,
+          -3.3428432995326123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anapu",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.71982073238164,
+          -4.039614282600856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Augusto Corrêa",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.65695353186815,
+          -3.4786588363896054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aurora do Pará",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 495.0,
+        "production": 495.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.25348963934446,
+          -3.0692849371208215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aveiro",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.464400505399674,
+          -2.887313281280502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baião",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1500.0,
+        "production": 1500.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1894634693573,
+          -3.6385539477218893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barcarena",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.97537821166217,
+          -3.4217981004219293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Belterra",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.05998112408905,
+          -3.526863837823437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bonito",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0927197283299,
+          -3.546823121233645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bragança",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.11042641734357,
+          -3.687690980957351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasil Novo",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.26105411318223,
+          -3.0830437091043796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Breu Branco",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501782"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.230490595459486,
+          -3.403120362076355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bujaru",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 340.0,
+        "production": 340.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.228302277839525,
+          -4.687443505204049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Piriá",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.91643536676947,
+          -2.967668039344036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cametá",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 625.0,
+        "production": 625.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.543245990971954,
+          -4.42066148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capanema",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.97980372418071,
+          -2.8319318192983087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capitão Poço",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1000.0,
+        "production": 1000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.17559792527761,
+          -4.058575313401521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castanhal",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 715.0,
+        "production": 715.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.59915240796179,
+          -4.611658031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Concórdia do Pará",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 730.0,
+        "production": 730.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.01330238938425,
+          -3.6791231810444742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curuçá",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 190.0,
+        "production": 190.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.877190046261624,
+          -4.348427837313711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dom Eliseu",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3583033317958,
+          -3.096750837531827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Garrafão do Norte",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 700.0,
+        "production": 700.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503077"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.87595585722682,
+          -2.819622940070236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Goianésia do Pará",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 110.0,
+        "production": 110.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.14312002838497,
+          -2.73609406615929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gurupá",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.96973112964595,
+          -4.384845490766613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Igarapé-Açu",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1550.0,
+        "production": 1550.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5324917613051,
+          -3.7542416376115364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Igarapé-Miri",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79763603440307,
+          -3.192712029103798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Inhangapi",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9853682465155,
+          -3.395124982227255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipixuna do Pará",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 205.0,
+        "production": 205.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.28517187883402,
+          -4.552309538961778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irituia",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.216899367146624,
+          -4.292638041258286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaituba",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.84811027495047,
+          -2.9321150601668453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Limoeiro do Ajuru",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1428808671189,
+          -3.085633645795862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mãe do Rio",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.34358362081896,
+          -2.8624345201482653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Magalhães Barata",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.19589586824903,
+          -3.118102959472668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maracanã",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.577034352288194,
+          -4.290657924063412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marapanim",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.48835511859021,
+          -3.919474192837907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Medicilândia",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.24584206117708,
+          -3.3954749754700404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mocajuba",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 669.0,
+        "production": 669.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.15646445045625,
+          -4.6447040059605715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Moju",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.387524573226976,
+          -3.9963325059246735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mojuí dos Campos",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83976401325876,
+          -4.308630562748136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Alegre",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0767883117854,
+          -3.3428924084353797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Esperança do Piriá",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 450.0,
+        "production": 450.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.97413011045065,
+          -3.3119098434865046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Timboteua",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 180.0,
+        "production": 180.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.592656639884595,
+          -2.756629916679742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Progresso",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.65695353186815,
+          -3.4786588363896054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Repartimento",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.27324120467018,
+          -3.1202712624799167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeiras do Pará",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.89986126668236,
+          -4.313977293315378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ourém",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.49213866879741,
+          -3.9889544501718497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pacajá",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 44.0,
+        "production": 44.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8555387294905,
+          -2.802600206944514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paragominas",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 164.0,
+        "production": 164.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.47650420295389,
+          -4.493659525833589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Peixe-Boi",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00196516762357,
+          -3.2459183227027775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Placas",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85519623839006,
+          -4.155169968932039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto de Moz",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.12246581835773,
+          -3.599622146188791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prainha",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.48439087495176,
+          -4.359864713765683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Primavera",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.19645957803804,
+          -3.3470461721052946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rurópolis",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.97413011045065,
+          -3.3119098434865046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Luzia do Pará",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92933097548234,
+          -4.500581599477189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria do Pará",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 83.0,
+        "production": 83.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6776406841695,
+          -3.6107628530298843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santarém",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 178.0,
+        "production": 178.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.25557114812373,
+          -3.6502389890628244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santarém Novo",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.543245990971954,
+          -4.42066148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio do Tauá",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.069074480620415,
+          -4.322369164586477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Caetano de Odivelas",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.109402193612055,
+          -3.8739684086809376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Domingos do Capim",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.75320941269896,
+          -3.082196704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Francisco do Pará",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 450.0,
+        "production": 450.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.20715242717694,
+          -2.715246269732232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João da Ponta",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.85437271284029,
+          -3.965327625504477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel do Guamá",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.24503953085742,
+          -3.8110109623620465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sapucaia",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.334069875670906,
+          -4.329958195461545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Senador José Porfírio",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00196516762357,
+          -3.2459183227027775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tailândia",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.08640200397083,
+          -2.9183917480072203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Terra Alta",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.64141969960511,
+          -4.537107232757726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tomé-Açu",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2400.0,
+        "production": 2400.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.289949808748396,
+          -3.9002368313726414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tracuateua",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.87859179606755,
+          -3.8911144705540286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Trairão",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.49064922987324,
+          -4.477571777410734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tucuruí",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.74249294645481,
+          -4.501731052435448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ulianópolis",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 43.0,
+        "production": 43.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64721390084523,
+          -4.604591659871788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uruará",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.88327728782578,
+          -3.3577483463994593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vigia",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.84811027495047,
+          -2.9321150601668453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Viseu",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.57349732652119,
+          -4.047795665414481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vitória do Xingu",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.755855901251714,
+          -3.9329163905248743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colinas do Tocantins",
+        "state": "TO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1705508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.34155089391452,
+          -9.779877897813636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Açailândia",
+        "state": "MA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2100055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.48886088406008,
+          -4.731406210845574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itinga do Maranhão",
+        "state": "MA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2105427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.66106401325876,
+          -5.557530562748136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipu",
+        "state": "CE",
+        "crop": "Pimenta-do-reino",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2305803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53958886846444,
+          -6.098799838063883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Massapê",
+        "state": "CE",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2308005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.03961415830607,
+          -6.3878036363898305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Viçosa do Ceará",
+        "state": "CE",
+        "crop": "Pimenta-do-reino",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2314102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.044316574571305,
+          -5.687168715326172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel",
+        "state": "RN",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2412500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.50890299700879,
+          -5.154011979160306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araçagi",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2500809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.2375243430993,
+          -6.541149968045135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Belém",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2501906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.43692523538044,
+          -7.450960236629578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curral de Cima",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2505279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.53457024886954,
+          -7.611408483140237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Duas Estradas",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2505808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.47597121045907,
+          -7.845674823784203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarabira",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2506301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.995562550445165,
+          -7.551508435841191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacaraú",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2507309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.648525356073975,
+          -7.958227570193668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mamanguape",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2508901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.68301918443552,
+          -8.160874047219934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pilõezinhos",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2511707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.09258028388784,
+          -7.0446084291273445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pirpirituba",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2511806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.288698164399385,
+          -6.689567402314975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pedro Régis",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2512721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.69911495314338,
+          -6.776406864935719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serra da Raiz",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2515609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.10536621164796,
+          -7.154607272413602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serraria",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2515906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.495357258706726,
+          -6.463200048739488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anadia",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2700201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.592190454303314,
+          -9.771306714834617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arapiraca",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2700300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.06053897048522,
+          -9.875540352545965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Atalaia",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 23.0,
+        "production": 23.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2700409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.249070581440186,
+          -9.589187306229848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campestre",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2701357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.53605242717694,
+          -8.574546269732233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Alegre",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2701407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.40246615156486,
+          -10.241401040333605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacuípe",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2703502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.74792753575108,
+          -9.080180747632996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Japaratinga",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2703601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.3852009193925,
+          -9.127287461367207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jundiá",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2703908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.413647252187516,
+          -9.778525061469225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Junqueiro",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2704005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.20136301863547,
+          -9.635007691643745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Limoeiro de Anadia",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2704203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.68133386194668,
+          -9.534879860267583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maragogi",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2704500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.857815735378686,
+          -8.862280681452242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marechal Deodoro",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2704708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.56621135333994,
+          -9.451287952236791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maribondo",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2704807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.08267339753504,
+          -9.583121639255499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Matriz de Camaragibe",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2705101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.0791992499691,
+          -8.758557689477076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Lino",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2705606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.48812977989674,
+          -8.600550289902799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paripueira",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2706448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.35478877221266,
+          -8.574876991652253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passo de Camaragibe",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2706505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.90239732652119,
+          -9.90709566541448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Calvo",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2707305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.333654205827514,
+          -8.897755259085542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tanque d'Arca",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2709004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.333654205827514,
+          -8.897755259085542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teotônio Vilela",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2709152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.60516398103177,
+          -9.51292078925932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "União dos Palmares",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2709301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.012552657452176,
+          -10.49154162372427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Viçosa",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2709400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.870032548603994,
+          -9.202135226405778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alcobaça",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2900801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.84166682250102,
+          -14.084141991005163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Belmonte",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 186.0,
+        "production": 186.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36442465622979,
+          -13.046719137106916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bonito",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2904050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3500197283299,
+          -13.125323121233645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camamu",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.19282212086149,
+          -12.96461576916309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canavieiras",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 111.0,
+        "production": 111.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.25876594526991,
+          -13.573003262391696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caravelas",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.729000938972256,
+          -13.88071754987731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Eunápolis",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2910727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.214658574563195,
+          -13.283864598433937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gandu",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2911204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.493544368121334,
+          -12.384508694532357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaratinga",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 95.0,
+        "production": 95.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2911808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.47597858646141,
+          -12.815400819753629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibirapitanga",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2912707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.78338423388291,
+          -13.637465361819013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibirapuã",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2912806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.39756545894699,
+          -13.607972333143312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibirataia",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2912905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.014135967507286,
+          -12.313598239502062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilhéus",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82283005867878,
+          -12.459592387139983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itabela",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 95.0,
+        "production": 95.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.62965402393395,
+          -12.664756707700297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itagi",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.12966852827323,
+          -13.156251942796032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itamaraju",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 390.0,
+        "production": 390.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.33310365736925,
+          -13.260624091984502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itamari",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.33314447329871,
+          -13.036659231713251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itanhém",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2916005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7983221959319,
+          -13.996331860221545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapebi",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2916302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.02565099448683,
+          -12.711172167733789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ituberá",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.50686584870191,
+          -14.241179935446752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguaquara",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.56866821078406,
+          -13.364663290510707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguaripe",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85682298454736,
+          -13.536575395219227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequié",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82395810873852,
+          -13.146694300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jitaúna",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.87218304687498,
+          -14.266960154160724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jucuruçu",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.21777562254052,
+          -12.332326050898264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maraú",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2920700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85645240796179,
+          -14.190158031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mascote",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2920908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.85257619536036,
+          -13.467561687749367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mucuri",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.71977953605917,
+          -12.94400832982926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mutuípe",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.32021472370738,
+          -12.296411871616735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nilo Peçanha",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.205444617100454,
+          -14.250798921071139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Ibiá",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31389579245138,
+          -13.544628469976281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Seguro",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 714.0,
+        "production": 714.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.014135967507286,
+          -12.313598239502062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prado",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 400.0,
+        "production": 400.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.97742694423408,
+          -13.98529147704954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Tancredo Neves",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.63283360932826,
+          -14.135015967561094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz Cabrália",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 74.0,
+        "production": 74.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2927705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.54782013921844,
+          -13.797536080661283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Luzia",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 29.0,
+        "production": 29.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2928059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7596959606196,
+          -14.006004835266625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taperoá",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 75.0,
+        "production": 75.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.772792477088274,
+          -14.227185051915306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teixeira de Freitas",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.485602277839526,
+          -14.26594350520405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teolândia",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.676327535751085,
+          -12.799380747632995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubaíra",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.80102327242698,
+          -13.346812262630948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubatã",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.74943866879741,
+          -13.56745445017185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Una",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 124.0,
+        "production": 124.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91550894582834,
+          -13.878575300097763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uruçuca",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.68392496818996,
+          -13.67271068251409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Utinga",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.39241728619965,
+          -12.363470859981625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valença",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 67.0,
+        "production": 67.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.02002047867224,
+          -13.877424242874978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Wenceslau Guimarães",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 48.0,
+        "production": 48.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.40719204847991,
+          -13.069703687659388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Água Boa",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3100609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.67917577313689,
+          -17.54805494044534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Águas Formosas",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3100906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.83724000241561,
+          -17.554492617606442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aimorés",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3101102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.574489945175166,
+          -19.423267033253612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alpercata",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3101805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2710748215832,
+          -17.794688685731572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araçuaí",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3103405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.561295217940064,
+          -19.113936222566963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araguari",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3103504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.32057858646141,
+          -18.03710081975363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ataléia",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3104700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.82172073238164,
+          -18.839814282600855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barão de Cocais",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3105400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.32899566321857,
+          -18.867016044055923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bocaiúva",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 32.0,
+        "production": 32.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3107307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.390285527318014,
+          -19.38921997292881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasilândia de Minas",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3108552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.802479596523554,
+          -17.677248691761534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capelinha",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3112307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.105916506371884,
+          -18.643366376445115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Central de Minas",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3115706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.76010894582834,
+          -19.100275300097763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Crisólita",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3120151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.75132496934533,
+          -17.76471751361353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cuparaque",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3120839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.93633558568529,
+          -18.252402507914706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Divino das Laranjeiras",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3122108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.36100382578484,
+          -18.49216298651304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Divisópolis",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3122454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.46118460694122,
+          -18.11492563019371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Engenheiro Navarro",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3123809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.80164938859449,
+          -18.23314389823118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Estrela Dalva",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3124609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.562795042839625,
+          -18.841487930914074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Estrela do Sul",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3124807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.86637987525143,
+          -19.21298631852781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Felisburgo",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3125606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.597288618935366,
+          -19.22972587209159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Frei Gaspar",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3126802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.232888242480534,
+          -19.125509498510585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Frei Inocêncio",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3126901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.89914573378772,
+          -18.027965445126448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Galiléia",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3127305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.10993542807653,
+          -17.71208356168869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Governador Valadares",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3127701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.297544392441786,
+          -18.233358679085903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipanema",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3131208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.95472381683017,
+          -18.234814279450276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itabirinha",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3131802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.3320684782305,
+          -19.11933744973694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itinga",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3134004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.37039810099971,
+          -17.51783832959107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itueta",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3134103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.182491685946594,
+          -17.70092064765096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Joaíma",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3136009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.51376792043871,
+          -18.18141701273005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Malacacheta",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3139201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.0011207209544,
+          -18.50462116822001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mantena",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3139607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.863037357454864,
+          -18.09905252950165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montalvânia",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3142700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.399084245649924,
+          -18.896586490532446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Formoso",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3143153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.39098220856418,
+          -18.548586456472854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mutum",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3144003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.41262496417243,
+          -17.98266787493127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nanuque",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3144300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.82202694423408,
+          -19.206991477049538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Belém",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3144672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.154874670653506,
+          -18.352582063353058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Cruzeiro",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3145307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.45171023888958,
+          -19.0023861272997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Oriente de Minas",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3145356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.10993542807653,
+          -17.71208356168869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ouro Verde de Minas",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3146206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5273667953935,
+          -17.991877043380452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Perdizes",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3149804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.598870883744134,
+          -17.89356881005411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José do Divino",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3163300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.51499654959096,
+          -18.005282154878184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Sebastião do Maranhão",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3164506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.241738232048256,
+          -18.21142557256701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serra dos Aimorés",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3166709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.20624061686728,
+          -19.2237203875302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teófilo Otoni",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3168606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.36519045430332,
+          -18.71220671483462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tumiritinga",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3169505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.248361549341055,
+          -19.427942685314687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Afonso Cláudio",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.73669616855336,
+          -18.572333232193454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Águia Branca",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 115.0,
+        "production": 115.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.777870529122055,
+          -18.608740436742465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Água Doce do Norte",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.133687096286046,
+          -18.65472340539858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Rio Novo",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.16691917257433,
+          -19.677413919387135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anchieta",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.35561172753846,
+          -19.571822207086853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aracruz",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 155.0,
+        "production": 155.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.40233057367075,
+          -19.171519172459504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baixo Guandu",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.57745136754407,
+          -18.231042764466746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra de São Francisco",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.226014953143384,
+          -18.719806864935716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Esperança",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 830.0,
+        "production": 830.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.97321636983657,
+          -19.906914748610063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colatina",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.41845521294202,
+          -19.07226579485454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Conceição da Barra",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1020.0,
+        "production": 1020.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.40868742976618,
+          -19.796527330215234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ecoporanga",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.12351315630334,
+          -19.776059105157895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fundão",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.12171266373223,
+          -19.692463833574248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Governador Lindenberg",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.64903884094358,
+          -18.339576058461063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapari",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.23012690407294,
+          -19.02162741355454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibiraçu",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.508911208057974,
+          -18.40686384709502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaguaçu",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.07441809800673,
+          -18.281290467449406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapemirim",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.56760535909489,
+          -19.51068009521447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itarana",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.35561172753846,
+          -19.571822207086853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguaré",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1900.0,
+        "production": 1900.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85726594526991,
+          -19.465903262391695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "João Neiva",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.60263050904634,
+          -19.073729087513566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Laranja da Terra",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.092044368121336,
+          -18.277408694532355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Linhares",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 325.0,
+        "production": 325.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.1987802230123,
+          -18.347987926575527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mantenópolis",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.05945755413887,
+          -19.67234499957878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marilândia",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.45112189064977,
+          -19.04059481062017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montanha",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 130.0,
+        "production": 130.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.76780899024247,
+          -19.139613856448264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mucurici",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.37255076637707,
+          -19.46597758907734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Venécia",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1487.0,
+        "production": 1487.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.65343603440307,
+          -18.664112029103798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pancas",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 58.0,
+        "production": 58.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.18938817200219,
+          -18.25156162395011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pedro Canário",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 480.0,
+        "production": 480.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.391074365022014,
+          -19.197758816009628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinheiros",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1400.0,
+        "production": 1400.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.68171377220632,
+          -19.071413526424916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ponto Belo",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.14163391316172,
+          -19.941834977993274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Kennedy",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.99395499468549,
+          -19.2342586426229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Bananal",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1800.0,
+        "production": 1800.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.35225089391452,
+          -18.787977897813633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Leopoldina",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.26813545663743,
+          -19.45966596287888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Teresa",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.333111618029506,
+          -19.194851387699273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Domingos do Norte",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 126.0,
+        "production": 126.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.88119680335442,
+          -20.14780504333206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Gabriel da Palha",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 575.0,
+        "production": 575.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.964035693198426,
+          -19.1526687043227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Mateus",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6200.0,
+        "production": 6200.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.996065458946994,
+          -19.500872333143313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Roque do Canaã",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204955"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4132450258813,
+          -18.2713314562215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serra",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 31.0,
+        "production": 31.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3205002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.40010939550534,
+          -19.28686555657266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sooretama",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 540.0,
+        "production": 540.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3205010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.899264698285805,
+          -19.259006032908882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Pavão",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3205150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.719721719248426,
+          -19.320960894194002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Valério",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1600.0,
+        "production": 1600.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3205176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.65708771187493,
+          -18.585169261766545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colniza",
+        "state": "MT",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5103254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.28052361734619,
+          -13.426855739253062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marcelândia",
+        "state": "MT",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5105580"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.779368210784064,
+          -12.756063290510708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Peixoto de Azevedo",
+        "state": "MT",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5106422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.663895868249035,
+          -12.088002959472668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Monte Verde",
+        "state": "MT",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5108956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.114453692039476,
+          -12.769660702046064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Madeira-Guaporé",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.2761393441891,
+          -11.20546669653632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Leste Rondoniense",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 63.0,
+        "production": 63.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.96844539706783,
+          -12.116625504133637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Amazonense",
+        "state": "AM",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.082519406805304,
+          -5.512529050305346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baixo Amazonas",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 956.0,
+        "production": 956.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.09816668962762,
+          -3.2046268344033133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marajó",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.24584206117708,
+          -3.3954749754700404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Belém",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1395.0,
+        "production": 1395.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92082048652647,
+          -3.2622402738902068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Paraense",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 14729.0,
+        "production": 14729.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.264773298307006,
+          -3.3611966961972977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Paraense",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 202.0,
+        "production": 202.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.551980377858,
+          -2.958038950563545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Paraense",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 422.0,
+        "production": 422.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.72890429110457,
+          -4.443654865974439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ocidental do Tocantins",
+        "state": "TO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4025450258813,
+          -9.2632314562215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeste Maranhense",
+        "state": "MA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.70457728782578,
+          -4.606648346399459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Cearense",
+        "state": "CE",
+        "crop": "Pimenta-do-reino",
+        "hectares": 23.0,
+        "production": 23.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.974546219903914,
+          -4.642416868244652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeste Potiguar",
+        "state": "RN",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.889866216462735,
+          -6.024210791968011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Agreste Paraibano",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 24.0,
+        "production": 24.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.971876300565114,
+          -6.99494814671591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mata Paraibana",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.239533886760746,
+          -7.32161865368267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Agreste Alagoano",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 32.0,
+        "production": 32.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.26173415021713,
+          -10.291402918920374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Leste Alagoano",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 169.0,
+        "production": 169.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.83493946599681,
+          -9.612516038594809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Salvador",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.90554350318315,
+          -13.259893713857387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Sul Baiano",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 39.0,
+        "production": 39.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.09173558568529,
+          -13.030702507914706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Baiano",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2901.0,
+        "production": 2901.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36618583828861,
+          -13.946601383326762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste de Minas",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.16155069261387,
+          -18.522674865109558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte de Minas",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 66.0,
+        "production": 66.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.579211618029504,
+          -18.523651387699275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequitinhonha",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.47071565498298,
+          -18.321162532942346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Mucuri",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 119.0,
+        "production": 119.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.57889144638365,
+          -17.76001346222009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Triângulo Mineiro/Alto Paranaíba",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.47071565498298,
+          -18.321162532942346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Belo Horizonte",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.727184670926086,
+          -18.69227135850887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Rio Doce",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 117.0,
+        "production": 117.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.6159334149383,
+          -18.81170366021028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Zona da Mata",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.50363974580232,
+          -17.556212101065118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Espírito-santense",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5476.0,
+        "production": 5476.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.8476054494136,
+          -18.74878751689303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Litoral Norte Espírito-santense",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 14052.0,
+        "production": 14052.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.00443934418911,
+          -18.88316669653632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Central Espírito-santense",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 103.0,
+        "production": 103.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.814382173901116,
+          -19.577124373169386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Espírito-santense",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.41861564634755,
+          -19.450584544016944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Mato-grossense",
+        "state": "MT",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.850844188611426,
+          -12.598965154944363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Velho",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.63358436368998,
+          -10.70297687930321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guajará-Mirim",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.76515579784139,
+          -11.680842345491442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ariquemes",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.07564461710045,
+          -12.465998921071138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ji-Paraná",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.54652753575108,
+          -11.014580747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alvorada D'Oeste",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.43822496417242,
+          -10.976167874931267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacoal",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 37.0,
+        "production": 37.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.79958886846444,
+          -12.106099838063882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vilhena",
+        "state": "RO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.86284000241561,
+          -10.54799261760644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boca do Acre",
+        "state": "AM",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.020784233882914,
+          -5.307865361819012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Madeira",
+        "state": "AM",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.293245247373875,
+          -4.558413124560597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santarém",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 903.0,
+        "production": 903.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.25557114812373,
+          -3.6502389890628244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Almeirim",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 53.0,
+        "production": 53.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06633462735893,
+          -4.2875946606979305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Portel",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.230490595459486,
+          -3.403120362076355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Belém",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.108025235380445,
+          -3.922960236629578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castanhal",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1375.0,
+        "production": 1375.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.59915240796179,
+          -4.611658031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salgado",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 560.0,
+        "production": 560.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.73637548043681,
+          -4.5123083914464654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bragantina",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2706.0,
+        "production": 2706.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.818484715691234,
+          -3.145389349926716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cametá",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3113.0,
+        "production": 3113.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.543245990971954,
+          -4.42066148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tomé-Açu",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4320.0,
+        "production": 4320.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.289949808748396,
+          -3.9002368313726414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guamá",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4030.0,
+        "production": 4030.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.16537346023627,
+          -4.470665780150894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaituba",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.84811027495047,
+          -2.9321150601668453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Altamira",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 180.0,
+        "production": 180.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.35017657269312,
+          -3.3428432995326123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tucuruí",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.74249294645481,
+          -4.501731052435448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paragominas",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 395.0,
+        "production": 395.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.47650420295389,
+          -4.493659525833589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Redenção",
+        "state": "PA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.74564200554793,
+          -2.8798412294877753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araguaína",
+        "state": "TO",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "17002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.404710060083296,
+          -10.982617771111492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Imperatriz",
+        "state": "MA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "21009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.38795810873852,
+          -4.817094300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibiapaba",
+        "state": "CE",
+        "crop": "Pimenta-do-reino",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.33984451785837,
+          -4.983622536568296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sobral",
+        "state": "CE",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.52479941489221,
+          -5.671209575854653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipu",
+        "state": "CE",
+        "crop": "Pimenta-do-reino",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53958886846444,
+          -6.098799838063883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serra de São Miguel",
+        "state": "RN",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "24005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.0134557879898,
+          -5.16096980303147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brejo Paraibano",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.97558789814994,
+          -7.7350488734394105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarabira",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 21.0,
+        "production": 21.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.995562550445165,
+          -7.551508435841191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Litoral Norte",
+        "state": "PB",
+        "crop": "Pimenta-do-reino",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.22096754880271,
+          -8.02093100469985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmeira dos Índios",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "27005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.67248362081896,
+          -8.721734520148265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arapiraca",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "27006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.06053897048522,
+          -9.875540352545965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serrana dos Quilombos",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "27008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.773009154431875,
+          -8.91224672211669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mata Alagoana",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "27009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.453600945484624,
+          -9.404427459184582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Litoral Norte Alagoano",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "27010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.40465128960459,
+          -8.931687607868128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maceió",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "27011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.04676392430218,
+          -10.510189359625253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel dos Campos",
+        "state": "AL",
+        "crop": "Pimenta-do-reino",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "27012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.678366704636574,
+          -9.683381211289147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio de Jesus",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.12222303532223,
+          -13.400221549686353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seabra",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.892565586101064,
+          -13.875790060770028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequié",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82395810873852,
+          -13.146694300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valença",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 269.0,
+        "production": 269.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.02002047867224,
+          -13.877424242874978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilhéus-Itabuna",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 551.0,
+        "production": 551.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31024911085011,
+          -13.482543850112666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Seguro",
+        "state": "BA",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2081.0,
+        "production": 2081.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.014135967507286,
+          -12.313598239502062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paracatu",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.6159334149383,
+          -18.81170366021028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Januária",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.76010894582834,
+          -19.100275300097763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bocaiúva",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 36.0,
+        "production": 36.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.390285527318014,
+          -19.38921997292881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capelinha",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.105916506371884,
+          -18.643366376445115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araçuaí",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.561295217940064,
+          -19.113936222566963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Almenara",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.01253388676075,
+          -18.59381865368267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teófilo Otoni",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.36519045430332,
+          -18.71220671483462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nanuque",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 39.0,
+        "production": 39.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.82202694423408,
+          -19.206991477049538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uberlândia",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.420571773329655,
+          -17.882416926893683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Patrocínio",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.94265725993869,
+          -19.06000252645475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araxá",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.969063556370294,
+          -17.98146769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itabira",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.557927431162945,
+          -17.57651965206867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Peçanha",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.49286700905304,
+          -19.36964521608288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Governador Valadares",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 44.0,
+        "production": 44.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.297544392441786,
+          -18.233358679085903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mantena",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 24.0,
+        "production": 24.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.863037357454864,
+          -18.09905252950165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aimorés",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 37.0,
+        "production": 37.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.574489945175166,
+          -19.423267033253612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cataguases",
+        "state": "MG",
+        "crop": "Pimenta-do-reino",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.08118360101849,
+          -18.157665321543114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra de São Francisco",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 265.0,
+        "production": 265.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.226014953143384,
+          -18.719806864935716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Venécia",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4807.0,
+        "production": 4807.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.65343603440307,
+          -18.664112029103798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colatina",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 404.0,
+        "production": 404.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.41845521294202,
+          -19.07226579485454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montanha",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1606.0,
+        "production": 1606.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.76780899024247,
+          -19.139613856448264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Mateus",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 9600.0,
+        "production": 9600.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.996065458946994,
+          -19.500872333143313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Linhares",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2846.0,
+        "production": 2846.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.1987802230123,
+          -18.347987926575527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Afonso Cláudio",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.73669616855336,
+          -18.572333232193454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Teresa",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 42.0,
+        "production": 42.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.333111618029506,
+          -19.194851387699273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vitória",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 31.0,
+        "production": 31.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.91489542109238,
+          -18.33085319945627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapari",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.23012690407294,
+          -19.02162741355454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapemirim",
+        "state": "ES",
+        "crop": "Pimenta-do-reino",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.56760535909489,
+          -19.51068009521447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aripuanã",
+        "state": "MT",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.72905411318224,
+          -12.05294370910438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alta Floresta",
+        "state": "MT",
+        "crop": "Pimenta-do-reino",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.317234709058894,
+          -12.558731271279006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colíder",
+        "state": "MT",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.36481745344867,
+          -12.990704298276654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sinop",
+        "state": "MT",
+        "crop": "Pimenta-do-reino",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.097712500615486,
+          -12.76735557573335
+        ]
+      }
+    }
+  ]
+}

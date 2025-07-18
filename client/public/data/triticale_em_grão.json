@@ -1,0 +1,3786 @@
+{
+  "type": "FeatureCollection",
+  "name": "Triticale (em grão)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Angatuba",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3502200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.47584963961093,
+          -24.26274685720712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Avaré",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3504503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.48195068872675,
+          -22.834607482282614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bragança Paulista",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3507605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.88077959652355,
+          -22.715548691761533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campina do Monte Alegre",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3509452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.10120629427128,
+          -22.903299981854296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerqueira César",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3511409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13138948621039,
+          -23.800892489120542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coronel Macedo",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 400.0,
+        "production": 400.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3512605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.93843252612553,
+          -24.281771511775197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Holambra",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3519055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.403931583944086,
+          -23.313465622633966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iaras",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3519253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.44327510209386,
+          -23.007318120603337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itararé",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 750.0,
+        "production": 750.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3523206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.65858362105074,
+          -24.02432637518097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinhalzinho",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3538204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.41143087693102,
+          -23.586401525378573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taquarituba",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 482.0,
+        "production": 482.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3553807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.228395985081356,
+          -22.698643550045894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vargem",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3556354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2885513842656,
+          -24.383458957692827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arapoti",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 620.0,
+        "production": 620.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4101606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.79693470905889,
+          -24.770031271279006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Ventura de São Roque",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 700.0,
+        "production": 700.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6103724423083,
+          -24.901977219032524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campina do Simão",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 400.0,
+        "production": 400.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76167051346922,
+          -24.953386363238785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Mourão",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.846920720954394,
+          -24.88562116822001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cândido de Abreu",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83925606333581,
+          -25.443124111146002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Candói",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 610.0,
+        "production": 610.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.919816344920775,
+          -25.34136417980492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cantagalo",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 470.0,
+        "production": 470.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.607389350178345,
+          -25.86485076022788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carambeí",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.052040616867274,
+          -25.6047203875302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castro",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92750372418071,
+          -24.01313181929831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Diamante do Sul",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.59324461603196,
+          -25.862150426500378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Engenheiro Beltrão",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.68304000241561,
+          -23.935492617606442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Espigão Alto do Iguaçu",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107546"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.373166795393495,
+          -24.372877043380452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fernandes Pinheiro",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.08074262281275,
+          -25.137297159343085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Foz do Jordão",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.74282215733508,
+          -25.089828523662092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Goioxim",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 730.0,
+        "production": 730.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.454613446666386,
+          -24.630998612824463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guamiranga",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64633530216167,
+          -25.698096725881076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaraniaçu",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.881118485697804,
+          -24.452803477821792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapuava",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 1500.0,
+        "production": 1500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.238220139218434,
+          -25.400236080661283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Imbituva",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4887221959319,
+          -25.599031860221547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipiranga",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.63622562632207,
+          -25.82512501192528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irati",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.81486355637029,
+          -24.36246769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ivaí",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4111407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.969943684803,
+          -23.937071724679814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguariaíva",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 160.0,
+        "production": 160.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4112009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.49953287087311,
+          -25.712520291461303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Laranjeiras do Sul",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4113304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.54455170687514,
+          -25.747071763578713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Londrina",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 48.0,
+        "production": 48.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4113700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.034373224809855,
+          -25.64167058253046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mallet",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4113908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76731425521419,
+          -24.909579981153286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marquinho",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4115457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.71278847841699,
+          -24.012077049318105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mato Rico",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4115739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.30235402513438,
+          -25.84297919779511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Cantu",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4116802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.533183155660986,
+          -24.719871459036742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Laranjeiras",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4117057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.229882907362025,
+          -25.099387026795604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ortigueira",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4117305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.68978506851128,
+          -24.926061953155056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmas",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4117602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.46319247708827,
+          -25.829885051915305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmeira",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4117701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6255625206871,
+          -24.73158484760864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmital",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4117800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.58539706529497,
+          -24.68168224406555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinhão",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 520.0,
+        "production": 520.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00429579245138,
+          -25.147328469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piraí do Sul",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03641026323701,
+          -24.470359881488754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pitanga",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.822407112720555,
+          -24.81503687078838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ponta Grossa",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83068141753443,
+          -24.213114855884015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Amazonas",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.869650071842386,
+          -24.357181283534437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Barreiro",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.96086444711162,
+          -25.165040965876653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prudentópolis",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.868452553854915,
+          -24.898126862482794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quedas do Iguaçu",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.14205540102064,
+          -24.514492082218993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rebouças",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.949165945269904,
+          -25.175703262391696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Reserva",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.687271926273105,
+          -24.900887660399174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Reserva do Iguaçu",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.39605976141473,
+          -24.970371396488478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Azul",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4122008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.70177748941396,
+          -25.602527676333438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Bonito do Iguaçu",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4122156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6255625206871,
+          -24.73158484760864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Roncador",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4122503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.11786001134039,
+          -24.057964075018898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria do Oeste",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4123857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.53831028641012,
+          -24.921987399578914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4124806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.71675099117262,
+          -24.256038493599267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João do Triunfo",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4125100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.320410878260056,
+          -25.24716393889961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sengés",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4126306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.72260283189216,
+          -25.489481804146262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teixeira Soares",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4127007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.20616826411123,
+          -24.24938626341732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tibagi",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4127502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.17223462006731,
+          -24.477363951876967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Turvo",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 230.0,
+        "production": 230.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4127965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.11123849782739,
+          -24.36543685107321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ventania",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4128534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.78865103823595,
+          -24.15224855493502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Virmond",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4128658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.71304079814284,
+          -25.6443848678938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Jesus",
+        "state": "SC",
+        "crop": "Triticale (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4202537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.77910238938425,
+          -27.209423181044475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chapecó",
+        "state": "SC",
+        "crop": "Triticale (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4204202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.350166822501016,
+          -28.035941991005163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palma Sola",
+        "state": "SC",
+        "crop": "Triticale (em grão)",
+        "hectares": 1800.0,
+        "production": 1800.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4212007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.32883207938546,
+          -27.752798770366795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vargeão",
+        "state": "SC",
+        "crop": "Triticale (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4219101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.872924656229785,
+          -26.998519137106918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Xaxim",
+        "state": "SC",
+        "crop": "Triticale (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4219705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.767765167623566,
+          -26.77621832270278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Água Santa",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00385649206964,
+          -30.714237244232002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ajuricaba",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.894838903009514,
+          -30.67207027333356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "André da Rocha",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.811051702861256,
+          -30.943900236775914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Vista do Buricá",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.13731087826006,
+          -30.388563938899612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Progresso",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302378"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.410144616031964,
+          -31.00355042650038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bozano",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.357256639884596,
+          -29.079229916679743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Braga",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.981744911454214,
+          -30.473848140915155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caçapava do Sul",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 2000.0,
+        "production": 2000.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79046642107002,
+          -30.879756432293394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caibaté",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02789045430332,
+          -30.23460671483462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camargo",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.58676829308481,
+          -30.2070048599615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campina das Missões",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06897639813501,
+          -29.849244088286923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Novo",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.32835521297558,
+          -29.314866645736835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Catuípe",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.628678779885895,
+          -29.987246352101863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Largo",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61383470905889,
+          -29.911431271279007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Charrua",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.610726733377184,
+          -30.67904044350518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chiapetta",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.35008315566099,
+          -29.861271459036743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colorado",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.51867748941397,
+          -30.74392767633344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Condor",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.10865468997908,
+          -29.077890283258007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coronel Bicaco",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.519572943556724,
+          -30.248903231724526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 278.0,
+        "production": 278.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Entre Rios do Sul",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Esperança do Sul",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76409670989132,
+          -29.992101625745462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Floriano Peixoto",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07532496417243,
+          -29.50506787493127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gaurama",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.71355731528211,
+          -29.713679190397084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Getúlio Vargas",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.96989421713804,
+          -30.94544841024332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Giruá",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.10865468997908,
+          -29.077890283258007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gramado Xavier",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.017830594396145,
+          -30.29948110814446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarani das Missões",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 450.0,
+        "production": 450.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87262523538045,
+          -30.24556023662958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacutinga",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69674211293186,
+          -30.659501287266746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jóia",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.96024439244179,
+          -29.755758679085904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lagoa dos Três Cantos",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.34560090702013,
+          -30.725022415995344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Não-Me-Toque",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.09815522783901,
+          -30.129840892980365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nicolau Vergueiro",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.32604060318059,
+          -29.266447269019444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Alvorada",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5337819853014,
+          -30.535315767978133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Ramada",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.47397262595486,
+          -29.114678139610092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmeira das Missões",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64991058307983,
+          -30.149708333619415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passo Fundo",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 2000.0,
+        "production": 2000.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9304264728308,
+          -29.775845224078708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pontão",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61979623839006,
+          -30.47776996893204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rodeio Bonito",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05368220856418,
+          -30.070986456472856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rolador",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.462535867239325,
+          -30.792932759580896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Saldanha Marinho",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61271027495047,
+          -29.254715060166845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Martinho",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05043391316172,
+          -30.793034977993276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel das Missões",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.73613990024785,
+          -29.904808049455752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Sepé",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.563145247373875,
+          -29.632113124560597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sarandi",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sede Nova",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.78488240889321,
+          -29.854419239254256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sertão",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.48970974028068,
+          -29.817676924684225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Severiano de Almeida",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.08321978370509,
+          -30.649260625377607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tenente Portela",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três Passos",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3220450258813,
+          -29.122531456221502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tupanciretã",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.520455901251715,
+          -30.255516390524875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubiretama",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61508966806201,
+          -29.172518776310934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Lângaro",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.680498121506076,
+          -29.11603781648401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Maria",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.599896440674435,
+          -30.825714606364187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bauru",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.67441462961119,
+          -22.8635032473512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campinas",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 130.0,
+        "production": 130.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03346905546602,
+          -23.619102033732982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapetininga",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 1792.0,
+        "production": 1792.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.235763562402056,
+          -23.582262487841714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Macro Metropolitana Paulista",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.851177564106806,
+          -23.630997642283617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Ocidental Paranaense",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 902.0,
+        "production": 902.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.745605438658956,
+          -25.655764730770358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Central Paranaense",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 348.0,
+        "production": 348.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.083917187437486,
+          -25.82712325441474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Oriental Paranaense",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 1740.0,
+        "production": 1740.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.49094599097195,
+          -25.60186148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeste Paranaense",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.34267898841823,
+          -24.611508750214586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Paranaense",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.59391042723109,
+          -24.47013080746991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro-Sul Paranaense",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 6602.0,
+        "production": 6602.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.37871492078486,
+          -25.44258769392081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Paranaense",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 840.0,
+        "production": 840.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.700909412698955,
+          -24.263396704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Curitiba",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.614362550445165,
+          -25.20470843584119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeste Catarinense",
+        "state": "SC",
+        "crop": "Triticale (em grão)",
+        "hectares": 2050.0,
+        "production": 2050.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56434524737387,
+          -26.8398131245606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Rio-grandense",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 6683.0,
+        "production": 6683.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.808064698285804,
+          -30.110206032908884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Rio-grandense",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95697582006793,
+          -29.547062613117284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Ocidental Rio-grandense",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 580.0,
+        "production": 580.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05512013921844,
+          -30.541636080661284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Oriental Rio-grandense",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.262714353641655,
+          -30.845451245877808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Rio-grandense",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 2000.0,
+        "production": 2000.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.39162912997211,
+          -30.424787177850607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Avaré",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.48195068872675,
+          -22.834607482282614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campinas",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03346905546602,
+          -23.619102033732982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Amparo",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.89931047300532,
+          -22.704296623417573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapeva",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 1632.0,
+        "production": 1632.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.52049899412199,
+          -23.080178868062212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapetininga",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 160.0,
+        "production": 160.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.235763562402056,
+          -23.582262487841714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bragança Paulista",
+        "state": "SP",
+        "crop": "Triticale (em grão)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.88077959652355,
+          -22.715548691761533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Goioerê",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76731425521419,
+          -24.909579981153286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Mourão",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 702.0,
+        "production": 702.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.846920720954394,
+          -24.88562116822001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Londrina",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 48.0,
+        "production": 48.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.034373224809855,
+          -25.64167058253046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ivaiporã",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.59415369203947,
+          -24.980960702046062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Telêmaco Borba",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 480.0,
+        "production": 480.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.62473054076062,
+          -24.024676074592055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguariaíva",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 910.0,
+        "production": 910.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.49953287087311,
+          -25.712520291461303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ponta Grossa",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83068141753443,
+          -24.213114855884015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cascavel",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.58539706529497,
+          -24.68168224406555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pato Branco",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.63590979512252,
+          -25.0036285469629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pitanga",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 1750.0,
+        "production": 1750.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.822407112720555,
+          -24.81503687078838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapuava",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 4702.0,
+        "production": 4702.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.238220139218434,
+          -25.400236080661283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmas",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.46319247708827,
+          -25.829885051915305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prudentópolis",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 520.0,
+        "production": 520.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.868452553854915,
+          -24.898126862482794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irati",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.81486355637029,
+          -24.36246769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Mateus do Sul",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56255724287319,
+          -24.09035359674158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lapa",
+        "state": "PR",
+        "crop": "Triticale (em grão)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.89787260513806,
+          -24.701920965597537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel do Oeste",
+        "state": "SC",
+        "crop": "Triticale (em grão)",
+        "hectares": 1800.0,
+        "production": 1800.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7511682465155,
+          -26.925424982227256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chapecó",
+        "state": "SC",
+        "crop": "Triticale (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.350166822501016,
+          -28.035941991005163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Xanxerê",
+        "state": "SC",
+        "crop": "Triticale (em grão)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.31763287087311,
+          -28.061620291461303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três Passos",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 400.0,
+        "production": 400.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3220450258813,
+          -29.122531456221502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Frederico Westphalen",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61182784898166,
+          -30.91874622395815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Erechim",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 545.0,
+        "production": 545.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87262523538045,
+          -30.24556023662958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Largo",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 545.0,
+        "production": 545.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61383470905889,
+          -29.911431271279007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 323.0,
+        "production": 323.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 680.0,
+        "production": 680.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passo Fundo",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 3220.0,
+        "production": 3220.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9304264728308,
+          -29.775845224078708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 343.0,
+        "production": 343.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Não-Me-Toque",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 125.0,
+        "production": 125.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.09815522783901,
+          -30.129840892980365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santiago",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03231315630334,
+          -30.627259105157897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02017114812373,
+          -29.972838989062826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz do Sul",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.183627535751086,
+          -29.543480747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serras de Sudeste",
+        "state": "RS",
+        "crop": "Triticale (em grão)",
+        "hectares": 2000.0,
+        "production": 2000.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.56588771187493,
+          -29.436369261766547
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,7726 @@
+{
+  "type": "FeatureCollection",
+  "name": "Noz (fruto seco)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Amparo",
+        "state": "SP",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3501905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.89931047300532,
+          -22.704296623417573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valinhos",
+        "state": "SP",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3556206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.25600365736925,
+          -23.5206240919845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barracão",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4102604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.76618471569123,
+          -24.326589349926717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Esperança do Iguaçu",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.86852048652647,
+          -24.443440273890207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Jesus do Sul",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.877030975482334,
+          -25.68178159947719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Sucesso do Sul",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.349033489323666,
+          -25.451520778129773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Céu Azul",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4105300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.035722887203534,
+          -24.47123546440743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chopinzinho",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4105409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.48600633387573,
+          -25.368785168630648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cornélio Procópio",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 21.0,
+        "production": 21.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.25197381928332,
+          -25.548761538296265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruzeiro do Iguaçu",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83964205525845,
+          -25.335075226414148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Machado",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.006930007246375,
+          -24.101395249985966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Diamante D'Oeste",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0040009193925,
+          -24.449187461367206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dois Vizinhos",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.77826724281921,
+          -25.06298782462215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Enéas Marques",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.006930007246375,
+          -24.101395249985966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Flor da Serra do Sul",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.20616826411123,
+          -24.24938626341732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Foz do Iguaçu",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.405426612692544,
+          -24.079499781597697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Francisco Beltrão",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.091338056516925,
+          -25.79294177899794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jataizinho",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4112702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.88643960604288,
+          -24.252315909568765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lindoeste",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4113452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.090580867118895,
+          -24.266833645795863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mallet",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4113908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76731425521419,
+          -24.909579981153286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manfrinópolis",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4114351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.357446083487865,
+          -25.277885439429678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mariópolis",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4115309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.47620992833123,
+          -25.439788281237902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marmeleiro",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4115408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.340549424278734,
+          -25.8241704162861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Matelândia",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4115606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.74779360973116,
+          -24.33236526183401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Medianeira",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4115804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.27114066020871,
+          -23.944729705739036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Missal",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4116059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3442117528275,
+          -24.686297221228934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Esperança do Sudoeste",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4116950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.86106336389782,
+          -25.26232962239311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pato Branco",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4118501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.63590979512252,
+          -25.0036285469629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ramilândia",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4887221959319,
+          -25.599031860221547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Renascença",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.748987711874925,
+          -24.294969261766546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rondon",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4122602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.46604824035819,
+          -25.806140052381515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salgado Filho",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4122800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.78741844576264,
+          -24.849232180575015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Lúcia",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4123824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.58535579784139,
+          -25.06834234549144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4124806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.71675099117262,
+          -24.256038493599267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Jorge d'Oeste",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4125209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09373218589343,
+          -23.946398659787924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José das Palmeiras",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4125456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.351673873815855,
+          -24.358643268889086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serranópolis do Iguaçu",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4126355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.35956792043871,
+          -24.56241701273005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uraí",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4128401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.10320487267088,
+          -24.682720239196208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vera Cruz do Oeste",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4128559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.71636039864061,
+          -24.478743810826323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Verê",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4128609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.75097227572641,
+          -24.014991735361797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vitorino",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4128708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02350365736925,
+          -24.863324091984502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Águas de Chapecó",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4200507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.50820137433332,
+          -27.207733080068966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arroio Trinta",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4201604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.55063056443912,
+          -28.18223269172884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caibi",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4203105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.52165590125171,
+          -27.463216390524874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipira",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4207601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.218048128437246,
+          -28.115404329448655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itá",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4208005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.41891120805797,
+          -26.465763847095022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Morro da Fumaça",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4211207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.53415099448683,
+          -26.662972167733788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmitos",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4212106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7511682465155,
+          -26.925424982227256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salto Veloso",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4215406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.49470429110457,
+          -27.97395486597444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Rosa de Lima",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4215604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.17624237432208,
+          -26.452944541296375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José do Cedro",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4216701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.066861448058035,
+          -27.82618545279548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seara",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4217501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.818774670653504,
+          -27.082682063353058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Água Santa",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00385649206964,
+          -30.714237244232002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Agudo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8805641728846,
+          -29.808281139614525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ajuricaba",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.894838903009514,
+          -30.67207027333356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alecrim",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.810806050275204,
+          -30.943381395829213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alegrete",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.483710473005324,
+          -29.188396623417574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alegria",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.218983211957834,
+          -29.54032014928488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alpestre",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.341634352288196,
+          -30.61325792406341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Alegre",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.483710473005324,
+          -29.188396623417574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ametista do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.64055585722682,
+          -29.142222940070237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "André da Rocha",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.811051702861256,
+          -30.943900236775914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anta Gorda",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 480.0,
+        "production": 480.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.723182173901115,
+          -30.42832437316939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Antônio Prado",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.72125724995553,
+          -29.983726983168275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arroio do Meio",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.89042307843592,
+          -29.950951723874898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arroio dos Ratos",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.43980558145818,
+          -30.059041042280082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arroio do Tigre",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.85043595022391,
+          -30.406791583152753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arvorezinha",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.65517653150118,
+          -29.164735001876696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Augusto Pestana",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.567926459995846,
+          -29.832750641612215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Áurea",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.14744418861142,
+          -29.95166515494436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barão",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.327935415247204,
+          -30.889347303301946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barão do Triunfo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.13966330624567,
+          -29.104192005647867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra Funda",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90699205452306,
+          -30.83153624434574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barros Cassal",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.391372881370025,
+          -30.60008109997756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Benjamin Constant do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95109492688025,
+          -30.650480330418738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bento Gonçalves",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.567872275726415,
+          -29.156391735361797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Vista do Buricá",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.13731087826006,
+          -30.388563938899612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Vista do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.32048844401365,
+          -29.18486949674811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Princípio",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95697582006793,
+          -29.547062613117284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boqueirão do Leão",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.961842098449914,
+          -30.43754492324817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bozano",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.357256639884596,
+          -29.079229916679743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brochier",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.21328202099369,
+          -30.54756447458133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Butiá",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.41081042723109,
+          -29.61153080746991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caçapava do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79046642107002,
+          -30.879756432293394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacequi",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.90081718743749,
+          -30.96852325441474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 880.0,
+        "production": 880.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60166052156125,
+          -29.97518757011881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacique Doble",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.49623897048522,
+          -30.338840352545965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caibaté",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02789045430332,
+          -30.23460671483462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caiçara",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.34896682250102,
+          -30.828241991005164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camaquã",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.67322434309931,
+          -29.335749968045135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campina das Missões",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06897639813501,
+          -29.849244088286923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campinas do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.014165848701914,
+          -30.985279935446755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Candelária",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82078764708399,
+          -30.481810386887396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cândido Godói",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.30890939550534,
+          -30.138065556572663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Candiota",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.42280894582834,
+          -30.622675300097765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canguçu",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76409670989132,
+          -29.992101625745462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canudos do Vale",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56223603440307,
+          -29.5153120291038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capão do Leão",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.73839994498661,
+          -29.505026157271935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capela de Santana",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.64055585722682,
+          -29.142222940070237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capitão",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3099489632236,
+          -29.647983971547635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carlos Barbosa",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82469190385127,
+          -29.87922950145184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Catuípe",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.628678779885895,
+          -29.987246352101863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centenário",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.51837339753504,
+          -30.0464216392555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Branco",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.677963363897824,
+          -30.40372962239311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Grande",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.30890939550534,
+          -30.138065556572663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Largo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61383470905889,
+          -29.911431271279007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chapada",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4573355541557,
+          -30.934005003898324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chiapetta",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.35008315566099,
+          -29.861271459036743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chuvisca",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.110531493557296,
+          -30.688748316824135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ciríaco",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.767306935552696,
+          -29.97698786191762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colinas",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.25524922987324,
+          -30.800171777410736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Constantina",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.202031797134396,
+          -29.474594048186617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coronel Barros",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.53295099448683,
+          -29.45527216773379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coronel Pilar",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.94149815525181,
+          -30.077273607069415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cotiporã",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95323400884244,
+          -29.893943153726255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Crissiumal",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.17434608348787,
+          -30.41928543942968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cristal",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.33686820310048,
+          -29.437956973605775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruzeiro do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.43557756410681,
+          -30.11509764228362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "David Canabarro",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.628678779885895,
+          -29.987246352101863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dilermando de Aguiar",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.42834075141079,
+          -30.793195569576575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dois Irmãos",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95895958846506,
+          -30.143540221212106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dois Lajeados",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.09404789366699,
+          -29.471483407765128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dom Feliciano",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.638866184891384,
+          -29.2502582369199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dom Pedrito",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 93.0,
+        "production": 93.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.810806050275204,
+          -30.943381395829213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dona Francisca",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0438592866787,
+          -29.889247473717596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Doutor Maurício Cardoso",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1292415494081,
+          -30.55867074581622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Doutor Ricardo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.28452538291511,
+          -29.538194928243527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Encantado",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.52283252612553,
+          -30.7658715117752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Encruzilhada do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 155.0,
+        "production": 155.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.85043595022391,
+          -30.406791583152753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Entre-Ijuís",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83405235774225,
+          -30.70217112886631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Erebango",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.531335537036135,
+          -30.78952597364962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Erechim",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87262523538045,
+          -30.24556023662958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ernestina",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.25998861893537,
+          -30.75212587209159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Espumoso",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98327858646141,
+          -29.55950081975363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Estância Velha",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.506660065305155,
+          -29.87161534786917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Estrela",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.06635068872675,
+          -29.318707482282615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Estrela Velha",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.707202611520735,
+          -29.744867979473955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fagundes Varela",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.402297065294974,
+          -29.82308224406555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Faxinal do Soturno",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.539502831892165,
+          -30.630881804146263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Feliz",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.866485399872616,
+          -29.513741422273025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Flores da Cunha",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.64758141753443,
+          -29.354514855884016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Floriano Peixoto",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07532496417243,
+          -29.50506787493127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fontoura Xavier",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.629541918482644,
+          -29.215061524152258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Formigueiro",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60964155073011,
+          -29.156350777446068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Forquetinha",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308433"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.399865586101065,
+          -30.61989006077003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Frederico Westphalen",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61182784898166,
+          -30.91874622395815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Garibaldi",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7566272758318,
+          -30.707914462107325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Garruchos",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.99169566321857,
+          -30.389416044055924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gaurama",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.71355731528211,
+          -29.713679190397084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "General Câmara",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 115.0,
+        "production": 115.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.052985527318015,
+          -30.91161997292881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Getúlio Vargas",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.96989421713804,
+          -30.94544841024332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gramado",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.30349075473844,
+          -29.95175862421302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gramado Xavier",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.017830594396145,
+          -30.29948110814446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guabiju",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.141381496442115,
+          -30.916499684984394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarani das Missões",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87262523538045,
+          -30.24556023662958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Herveiras",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.941416574571306,
+          -30.223368715326174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Horizontina",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.04039458556629,
+          -29.89983642263344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibarama",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55783884094358,
+          -29.190776058461065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibiaçá",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.76935420582752,
+          -29.361055259085543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibirapuitã",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.765732864555154,
+          -29.222175312561262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Igrejinha",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61883622086989,
+          -30.23712979358967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilópolis",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.71793352980785,
+          -29.9329564760762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Imigrante",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.628678779885895,
+          -29.987246352101863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Independência",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.64787728782578,
+          -29.68034834639946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iraí",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.765732864555154,
+          -29.222175312561262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itacurubi",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00010429218059,
+          -30.43387525540378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapuca",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.25998861893537,
+          -30.75212587209159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaqui",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.94531611890092,
+          -29.430584998531767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itatiba do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.252955118590215,
+          -30.242074192837908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ivorá",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.95599566619313,
+          -30.808685659647676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ivoti",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03118669467098,
+          -29.038294476257462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacutinga",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69674211293186,
+          -30.659501287266746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguari",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.10702557656077,
+          -30.23417215322353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jóia",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.96024439244179,
+          -29.755758679085904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Júlio de Castilhos",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.36375240796179,
+          -30.93425803166689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lagoa Bonita do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85806210270937,
+          -29.181974282985973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lagoão",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.71050382217634,
+          -29.696382024635348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lajeado",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.792173769647654,
+          -29.380258869315373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Liberato Salzano",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.31972169544111,
+          -29.326021123652286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maçambará",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.222872030813114,
+          -30.675845845804666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marau",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.337972030450025,
+          -29.691165546404775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mariana Pimentel",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79046642107002,
+          -30.879756432293394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marques de Souza",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.712744617100455,
+          -30.99489892107114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mata",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.11943953164027,
+          -30.89536065939014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Minas do Leão",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 110.0,
+        "production": 110.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.114776572693124,
+          -29.665443299532612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montauri",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24110420295389,
+          -30.81625952583359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Belo do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.452809795122526,
+          -30.1450285469629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montenegro",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 37.0,
+        "production": 37.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.643191796067555,
+          -30.21371447055403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Morro Redondo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.84934725218752,
+          -30.241825061469225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Morro Reuter",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.62416574919465,
+          -30.688253795840396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Muçum",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82090091939251,
+          -29.590587461367207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Não-Me-Toque",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.09815522783901,
+          -30.129840892980365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nonoai",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0521837755554,
+          -30.786083906040968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Alvorada",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5337819853014,
+          -30.535315767978133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Araçá",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.911061549341056,
+          -30.950342685314688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Bassano",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.54245744996065,
+          -29.904410808322886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Boa Vista",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312955"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.254252898061424,
+          -29.91230474789222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Bréscia",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.39121436714348,
+          -30.9008320473145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Hartz",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.76710787344309,
+          -30.81028199471913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Pádua",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.21341911275053,
+          -30.474969052854025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Palma",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.175132588358764,
+          -29.521342241292967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Petrópolis",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.47318223830621,
+          -29.935588376186452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Prata",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.700122120861494,
+          -29.708715769163092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Cabrais",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.93696281984721,
+          -29.118181240365455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Hamburgo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.08422535607398,
+          -30.75282757019367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Machado",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.50709294645481,
+          -30.82433105243545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Tiradentes",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.87642566668076,
+          -29.69562051255475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Xingu",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.394312500615484,
+          -30.12005557573335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Barreiro",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.58643127393497,
+          -30.77355954019866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmitinho",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83867686033237,
+          -30.239622246037086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Panambi",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pantano Grande",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 73.0,
+        "production": 73.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.137723055032275,
+          -30.15420100823503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paraí",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paraíso do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.753902258052165,
+          -29.176445982508643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parobé",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.563145247373875,
+          -29.632113124560597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passa Sete",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.087150222213694,
+          -29.432340743404925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passo do Sobrado",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.52143596750729,
+          -29.057698239502063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passo Fundo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9304264728308,
+          -29.775845224078708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paverama",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.270639465996815,
+          -30.07581603859481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Picada Café",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.49350429110457,
+          -30.76625486597444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinhal Grande",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82078764708399,
+          -30.481810386887396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinheirinho do Vale",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.6201387294905,
+          -29.125200206944516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinto Bandeira",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.80625200203784,
+          -29.873085670132088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pirapó",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.29220134275215,
+          -30.852472938869774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Planalto",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.98576942584755,
+          -30.738257587225835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pontão",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61979623839006,
+          -30.47776996893204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Lucena",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.47590243512395,
+          -30.136454018876627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Vera Cruz",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.43877975654458,
+          -29.422557059979727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Xavier",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.48178356456136,
+          -29.11231757788846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Progresso",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.331258108738524,
+          -29.890794300099888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Putinga",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.316580377858,
+          -29.280638950563546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quevedos",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82684740478145,
+          -29.195363401456397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quinze de Novembro",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.00874638940012,
+          -30.25869906001278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Relvado",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4424625206871,
+          -29.87298484760864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Restinga Sêca",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9337748215832,
+          -29.317088685731573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio dos Índios",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03266017791763,
+          -29.330353595772536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Pardo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 82.0,
+        "production": 82.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.88706581835773,
+          -29.92222214618879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Riozinho",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.525535412293216,
+          -30.952054664025038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Roca Sales",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 45.0,
+        "production": 45.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.92997346023627,
+          -30.793265780150897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rolante",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4424625206871,
+          -29.87298484760864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ronda Alta",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.304255283030614,
+          -30.7052507314162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rondinha",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.052985527318015,
+          -30.91161997292881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Roque Gonzales",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.564693609731165,
+          -29.47376526183401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rosário do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.01120664605113,
+          -30.677171290844502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Saldanha Marinho",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61271027495047,
+          -29.254715060166845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salvador das Missões",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.17097803240259,
+          -29.92052370365263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salvador do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.77762721177462,
+          -30.909754777078543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sananduva",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87172465622979,
+          -29.79081913710692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cecília do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0438592866787,
+          -29.889247473717596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Clara do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03375505201186,
+          -29.46650827962011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.183627535751086,
+          -29.543480747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02017114812373,
+          -29.972838989062826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Margarida do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.558921891137395,
+          -29.228102040570743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santana da Boa Vista",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.800568480594144,
+          -30.989136448570743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sant'Ana do Livramento",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 47.0,
+        "production": 47.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.91323934418911,
+          -29.734366696536323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Rosa",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santiago",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 24.0,
+        "production": 24.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03231315630334,
+          -30.627259105157897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Cristo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.58676829308481,
+          -30.2070048599615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Expedito do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.533484044681444,
+          -30.853083635152156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Borja",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.436688868464444,
+          -30.634999838063884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Francisco de Assis",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.37981346699854,
+          -30.75305814787833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Gabriel",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 27.0,
+        "production": 27.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3187649125767,
+          -29.43992482472652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João da Urtiga",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.33013005867878,
+          -29.203692387139984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João do Polêsine",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.79470902800316,
+          -30.964144312410934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José das Missões",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.51041673963081,
+          -29.74356319418129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José do Herval",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.49623897048522,
+          -30.338840352545965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José do Hortêncio",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.229146973902864,
+          -31.03222877421514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.45312562632208,
+          -30.96652501192528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Lourenço do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.555379445101615,
+          -30.321803586474555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Marcos",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7564054494136,
+          -29.599987516893034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Martinho",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05043391316172,
+          -30.793034977993276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel das Missões",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.73613990024785,
+          -29.904808049455752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Paulo das Missões",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06402309288423,
+          -30.57244197006219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Pedro da Serra",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83867686033237,
+          -30.239622246037086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Pedro do Butiá",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.98759479631006,
+          -30.6354225872918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Pedro do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.93990555756013,
+          -29.28797072142647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Sepé",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.563145247373875,
+          -29.632113124560597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Valentim",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.64758141753443,
+          -29.354514855884016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Valentim do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.16593348932367,
+          -30.592920778129773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Valério do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.175132588358764,
+          -29.521342241292967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Vicente do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.622221672629564,
+          -29.131365495542802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sarandi",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 46.0,
+        "production": 46.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seberi",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.985415284539926,
+          -30.716279545186882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Segredo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.44537016393726,
+          -29.91101448584461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sentinela do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.70333960604288,
+          -29.393715909568762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serafina Corrêa",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.25299217358934,
+          -30.046934699116857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sério",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2770557879898,
+          -29.792969803031472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sertão Santana",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.37948304687498,
+          -31.011060154160727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Severiano de Almeida",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.08321978370509,
+          -30.649260625377607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Silveira Martins",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.77762721177462,
+          -30.909754777078543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sinimbu",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.71578948621039,
+          -30.284992489120544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tapejara",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.95599566619313,
+          -30.808685659647676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taquara",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.90443823204826,
+          -29.73382557256701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taquari",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.520455901251715,
+          -30.255516390524875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taquaruçu do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.77263542807653,
+          -29.23448356168869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teutônia",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.941416574571306,
+          -30.223368715326174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Toropi",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.786843684803,
+          -29.078471724679815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Travesseiro",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.75626162737905,
+          -30.272558620008457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três de Maio",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.988636979004255,
+          -29.25741440066726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três Palmeiras",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.23271953934971,
+          -29.49449730408217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três Passos",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3220450258813,
+          -29.122531456221502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Trindade do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.52283252612553,
+          -30.7658715117752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tucunduva",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.24971923531873,
+          -29.894020483579453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tunas",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.81579028937262,
+          -29.373258432872685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tupanci do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1043165397052,
+          -30.04562512804113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tuparendi",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.50994843732492,
+          -29.99587001689718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "União da Serra",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.58973710114393,
+          -29.287531092532188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uruguaiana",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 29.0,
+        "production": 29.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.99509059545949,
+          -29.725720362076355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Sol",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.402297065294974,
+          -29.82308224406555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Venâncio Aires",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.21341911275053,
+          -30.474969052854025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vera Cruz",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.305732548604,
+          -29.665435226405776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Viamão",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.51143050904634,
+          -29.92492908751357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vicente Dutra",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.33809732652119,
+          -30.37039566541448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Flores",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.61897271284029,
+          -30.287927625504476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Maria",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.599896440674435,
+          -30.825714606364187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Nova do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 28.0,
+        "production": 28.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.40601969960511,
+          -30.859707232757728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vista Alegre do Prata",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.34584212293377,
+          -30.666516651531175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Westfália",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.57546633216113,
+          -29.363201036490363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campinas",
+        "state": "SP",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03346905546602,
+          -23.619102033732982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Paranaense",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09082002838497,
+          -23.91729406615929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Pioneiro Paranaense",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 108.0,
+        "production": 108.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.03028401407092,
+          -25.375183016569054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeste Paranaense",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 46.0,
+        "production": 46.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.34267898841823,
+          -24.611508750214586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Paranaense",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 32.0,
+        "production": 32.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.59391042723109,
+          -24.47013080746991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Paranaense",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.700909412698955,
+          -24.263396704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeste Catarinense",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 119.0,
+        "production": 119.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56434524737387,
+          -26.8398131245606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Catarinense",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.88148968557824,
+          -27.494507080803864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Rio-grandense",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 623.0,
+        "production": 623.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.808064698285804,
+          -30.110206032908884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Rio-grandense",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 722.0,
+        "production": 722.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95697582006793,
+          -29.547062613117284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Ocidental Rio-grandense",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 376.0,
+        "production": 376.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05512013921844,
+          -30.541636080661284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Oriental Rio-grandense",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1470.0,
+        "production": 1470.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.262714353641655,
+          -30.845451245877808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Porto Alegre",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 598.0,
+        "production": 598.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02017114812373,
+          -29.972838989062826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Rio-grandense",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 331.0,
+        "production": 331.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85262288720354,
+          -29.612635464407433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Rio-grandense",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 307.0,
+        "production": 307.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.39162912997211,
+          -30.424787177850607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campinas",
+        "state": "SP",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03346905546602,
+          -23.619102033732982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Amparo",
+        "state": "SP",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.89931047300532,
+          -22.704296623417573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cianorte",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.35497047269042,
+          -24.176641428066382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Assaí",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 87.0,
+        "production": 87.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.46762538291511,
+          -24.396794928243526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cornélio Procópio",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 21.0,
+        "production": 21.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.25197381928332,
+          -25.548761538296265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Toledo",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.952454205827514,
+          -24.219655259085542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cascavel",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.58539706529497,
+          -24.68168224406555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Foz do Iguaçu",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 28.0,
+        "production": 28.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.405426612692544,
+          -24.079499781597697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Francisco Beltrão",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 21.0,
+        "production": 21.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.091338056516925,
+          -25.79294177899794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pato Branco",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.63590979512252,
+          -25.0036285469629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irati",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.81486355637029,
+          -24.36246769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "União da Vitória",
+        "state": "PR",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.217594783840866,
+          -24.529190878824046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel do Oeste",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7511682465155,
+          -26.925424982227256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chapecó",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 87.0,
+        "production": 87.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.350166822501016,
+          -28.035941991005163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Joaçaba",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.053383775555396,
+          -27.993783906040967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Concórdia",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.350166822501016,
+          -28.035941991005163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tubarão",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8425883117854,
+          -26.87319240843538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Criciúma",
+        "state": "SC",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.07652496417243,
+          -26.71276787493127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Rosa",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três Passos",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3220450258813,
+          -29.122531456221502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Frederico Westphalen",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 125.0,
+        "production": 125.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61182784898166,
+          -30.91874622395815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Erechim",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 64.0,
+        "production": 64.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87262523538045,
+          -30.24556023662958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sananduva",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 87.0,
+        "production": 87.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87172465622979,
+          -29.79081913710692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Largo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 36.0,
+        "production": 36.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61383470905889,
+          -29.911431271279007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 39.0,
+        "production": 39.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passo Fundo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 55.0,
+        "production": 55.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9304264728308,
+          -29.775845224078708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 29.0,
+        "production": 29.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Não-Me-Toque",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.09815522783901,
+          -30.129840892980365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Soledade",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 27.0,
+        "production": 27.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90823805651693,
+          -30.93434177899794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 625.0,
+        "production": 625.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caxias do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 97.0,
+        "production": 97.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09162937177835,
+          -30.728847107455984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santiago",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 43.0,
+        "production": 43.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03231315630334,
+          -30.627259105157897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 293.0,
+        "production": 293.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02017114812373,
+          -29.972838989062826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Restinga Seca",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.72507562254052,
+          -29.076426050898263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 126.0,
+        "production": 126.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.183627535751086,
+          -29.543480747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lajeado-Estrela",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 289.0,
+        "production": 289.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64962427481441,
+          -29.634378444921094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Sul",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 1055.0,
+        "production": 1055.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60166052156125,
+          -29.97518757011881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montenegro",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 92.0,
+        "production": 92.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.643191796067555,
+          -30.21371447055403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gramado-Canela",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 45.0,
+        "production": 45.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.82458112408905,
+          -29.84946383782344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Jerônimo",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 260.0,
+        "production": 260.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98928745779012,
+          -30.079441848766102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Alegre",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 103.0,
+        "production": 103.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00385649206964,
+          -30.714237244232002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camaquã",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 98.0,
+        "production": 98.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.67322434309931,
+          -29.335749968045135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campanha Ocidental",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 146.0,
+        "production": 146.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24159144638365,
+          -29.28241346222009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campanha Central",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 92.0,
+        "production": 92.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.98252750044917,
+          -30.428067186059028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campanha Meridional",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 93.0,
+        "production": 93.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.608198591764925,
+          -29.234152240281375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serras de Sudeste",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 197.0,
+        "production": 197.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.56588771187493,
+          -29.436369261766547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pelotas",
+        "state": "RS",
+        "crop": "Noz (fruto seco)",
+        "hectares": 110.0,
+        "production": 110.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.11187533791058,
+          -31.02863466779344
+        ]
+      }
+    }
+  ]
+}

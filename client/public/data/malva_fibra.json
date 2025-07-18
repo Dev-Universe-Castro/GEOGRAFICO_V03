@@ -1,0 +1,606 @@
+{
+  "type": "FeatureCollection",
+  "name": "Malva (fibra)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anamã",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.058035415247204,
+          -5.815647303301946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anori",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 320.0,
+        "production": 320.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0488649125767,
+          -4.366224824726519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Beruri",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.67284396082554,
+          -4.133614054890217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caapiranga",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.45830583390284,
+          -5.893920405783088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coari",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 380.0,
+        "production": 380.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.10958304687498,
+          -5.937360154160725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Codajás",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.14335139129463,
+          -3.969810080263935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manacapuru",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 380.0,
+        "production": 380.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.687089496109195,
+          -4.135109972986614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manaquiri",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.157381682101665,
+          -4.313285516071824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nhamundá",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.66706281984721,
+          -4.044481240365454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parintins",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.144124969345334,
+          -4.21341751361353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Augusto Corrêa",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.65695353186815,
+          -3.4786588363896054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Piriá",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 180.0,
+        "production": 180.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.91643536676947,
+          -2.967668039344036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capitão Poço",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.17559792527761,
+          -4.058575313401521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Garrafão do Norte",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503077"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.87595585722682,
+          -2.819622940070236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irituia",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.216899367146624,
+          -4.292638041258286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Juruti",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.107046219903914,
+          -2.8560168682446516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Esperança do Piriá",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.97413011045065,
+          -3.3119098434865046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ourém",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.49213866879741,
+          -3.9889544501718497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Peixe-Boi",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00196516762357,
+          -3.2459183227027775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Luzia do Pará",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92933097548234,
+          -4.500581599477189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Viseu",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.57349732652119,
+          -4.047795665414481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Amazonense",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 1538.0,
+        "production": 1538.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.64151384552595,
+          -5.484575625354871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baixo Amazonas",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.09816668962762,
+          -3.2046268344033133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Paraense",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 648.0,
+        "production": 648.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.264773298307006,
+          -3.3611966961972977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coari",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 1103.0,
+        "production": 1103.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.10958304687498,
+          -5.937360154160725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manaus",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 398.0,
+        "production": 398.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.316766095329115,
+          -5.633565333549862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parintins",
+        "state": "AM",
+        "crop": "Malva (fibra)",
+        "hectares": 37.0,
+        "production": 37.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.144124969345334,
+          -4.21341751361353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Óbidos",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.561440603180586,
+          -2.9438472690194444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bragantina",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.818484715691234,
+          -3.145389349926716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guamá",
+        "state": "PA",
+        "crop": "Malva (fibra)",
+        "hectares": 628.0,
+        "production": 628.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.16537346023627,
+          -4.470665780150894
+        ]
+      }
+    }
+  ]
+}

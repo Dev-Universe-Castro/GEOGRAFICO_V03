@@ -1,0 +1,4566 @@
+{
+  "type": "FeatureCollection",
+  "name": "Cevada (em grão)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paracatu",
+        "state": "MG",
+        "crop": "Cevada (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3147006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.6159334149383,
+          -18.81170366021028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Perdizes",
+        "state": "MG",
+        "crop": "Cevada (em grão)",
+        "hectares": 310.0,
+        "production": 310.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3149804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.598870883744134,
+          -17.89356881005411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapeva",
+        "state": "SP",
+        "crop": "Cevada (em grão)",
+        "hectares": 2000.0,
+        "production": 2000.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3522406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.52049899412199,
+          -23.080178868062212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itararé",
+        "state": "SP",
+        "crop": "Cevada (em grão)",
+        "hectares": 1050.0,
+        "production": 1050.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3523206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.65858362105074,
+          -24.02432637518097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paranapanema",
+        "state": "SP",
+        "crop": "Cevada (em grão)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3535804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.45892664495474,
+          -24.445772802298112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taquarituba",
+        "state": "SP",
+        "crop": "Cevada (em grão)",
+        "hectares": 270.0,
+        "production": 270.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3553807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.228395985081356,
+          -22.698643550045894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taquarivaí",
+        "state": "SP",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3553856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20777376964765,
+          -22.89615886931537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Antônio Olinto",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4101309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24488424564992,
+          -25.277586490532446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arapoti",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 4600.0,
+        "production": 4600.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4101606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.79693470905889,
+          -24.770031271279006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araucária",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 340.0,
+        "production": 340.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4101804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4601557879898,
+          -24.65156980303147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Balsa Nova",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 530.0,
+        "production": 530.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4102307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.091338056516925,
+          -25.79294177899794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Ventura de São Roque",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 550.0,
+        "production": 550.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6103724423083,
+          -24.901977219032524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campina do Simão",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 1600.0,
+        "production": 1600.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76167051346922,
+          -24.953386363238785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Largo",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 530.0,
+        "production": 530.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.26471057098614,
+          -24.72857977491484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Magro",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.008795000128536,
+          -25.302393010783707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Candói",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 6900.0,
+        "production": 6900.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.919816344920775,
+          -25.34136417980492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cantagalo",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.607389350178345,
+          -25.86485076022788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carambeí",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 2500.0,
+        "production": 2500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.052040616867274,
+          -25.6047203875302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castro",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 2400.0,
+        "production": 2400.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92750372418071,
+          -24.01313181929831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chopinzinho",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4105409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.48600633387573,
+          -25.368785168630648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Contenda",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 960.0,
+        "production": 960.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.30232176534693,
+          -25.66425747648275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fernandes Pinheiro",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 400.0,
+        "production": 400.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.08074262281275,
+          -25.137297159343085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Foz do Jordão",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 1500.0,
+        "production": 1500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.74282215733508,
+          -25.089828523662092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Goioxim",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.454613446666386,
+          -24.630998612824463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guamiranga",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64633530216167,
+          -25.698096725881076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapuava",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 19900.0,
+        "production": 19900.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.238220139218434,
+          -25.400236080661283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Honório Serpa",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.21685505201186,
+          -24.32510827962011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Imbaú",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.59324461603196,
+          -25.862150426500378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Imbituva",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 900.0,
+        "production": 900.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4887221959319,
+          -25.599031860221547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipiranga",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 2800.0,
+        "production": 2800.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.63622562632207,
+          -25.82512501192528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irati",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.81486355637029,
+          -24.36246769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ivaí",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 490.0,
+        "production": 490.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4111407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.969943684803,
+          -23.937071724679814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguariaíva",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 2270.0,
+        "production": 2270.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4112009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.49953287087311,
+          -25.712520291461303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lapa",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 1619.0,
+        "production": 1619.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4113205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.89787260513806,
+          -24.701920965597537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mallet",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4113908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76731425521419,
+          -24.909579981153286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marilândia do Sul",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 145.0,
+        "production": 145.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4114906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.50058742976618,
+          -25.506327330215235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mauá da Serra",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 225.0,
+        "production": 225.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4115754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.68763266958743,
+          -24.56867784565742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ortigueira",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 223.0,
+        "production": 223.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4117305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.68978506851128,
+          -24.926061953155056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ouro Verde do Oeste",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4117453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4500959606196,
+          -25.608704835266625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmeira",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 1650.0,
+        "production": 1650.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4117701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6255625206871,
+          -24.73158484760864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paula Freitas",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4118600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83964205525845,
+          -25.335075226414148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paulo Frontin",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4118709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.63292119003692,
+          -24.573506739129854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinhão",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 7100.0,
+        "production": 7100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00429579245138,
+          -25.147328469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piraí do Sul",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 700.0,
+        "production": 700.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03641026323701,
+          -24.470359881488754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piraquara",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.008795000128536,
+          -25.302393010783707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pitanga",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 450.0,
+        "production": 450.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.822407112720555,
+          -24.81503687078838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ponta Grossa",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 4600.0,
+        "production": 4600.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83068141753443,
+          -24.213114855884015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prudentópolis",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.868452553854915,
+          -24.898126862482794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quitandinha",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 272.0,
+        "production": 272.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.140361891362225,
+          -24.94088347554131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rebouças",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.949165945269904,
+          -25.175703262391696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Reserva",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.687271926273105,
+          -24.900887660399174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Reserva do Iguaçu",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 4600.0,
+        "production": 4600.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.39605976141473,
+          -24.970371396488478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Azul",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4122008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.70177748941396,
+          -25.602527676333438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria do Oeste",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 153.0,
+        "production": 153.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4123857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.53831028641012,
+          -24.921987399578914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João do Triunfo",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4125100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.320410878260056,
+          -25.24716393889961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José da Boa Vista",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 265.0,
+        "production": 265.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4125407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.08983717009833,
+          -25.792251602483493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José dos Pinhais",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4125506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.16851528453992,
+          -25.57487954518688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Mateus do Sul",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4125605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56255724287319,
+          -24.09035359674158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sulina",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4126652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.64744938859449,
+          -24.61414389823118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teixeira Soares",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 1500.0,
+        "production": 1500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4127007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.20616826411123,
+          -24.24938626341732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Telêmaco Borba",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 92.0,
+        "production": 92.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4127106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.62473054076062,
+          -24.024676074592055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tibagi",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 7130.0,
+        "production": 7130.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4127502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.17223462006731,
+          -24.477363951876967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Turvo",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 600.0,
+        "production": 600.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4127965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.11123849782739,
+          -24.36543685107321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Wenceslau Braz",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 840.0,
+        "production": 840.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4128500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.869650071842386,
+          -24.357181283534437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Água Doce",
+        "state": "SC",
+        "crop": "Cevada (em grão)",
+        "hectares": 110.0,
+        "production": 110.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4200408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.945789269775716,
+          -26.79253477940549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capão Alto",
+        "state": "SC",
+        "crop": "Cevada (em grão)",
+        "hectares": 362.0,
+        "production": 362.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4203253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.88321636983657,
+          -27.965814748610065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campos Novos",
+        "state": "SC",
+        "crop": "Cevada (em grão)",
+        "hectares": 900.0,
+        "production": 900.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4203600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.36265170687514,
+          -28.096171763578713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fraiburgo",
+        "state": "SC",
+        "crop": "Cevada (em grão)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4205506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.43599901649388,
+          -26.28699335442344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lages",
+        "state": "SC",
+        "crop": "Cevada (em grão)",
+        "hectares": 240.0,
+        "production": 240.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4209300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.055749808748395,
+          -27.430536831372642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Água Santa",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00385649206964,
+          -30.714237244232002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ajuricaba",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.894838903009514,
+          -30.67207027333356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Alegre",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.483710473005324,
+          -29.188396623417574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "André da Rocha",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.811051702861256,
+          -30.943900236775914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Augusto Pestana",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.567926459995846,
+          -29.832750641612215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Áurea",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.14744418861142,
+          -29.95166515494436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Vista das Missões",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 1000.0,
+        "production": 1000.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.53721311934954,
+          -29.638153226032397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Jesus",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 2500.0,
+        "production": 2500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.77790238938425,
+          -30.001723181044476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bozano",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.357256639884596,
+          -29.079229916679743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 237.0,
+        "production": 237.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60166052156125,
+          -29.97518757011881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camargo",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.58676829308481,
+          -30.2070048599615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campinas do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.014165848701914,
+          -30.985279935446755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capão Bonito do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2790334675571,
+          -29.905393533872346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carlos Gomes",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.37981346699854,
+          -30.75305814787833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Catuípe",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.628678779885895,
+          -29.987246352101863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centenário",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 450.0,
+        "production": 450.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.51837339753504,
+          -30.0464216392555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Charrua",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 660.0,
+        "production": 660.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.610726733377184,
+          -30.67904044350518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ciríaco",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.767306935552696,
+          -29.97698786191762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colorado",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.51867748941397,
+          -30.74392767633344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Condor",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.10865468997908,
+          -29.077890283258007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coxilha",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.70978021762087,
+          -29.03852285870208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 220.0,
+        "production": 220.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "David Canabarro",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.628678779885895,
+          -29.987246352101863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dois Lajeados",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.09404789366699,
+          -29.471483407765128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Encruzilhada do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.85043595022391,
+          -30.406791583152753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Entre-Ijuís",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83405235774225,
+          -30.70217112886631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Entre Rios do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Erebango",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 950.0,
+        "production": 950.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.531335537036135,
+          -30.78952597364962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Erechim",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 600.0,
+        "production": 600.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87262523538045,
+          -30.24556023662958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Erval Seco",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.63960533500761,
+          -29.844333579821168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Esmeralda",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.11703386194669,
+          -29.998179860267584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Espumoso",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98327858646141,
+          -29.55950081975363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Estação",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 800.0,
+        "production": 800.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9947684782305,
+          -30.64173744973694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Estrela",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.06635068872675,
+          -29.318707482282615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Estrela Velha",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.707202611520735,
+          -29.744867979473955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fagundes Varela",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.402297065294974,
+          -29.82308224406555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Floriano Peixoto",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 430.0,
+        "production": 430.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07532496417243,
+          -29.50506787493127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gaurama",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.71355731528211,
+          -29.713679190397084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gentil",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56149111979558,
+          -29.183444077214855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Getúlio Vargas",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 2200.0,
+        "production": 2200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.96989421713804,
+          -30.94544841024332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gramado dos Loureiros",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.78972477306712,
+          -30.329560287310187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guabiju",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.141381496442115,
+          -30.916499684984394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarani das Missões",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87262523538045,
+          -30.24556023662958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibiaçá",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 800.0,
+        "production": 800.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.76935420582752,
+          -29.361055259085543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipiranga do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 1600.0,
+        "production": 1600.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7180496070556,
+          -29.437303037669928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacuizinho",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.981499367146625,
+          -30.615238041258287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacutinga",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69674211293186,
+          -30.659501287266746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lagoa dos Três Cantos",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.34560090702013,
+          -30.725022415995344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lagoa Vermelha",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 600.0,
+        "production": 600.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02767510209386,
+          -29.49141812060334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Machadinho",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4272724423083,
+          -30.04337721903252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marau",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.337972030450025,
+          -29.691165546404775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marcelino Ramos",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.31748742976618,
+          -30.647727330215236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mato Castelhano",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.04039458556629,
+          -29.89983642263344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montauri",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24110420295389,
+          -30.81625952583359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Alegre dos Campos",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 550.0,
+        "production": 550.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.087150222213694,
+          -29.432340743404925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mormaço",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.882334070571744,
+          -30.593437686599163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Muitos Capões",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83918636573236,
+          -31.029042663014568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Não-Me-Toque",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 1137.0,
+        "production": 1137.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.09815522783901,
+          -30.129840892980365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Alvorada",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5337819853014,
+          -30.535315767978133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Boa Vista",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312955"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.254252898061424,
+          -29.91230474789222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Prata",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.700122120861494,
+          -29.708715769163092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Ramada",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.47397262595486,
+          -29.114678139610092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Xingu",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.394312500615484,
+          -30.12005557573335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmeira das Missões",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 1000.0,
+        "production": 1000.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64991058307983,
+          -30.149708333619415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Panambi",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passo Fundo",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 1600.0,
+        "production": 1600.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9304264728308,
+          -29.775845224078708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paulo Bento",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.14903453416067,
+          -30.408207534830208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quatro Irmãos",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 750.0,
+        "production": 750.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.94458926977572,
+          -29.58483477940549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ronda Alta",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.304255283030614,
+          -30.7052507314162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rondinha",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.052985527318015,
+          -30.91161997292881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Saldanha Marinho",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61271027495047,
+          -29.254715060166845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Bárbara do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60436401325876,
+          -30.631230562748136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cecília do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0438592866787,
+          -29.889247473717596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio do Palma",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.270639465996815,
+          -30.07581603859481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José do Ouro",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.52065498927443,
+          -30.18982182215559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sarandi",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Selbach",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9337748215832,
+          -29.317088685731573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serafina Corrêa",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 400.0,
+        "production": 400.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.25299217358934,
+          -30.046934699116857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sertão",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 4100.0,
+        "production": 4100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.48970974028068,
+          -29.817676924684225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Severiano de Almeida",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.08321978370509,
+          -30.649260625377607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tapejara",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 1000.0,
+        "production": 1000.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.95599566619313,
+          -30.808685659647676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tapera",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9337748215832,
+          -29.317088685731573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tio Hugo",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76606594526991,
+          -30.317103262391697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Trindade do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.52283252612553,
+          -30.7658715117752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tupanci do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1043165397052,
+          -30.04562512804113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tupanciretã",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.520455901251715,
+          -30.255516390524875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "União da Serra",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 320.0,
+        "production": 320.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.58973710114393,
+          -29.287531092532188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vacaria",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 4100.0,
+        "production": 4100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.068873819283326,
+          -30.690161538296266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Viadutos",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 270.0,
+        "production": 270.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.610726733377184,
+          -30.67904044350518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Victor Graeff",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82525135472589,
+          -30.95749632132524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Lângaro",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.680498121506076,
+          -29.11603781648401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Maria",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.599896440674435,
+          -30.825714606364187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vista Alegre do Prata",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.34584212293377,
+          -30.666516651531175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste de Minas",
+        "state": "MG",
+        "crop": "Cevada (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.16155069261387,
+          -18.522674865109558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Triângulo Mineiro/Alto Paranaíba",
+        "state": "MG",
+        "crop": "Cevada (em grão)",
+        "hectares": 310.0,
+        "production": 310.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.47071565498298,
+          -18.321162532942346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bauru",
+        "state": "SP",
+        "crop": "Cevada (em grão)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.67441462961119,
+          -22.8635032473512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapetininga",
+        "state": "SP",
+        "crop": "Cevada (em grão)",
+        "hectares": 3820.0,
+        "production": 3820.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.235763562402056,
+          -23.582262487841714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Central Paranaense",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 370.0,
+        "production": 370.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.083917187437486,
+          -25.82712325441474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Pioneiro Paranaense",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 1105.0,
+        "production": 1105.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.03028401407092,
+          -25.375183016569054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Oriental Paranaense",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 26565.0,
+        "production": 26565.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.49094599097195,
+          -25.60186148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeste Paranaense",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.34267898841823,
+          -24.611508750214586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Paranaense",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.59391042723109,
+          -24.47013080746991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro-Sul Paranaense",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 44053.0,
+        "production": 44053.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.37871492078486,
+          -25.44258769392081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Paranaense",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 8290.0,
+        "production": 8290.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.700909412698955,
+          -24.263396704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Curitiba",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 4521.0,
+        "production": 4521.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.614362550445165,
+          -25.20470843584119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeste Catarinense",
+        "state": "SC",
+        "crop": "Cevada (em grão)",
+        "hectares": 180.0,
+        "production": 180.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56434524737387,
+          -26.8398131245606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serrana",
+        "state": "SC",
+        "crop": "Cevada (em grão)",
+        "hectares": 1502.0,
+        "production": 1502.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.00311135333994,
+          -27.12228795223679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Rio-grandense",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 29378.0,
+        "production": 29378.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.808064698285804,
+          -30.110206032908884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Rio-grandense",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 10300.0,
+        "production": 10300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95697582006793,
+          -29.547062613117284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Ocidental Rio-grandense",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05512013921844,
+          -30.541636080661284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Oriental Rio-grandense",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 347.0,
+        "production": 347.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.262714353641655,
+          -30.845451245877808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Rio-grandense",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.39162912997211,
+          -30.424787177850607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paracatu",
+        "state": "MG",
+        "crop": "Cevada (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.6159334149383,
+          -18.81170366021028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araxá",
+        "state": "MG",
+        "crop": "Cevada (em grão)",
+        "hectares": 310.0,
+        "production": 310.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.969063556370294,
+          -17.98146769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Avaré",
+        "state": "SP",
+        "crop": "Cevada (em grão)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.48195068872675,
+          -22.834607482282614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapeva",
+        "state": "SP",
+        "crop": "Cevada (em grão)",
+        "hectares": 3820.0,
+        "production": 3820.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.52049899412199,
+          -23.080178868062212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Apucarana",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 370.0,
+        "production": 370.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.266319783705086,
+          -25.507860625377607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Wenceslau Braz",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 1105.0,
+        "production": 1105.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.869650071842386,
+          -24.357181283534437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Telêmaco Borba",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 7845.0,
+        "production": 7845.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.62473054076062,
+          -24.024676074592055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguariaíva",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 7570.0,
+        "production": 7570.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.49953287087311,
+          -25.712520291461303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ponta Grossa",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 11150.0,
+        "production": 11150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83068141753443,
+          -24.213114855884015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Toledo",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.952454205827514,
+          -24.219655259085542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pato Branco",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.63590979512252,
+          -25.0036285469629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pitanga",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 1153.0,
+        "production": 1153.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.822407112720555,
+          -24.81503687078838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapuava",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 42700.0,
+        "production": 42700.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.238220139218434,
+          -25.400236080661283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmas",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.46319247708827,
+          -25.829885051915305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prudentópolis",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 6690.0,
+        "production": 6690.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.868452553854915,
+          -24.898126862482794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irati",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 800.0,
+        "production": 800.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.81486355637029,
+          -24.36246769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "União da Vitória",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.217594783840866,
+          -24.529190878824046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Mateus do Sul",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56255724287319,
+          -24.09035359674158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lapa",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 1619.0,
+        "production": 1619.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.89787260513806,
+          -24.701920965597537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curitiba",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 2630.0,
+        "production": 2630.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83649518416852,
+          -24.158490482605696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Negro",
+        "state": "PR",
+        "crop": "Cevada (em grão)",
+        "hectares": 272.0,
+        "production": 272.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24467221045082,
+          -24.748046521314716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Joaçaba",
+        "state": "SC",
+        "crop": "Cevada (em grão)",
+        "hectares": 180.0,
+        "production": 180.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.053383775555396,
+          -27.993783906040967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curitibanos",
+        "state": "SC",
+        "crop": "Cevada (em grão)",
+        "hectares": 900.0,
+        "production": 900.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.454325626322074,
+          -28.17422501192528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campos de Lages",
+        "state": "SC",
+        "crop": "Cevada (em grão)",
+        "hectares": 602.0,
+        "production": 602.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.79168877221266,
+          -26.245876991652253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Frederico Westphalen",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 85.0,
+        "production": 85.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61182784898166,
+          -30.91874622395815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Erechim",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 9340.0,
+        "production": 9340.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87262523538045,
+          -30.24556023662958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sananduva",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 935.0,
+        "production": 935.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87172465622979,
+          -29.79081913710692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Largo",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61383470905889,
+          -29.911431271279007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 610.0,
+        "production": 610.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 1830.0,
+        "production": 1830.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 2190.0,
+        "production": 2190.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passo Fundo",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 10135.0,
+        "production": 10135.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9304264728308,
+          -29.775845224078708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 1476.0,
+        "production": 1476.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Não-Me-Toque",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 2407.0,
+        "production": 2407.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.09815522783901,
+          -30.129840892980365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Soledade",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90823805651693,
+          -30.93434177899794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 1480.0,
+        "production": 1480.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vacaria",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 8800.0,
+        "production": 8800.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.068873819283326,
+          -30.690161538296266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caxias do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09162937177835,
+          -30.728847107455984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santiago",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03231315630334,
+          -30.627259105157897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.183627535751086,
+          -29.543480747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lajeado-Estrela",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64962427481441,
+          -29.634378444921094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Sul",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 237.0,
+        "production": 237.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60166052156125,
+          -29.97518757011881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serras de Sudeste",
+        "state": "RS",
+        "crop": "Cevada (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.56588771187493,
+          -29.436369261766547
+        ]
+      }
+    }
+  ]
+}

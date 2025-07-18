@@ -1,0 +1,5566 @@
+{
+  "type": "FeatureCollection",
+  "name": "Pera_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barbacena",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3105608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.37179478384087,
+          -18.148190878824046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Delfim Moreira",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3121100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.67416820310048,
+          -17.915556973605774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Estiva",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3124500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.612342168602694,
+          -17.832571978402935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Leopoldina",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3138401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.63040992833123,
+          -19.058788281237902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paraguaçu",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3147204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.49474942427874,
+          -19.4431704162861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paraisópolis",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3147303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.60798436368998,
+          -17.70947687930321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passa Quatro",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3147600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.75055139129463,
+          -17.521110080263934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piedade do Rio Grande",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3150307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.42185701622342,
+          -19.147018053621537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pouso Alegre",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3152501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.11520238938425,
+          -18.479323181044474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três Pontas",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3169406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.55962661269255,
+          -17.698499781597697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Virgínia",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3171709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.953767281099225,
+          -18.23673584506039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Wenceslau Braz",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3172202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.02385007184239,
+          -17.976181283534437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alfredo Marcondes",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3500808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57517898841823,
+          -23.268808750214586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Botucatu",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3507506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.05694977115034,
+          -23.996021531610452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Divinolândia",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3513900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.94467987525143,
+          -24.25128631852781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guapiara",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3517604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.71985528303061,
+          -24.2211507314162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibiúna",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3519709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.32332002838497,
+          -22.57459406615929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaberá",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3521705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.448260177917625,
+          -22.846253595772534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rancharia",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3542206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.39881809800673,
+          -22.648390467449406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ribeirão Branco",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3543006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.628882020993686,
+          -24.063464474581327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel Arcanjo",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3550209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55041495314338,
+          -23.086906864935717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ampére",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4101002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1371634693573,
+          -24.81975394772189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Antônio Olinto",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4101309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24488424564992,
+          -25.277586490532446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araucária",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4101804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4601557879898,
+          -24.65156980303147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barracão",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4102604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.76618471569123,
+          -24.326589349926717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bela Vista da Caroba",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4102752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24876144805803,
+          -25.47708545279548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bituruna",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4102901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.44342503992046,
+          -25.03906221706622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Esperança do Iguaçu",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.86852048652647,
+          -24.443440273890207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Jesus do Sul",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.877030975482334,
+          -25.68178159947719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Sucesso do Sul",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.349033489323666,
+          -25.451520778129773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campina Grande do Sul",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.02829168594659,
+          -24.08192064765096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Largo",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.26471057098614,
+          -24.72857977491484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capanema",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92750372418071,
+          -24.01313181929831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Azul",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4105201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.38519564555752,
+          -25.38602260480726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Clevelândia",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4105706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.516444425403655,
+          -24.28499390661881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coronel Vivida",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.930309227217194,
+          -24.335567134870608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruzeiro do Iguaçu",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83964205525845,
+          -25.335075226414148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Machado",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.006930007246375,
+          -24.101395249985966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dois Vizinhos",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.77826724281921,
+          -25.06298782462215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Enéas Marques",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.006930007246375,
+          -24.101395249985966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Flor da Serra do Sul",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.20616826411123,
+          -24.24938626341732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Francisco Beltrão",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.091338056516925,
+          -25.79294177899794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapuava",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.238220139218434,
+          -25.400236080661283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Honório Serpa",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.21685505201186,
+          -24.32510827962011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Imbituva",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4887221959319,
+          -25.599031860221547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irati",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.81486355637029,
+          -24.36246769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lapa",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4113205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.89787260513806,
+          -24.701920965597537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manfrinópolis",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4114351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.357446083487865,
+          -25.277885439429678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mangueirinha",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4114401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.510732079385456,
+          -25.403698770366795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mariópolis",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4115309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.47620992833123,
+          -25.439788281237902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marmeleiro",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4115408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.340549424278734,
+          -25.8241704162861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Esperança do Sudoeste",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4116950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.86106336389782,
+          -25.26232962239311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Prata do Iguaçu",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4117255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.572676418964505,
+          -24.43013773919958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pato Branco",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4118501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.63590979512252,
+          -25.0036285469629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paula Freitas",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4118600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83964205525845,
+          -25.335075226414148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paulo Frontin",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4118709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.63292119003692,
+          -24.573506739129854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pérola d'Oeste",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.77802873078047,
+          -25.085567533906612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinhal de São Bento",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.37138557317077,
+          -25.19956360160913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Planalto",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.16886942584755,
+          -25.596857587225834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Vitória",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.59438789814994,
+          -25.38824887343941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pranchita",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.42100534897708,
+          -25.603758894732664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prudentópolis",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.868452553854915,
+          -24.898126862482794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quatro Barras",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76731425521419,
+          -24.909579981153286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Realeza",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.149477319822466,
+          -24.79169236826293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rebouças",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.949165945269904,
+          -25.175703262391696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Renascença",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.748987711874925,
+          -24.294969261766546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salgado Filho",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4122800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.78741844576264,
+          -24.849232180575015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salto do Lontra",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4123006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92983975850099,
+          -25.557810686332267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Izabel do Oeste",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4123808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.225027387781374,
+          -25.435542188645833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria do Oeste",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4123857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.53831028641012,
+          -24.921987399578914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio do Sudoeste",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4124400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.86183261407629,
+          -25.175736775664827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Jorge d'Oeste",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4125209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09373218589343,
+          -23.946398659787924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Mateus do Sul",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4125605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56255724287319,
+          -24.09035359674158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Verê",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4128609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.75097227572641,
+          -24.014991735361797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vitorino",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4128708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02350365736925,
+          -24.863324091984502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arroio Trinta",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4201604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.55063056443912,
+          -28.18223269172884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Retiro",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 103.0,
+        "production": 103.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4202602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.745083601018486,
+          -26.887765321543114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Belo do Sul",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4203402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.01928963934446,
+          -26.59958493712082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canoinhas",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4203808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.58541425521419,
+          -27.258679981153286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chapadão do Lageado",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4204194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.654841926831416,
+          -27.070104463088086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curitibanos",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 23.0,
+        "production": 23.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4204806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.454325626322074,
+          -28.17422501192528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fraiburgo",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4205506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.43599901649388,
+          -26.28699335442344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Frei Rogério",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4205555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61906905546602,
+          -27.310902033732983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaiópolis",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 56.0,
+        "production": 56.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4208104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.586726879670614,
+          -27.444183719724094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lages",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4209300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.055749808748395,
+          -27.430536831372642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Castelo",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4211108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0450592866787,
+          -27.096947473717595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio das Antas",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4214409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.01164206117708,
+          -26.92577497547004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Rufino",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4215059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.239105348977084,
+          -27.952858894732664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Joaquim",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4216503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.96015540102064,
+          -26.863592082218993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Urubici",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4218905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.91720165215099,
+          -27.594634470333677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Videira",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4219309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.41757940509936,
+          -27.610192251286932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Água Santa",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00385649206964,
+          -30.714237244232002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Agudo",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8805641728846,
+          -29.808281139614525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alecrim",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.810806050275204,
+          -30.943381395829213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alegria",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.218983211957834,
+          -29.54032014928488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alpestre",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.341634352288196,
+          -30.61325792406341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ametista do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.64055585722682,
+          -29.142222940070237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Antônio Prado",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.72125724995553,
+          -29.983726983168275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arroio do Tigre",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.85043595022391,
+          -30.406791583152753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arvorezinha",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.65517653150118,
+          -29.164735001876696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra do Ribeiro",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.411053692039474,
+          -30.122360702046066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bento Gonçalves",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.567872275726415,
+          -29.156391735361797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boqueirão do Leão",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.961842098449914,
+          -30.43754492324817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bossoroca",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.16633974580232,
+          -29.07861210106512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caçapava do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79046642107002,
+          -30.879756432293394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60166052156125,
+          -29.97518757011881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caibaté",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02789045430332,
+          -30.23460671483462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caiçara",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.34896682250102,
+          -30.828241991005164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camaquã",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.67322434309931,
+          -29.335749968045135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campestre da Serra",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85262288720354,
+          -29.612635464407433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campina das Missões",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06897639813501,
+          -29.849244088286923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Candelária",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82078764708399,
+          -30.481810386887396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cândido Godói",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.30890939550534,
+          -30.138065556572663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Casca",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.206152834418646,
+          -29.493281564254264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caxias do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 185.0,
+        "production": 185.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09162937177835,
+          -30.728847107455984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Branco",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.677963363897824,
+          -30.40372962239311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Grande do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.26105089391452,
+          -29.639177897813635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chapada",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4573355541557,
+          -30.934005003898324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chuvisca",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.110531493557296,
+          -30.688748316824135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colinas",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.25524922987324,
+          -30.800171777410736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cotiporã",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95323400884244,
+          -29.893943153726255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Crissiumal",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.17434608348787,
+          -30.41928543942968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cristal",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.33686820310048,
+          -29.437956973605775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dezesseis de Novembro",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.42155353186815,
+          -29.801258836389607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dois Lajeados",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.09404789366699,
+          -29.471483407765128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dom Feliciano",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.638866184891384,
+          -29.2502582369199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Doutor Maurício Cardoso",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1292415494081,
+          -30.55867074581622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Estrela Velha",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.707202611520735,
+          -29.744867979473955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fagundes Varela",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.402297065294974,
+          -29.82308224406555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Farroupilha",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.79675170636033,
+          -30.459628609266325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Flores da Cunha",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.64758141753443,
+          -29.354514855884016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gramado Xavier",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.017830594396145,
+          -30.29948110814446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarani das Missões",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87262523538045,
+          -30.24556023662958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Horizontina",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.04039458556629,
+          -29.89983642263344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibarama",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55783884094358,
+          -29.190776058461065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibiaçá",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.76935420582752,
+          -29.361055259085543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilópolis",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.71793352980785,
+          -29.9329564760762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iraí",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.765732864555154,
+          -29.222175312561262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapuca",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.25998861893537,
+          -30.75212587209159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ivorá",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.95599566619313,
+          -30.808685659647676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacuizinho",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.981499367146625,
+          -30.615238041258287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lagoão",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.71050382217634,
+          -29.696382024635348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mariana Pimentel",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79046642107002,
+          -30.879756432293394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montauri",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24110420295389,
+          -30.81625952583359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Alegre dos Campos",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.087150222213694,
+          -29.432340743404925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Bassano",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.54245744996065,
+          -29.904410808322886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Candelária",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.90081718743749,
+          -30.96852325441474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Pádua",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 36.0,
+        "production": 36.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.21341911275053,
+          -30.474969052854025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Palma",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.175132588358764,
+          -29.521342241292967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Prata",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.700122120861494,
+          -29.708715769163092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Roma do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.872951384265605,
+          -30.86755895769283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Cabrais",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.93696281984721,
+          -29.118181240365455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmitinho",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83867686033237,
+          -30.239622246037086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paraíso do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.753902258052165,
+          -29.176445982508643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passa Sete",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.087150222213694,
+          -29.432340743404925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinhal Grande",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82078764708399,
+          -30.481810386887396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinheirinho do Vale",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.6201387294905,
+          -29.125200206944516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pirapó",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.29220134275215,
+          -30.852472938869774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Planalto",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.98576942584755,
+          -30.738257587225835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Xavier",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.48178356456136,
+          -29.11231757788846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Putinga",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.316580377858,
+          -29.280638950563546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Restinga Sêca",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9337748215832,
+          -29.317088685731573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Roque Gonzales",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.564693609731165,
+          -29.47376526183401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sananduva",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87172465622979,
+          -29.79081913710692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sant'Ana do Livramento",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.91323934418911,
+          -29.734366696536323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Rosa",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santiago",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03231315630334,
+          -30.627259105157897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Luiz Gonzaga",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.73613990024785,
+          -29.904808049455752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Marcos",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7564054494136,
+          -29.599987516893034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Martinho",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05043391316172,
+          -30.793034977993276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Martinho da Serra",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02789045430332,
+          -30.23460671483462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Nicolau",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.129111323005084,
+          -29.513114676713194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Paulo das Missões",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06402309288423,
+          -30.57244197006219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Pedro do Butiá",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.98759479631006,
+          -30.6354225872918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Pedro do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.93990555756013,
+          -29.28797072142647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seberi",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.985415284539926,
+          -30.716279545186882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Segredo",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.44537016393726,
+          -29.91101448584461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Senador Salgado Filho",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4573355541557,
+          -30.934005003898324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sentinela do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.70333960604288,
+          -29.393715909568762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serafina Corrêa",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.25299217358934,
+          -30.046934699116857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sertão Santana",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.37948304687498,
+          -31.011060154160727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sobradinho",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.817640693664735,
+          -29.97671290428462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tapejara",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.95599566619313,
+          -30.808685659647676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taquara",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.90443823204826,
+          -29.73382557256701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três Coroas",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.539502831892165,
+          -30.630881804146263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três Passos",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3220450258813,
+          -29.122531456221502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tucunduva",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.24971923531873,
+          -29.894020483579453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tunas",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.81579028937262,
+          -29.373258432872685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tuparendi",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.50994843732492,
+          -29.99587001689718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubiretama",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61508966806201,
+          -29.172518776310934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "União da Serra",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.58973710114393,
+          -29.287531092532188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vacaria",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.068873819283326,
+          -30.690161538296266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vanini",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.324606916761766,
+          -30.5363972907243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Venâncio Aires",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.21341911275053,
+          -30.474969052854025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vicente Dutra",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.33809732652119,
+          -30.37039566541448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul/Sudoeste de Minas",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 64.0,
+        "production": 64.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.050044617100454,
+          -19.47249892107114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo das Vertentes",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.75919941489221,
+          -18.685009575854654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Zona da Mata",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.50363974580232,
+          -17.556212101065118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bauru",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.67441462961119,
+          -22.8635032473512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campinas",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03346905546602,
+          -23.619102033732982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Prudente",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.37455958846506,
+          -23.659440221212105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapetininga",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.235763562402056,
+          -23.582262487841714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Macro Metropolitana Paulista",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 21.0,
+        "production": 21.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.851177564106806,
+          -23.630997642283617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Paranaense",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 36.0,
+        "production": 36.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.59391042723109,
+          -24.47013080746991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro-Sul Paranaense",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.37871492078486,
+          -25.44258769392081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Paranaense",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 19.0,
+        "production": 19.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.700909412698955,
+          -24.263396704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Curitiba",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 49.0,
+        "production": 49.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.614362550445165,
+          -25.20470843584119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeste Catarinense",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56434524737387,
+          -26.8398131245606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Catarinense",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 61.0,
+        "production": 61.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.78233916795241,
+          -27.579076462861373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serrana",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 191.0,
+        "production": 191.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.00311135333994,
+          -27.12228795223679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Itajaí",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.857763489902,
+          -27.47289083510818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Rio-grandense",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.808064698285804,
+          -30.110206032908884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Rio-grandense",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 315.0,
+        "production": 315.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95697582006793,
+          -29.547062613117284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Ocidental Rio-grandense",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05512013921844,
+          -30.541636080661284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Oriental Rio-grandense",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 52.0,
+        "production": 52.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.262714353641655,
+          -30.845451245877808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Porto Alegre",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02017114812373,
+          -29.972838989062826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Rio-grandense",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85262288720354,
+          -29.612635464407433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Rio-grandense",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.39162912997211,
+          -30.424787177850607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alfenas",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.29456189136223,
+          -18.55988347554131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Varginha",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.550259761414736,
+          -18.589371396488477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pouso Alegre",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.11520238938425,
+          -18.479323181044474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Lourenço",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.62109944478164,
+          -18.42492836936005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itajubá",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 23.0,
+        "production": 23.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.170974480620416,
+          -19.122569164586476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João Del Rei",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.27426281984721,
+          -17.595781240365454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barbacena",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.37179478384087,
+          -18.148190878824046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cataguases",
+        "state": "MG",
+        "crop": "Pera",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.08118360101849,
+          -18.157665321543114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Botucatu",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.05694977115034,
+          -23.996021531610452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João da Boa Vista",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.84899234551775,
+          -24.120695650634378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Prudente",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.37455958846506,
+          -23.659440221212105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapeva",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.52049899412199,
+          -23.080178868062212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capão Bonito",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.477172210450824,
+          -23.405346521314716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piedade",
+        "state": "SP",
+        "crop": "Pera",
+        "hectares": 21.0,
+        "production": 21.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40101528453992,
+          -24.23217954518688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capanema",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92750372418071,
+          -24.01313181929831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Francisco Beltrão",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.091338056516925,
+          -25.79294177899794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pato Branco",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.63590979512252,
+          -25.0036285469629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pitanga",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.822407112720555,
+          -24.81503687078838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapuava",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.238220139218434,
+          -25.400236080661283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmas",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.46319247708827,
+          -25.829885051915305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prudentópolis",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.868452553854915,
+          -24.898126862482794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irati",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.81486355637029,
+          -24.36246769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "União da Vitória",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.217594783840866,
+          -24.529190878824046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Mateus do Sul",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56255724287319,
+          -24.09035359674158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Azul",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.38519564555752,
+          -25.38602260480726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lapa",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.89787260513806,
+          -24.701920965597537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curitiba",
+        "state": "PR",
+        "crop": "Pera",
+        "hectares": 43.0,
+        "production": 43.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83649518416852,
+          -24.158490482605696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Joaçaba",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.053383775555396,
+          -27.993783906040967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canoinhas",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 61.0,
+        "production": 61.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.58541425521419,
+          -27.258679981153286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curitibanos",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 29.0,
+        "production": 29.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.454325626322074,
+          -28.17422501192528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campos de Lages",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 162.0,
+        "production": 162.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.79168877221266,
+          -26.245876991652253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ituporanga",
+        "state": "SC",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "42014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.03904120467018,
+          -26.650571262479918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Rosa",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três Passos",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3220450258813,
+          -29.122531456221502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Frederico Westphalen",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61182784898166,
+          -30.91874622395815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sananduva",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87172465622979,
+          -29.79081913710692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Largo",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61383470905889,
+          -29.911431271279007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passo Fundo",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9304264728308,
+          -29.775845224078708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Soledade",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90823805651693,
+          -30.93434177899794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vacaria",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 32.0,
+        "production": 32.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.068873819283326,
+          -30.690161538296266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caxias do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 265.0,
+        "production": 265.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09162937177835,
+          -30.728847107455984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santiago",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03231315630334,
+          -30.627259105157897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02017114812373,
+          -29.972838989062826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Restinga Seca",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.72507562254052,
+          -29.076426050898263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 36.0,
+        "production": 36.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.183627535751086,
+          -29.543480747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lajeado-Estrela",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64962427481441,
+          -29.634378444921094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Sul",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60166052156125,
+          -29.97518757011881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gramado-Canela",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.82458112408905,
+          -29.84946383782344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Alegre",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00385649206964,
+          -30.714237244232002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camaquã",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.67322434309931,
+          -29.335749968045135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campanha Central",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.98252750044917,
+          -30.428067186059028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serras de Sudeste",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.56588771187493,
+          -29.436369261766547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pelotas",
+        "state": "RS",
+        "crop": "Pera",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.11187533791058,
+          -31.02863466779344
+        ]
+      }
+    }
+  ]
+}

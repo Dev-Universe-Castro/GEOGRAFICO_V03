@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "name": "Tungue (fruto seco)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arvorezinha",
+        "state": "RS",
+        "crop": "Tungue (fruto seco)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.65517653150118,
+          -29.164735001876696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cotiporã",
+        "state": "RS",
+        "crop": "Tungue (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95323400884244,
+          -29.893943153726255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fagundes Varela",
+        "state": "RS",
+        "crop": "Tungue (fruto seco)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.402297065294974,
+          -29.82308224406555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Valentim do Sul",
+        "state": "RS",
+        "crop": "Tungue (fruto seco)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.16593348932367,
+          -30.592920778129773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Veranópolis",
+        "state": "RS",
+        "crop": "Tungue (fruto seco)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09688841940606,
+          -29.06984585047974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Rio-grandense",
+        "state": "RS",
+        "crop": "Tungue (fruto seco)",
+        "hectares": 37.0,
+        "production": 37.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95697582006793,
+          -29.547062613117284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Tungue (fruto seco)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caxias do Sul",
+        "state": "RS",
+        "crop": "Tungue (fruto seco)",
+        "hectares": 32.0,
+        "production": 32.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09162937177835,
+          -30.728847107455984
+        ]
+      }
+    }
+  ]
+}

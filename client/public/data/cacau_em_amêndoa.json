@@ -1,0 +1,8386 @@
+{
+  "type": "FeatureCollection",
+  "name": "Cacau (em amêndoa)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alta Floresta D'Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 55.0,
+        "production": 55.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.47108362081896,
+          -10.656134520148264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ariquemes",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 275.0,
+        "production": 275.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.07564461710045,
+          -12.465998921071138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cabixi",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.09702602147854,
+          -11.259896610220595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacoal",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.79958886846444,
+          -12.106099838063882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerejeiras",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.47696670463657,
+          -11.617781211289145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colorado do Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 36.0,
+        "production": 36.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.20053708514064,
+          -12.378133038890928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Corumbiara",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.15845788701966,
+          -11.206901103516405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Espigão D'Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.91591681003188,
+          -10.514150067944508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaru",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1391.0,
+        "production": 1391.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.67403057367075,
+          -11.493819172459503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ji-Paraná",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 95.0,
+        "production": 95.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.54652753575108,
+          -11.014580747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Machadinho D'Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.35799059545948,
+          -11.196820362076354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Brasilândia D'Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.36481135333994,
+          -11.38568795223679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ouro Preto do Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1200.0,
+        "production": 1200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.41508377555539,
+          -12.257183906040966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pimenta Bueno",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.31705216245875,
+          -12.472782318589406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Velho",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 363.0,
+        "production": 363.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.63358436368998,
+          -10.70297687930321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Médici",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.804530540760624,
+          -10.637176074592054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rolim de Moura",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.27038086711889,
+          -10.87933364579586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Luzia D'Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 44.0,
+        "production": 44.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.58344991353287,
+          -10.696014596018466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vilhena",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.86284000241561,
+          -10.54799261760644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel do Guaporé",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.53096235767705,
+          -11.646019929768352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Mamoré",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.836082238306204,
+          -11.40668837618645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alvorada D'Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.43822496417242,
+          -10.976167874931267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Alegre dos Parecis",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.599844517858365,
+          -10.990922536568295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Paraíso",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3043165745713,
+          -11.69446871532617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Buritis",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1042.0,
+        "production": 1042.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.18659542109238,
+          -10.653153199456273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Horizonte do Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.35162650273675,
+          -11.429762581176158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacaulândia",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 405.0,
+        "production": 405.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.643838963814304,
+          -10.665928757355275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Novo de Rondônia",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 113.0,
+        "production": 113.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.10129994498661,
+          -10.976126157271931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Candeias do Jamari",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 67.0,
+        "production": 67.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.784453531868145,
+          -11.272358836389603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castanheiras",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.949668293084805,
+          -11.678104859961499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chupinguaia",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.759677440502905,
+          -12.190954971005938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cujubim",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.66580633387573,
+          -11.981285168630647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Governador Jorge Teixeira",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 535.0,
+        "production": 535.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.20907622560592,
+          -11.174479049667092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapuã do Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.776151391294626,
+          -10.514610080263935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ministro Andreazza",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.292873460236265,
+          -12.264365780150893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mirante da Serra",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.48499549300005,
+          -11.961857622275188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Negro",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 189.0,
+        "production": 189.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.62561435364165,
+          -12.316551245877804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova União",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0361243430993,
+          -10.806849968045134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parecis",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.626474912488064,
+          -11.964749334486632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Primavera de Rondônia",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.44617177332965,
+          -10.875916926893682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Felipe D'Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.023236007096536,
+          -11.741252601805476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Francisco do Guaporé",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1709646982858,
+          -11.581306032908882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seringueiras",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 27.0,
+        "production": 27.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.949331273934966,
+          -12.244659540198658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teixeirópolis",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 55.0,
+        "production": 55.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.68087114165585,
+          -11.162974730557048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Theobroma",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 206.0,
+        "production": 206.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.215074335219036,
+          -10.701467585492956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Urupá",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 92.0,
+        "production": 92.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.89118028388784,
+          -11.310308429127343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Anari",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.836872625954854,
+          -10.585778139610088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Paraíso",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3959981009997,
+          -10.511338329591068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Amaturá",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.02924205138022,
+          -5.401733922788264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Apuí",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.335645397067836,
+          -5.5718255041336375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Autazes",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.37797728782578,
+          -4.606648346399459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Borba",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.93481607078348,
+          -4.943291239495026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coari",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.10958304687498,
+          -5.937360154160725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Codajás",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.14335139129463,
+          -3.969810080263935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fonte Boa",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.05058844401365,
+          -4.11116949674811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Humaitá",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.37296554833976,
+          -4.169614902211137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itacoatiara",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 21.0,
+        "production": 21.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.84025948338317,
+          -4.5577557238158155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapiranga",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.577284014070926,
+          -5.442883016569052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jutaí",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 56.0,
+        "production": 56.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.133623637594425,
+          -5.198541331896601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manicoré",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.316766095329115,
+          -5.633565333549862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Olinda do Norte",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.152908945828344,
+          -5.548975300097762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Aripuanã",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.14294350318315,
+          -4.930293713857386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pauini",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.618995101592155,
+          -5.480693939867487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tefé",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.23004000241561,
+          -4.00319261760644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Urucará",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.55535135472589,
+          -5.8837963213252396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Urucurituba",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.54438536195706,
+          -5.177636594590044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caroebe",
+        "state": "RR",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.72621484291481,
+          2.795896390900272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João da Baliza",
+        "state": "RR",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.976621765346934,
+          1.9665425235172518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Abaetetuba",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.80190089133465,
+          -4.577795482481193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Acará",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1120.0,
+        "production": 1120.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79790543865896,
+          -4.474564730770357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Água Azul do Norte",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.15009760296311,
+          -4.205559381870174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alenquer",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 589.0,
+        "production": 589.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.39063875190689,
+          -3.679611225503399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Almeirim",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 45.0,
+        "production": 45.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06633462735893,
+          -4.2875946606979305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Altamira",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7496.0,
+        "production": 7496.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.35017657269312,
+          -3.3428432995326123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anapu",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8461.0,
+        "production": 8461.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.71982073238164,
+          -4.039614282600856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aurora do Pará",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.25348963934446,
+          -3.0692849371208215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aveiro",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 551.0,
+        "production": 551.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.464400505399674,
+          -2.887313281280502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baião",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1894634693573,
+          -3.6385539477218893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bannach",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83971844576264,
+          -3.668032180575014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barcarena",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1700.0,
+        "production": 1700.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.97537821166217,
+          -3.4217981004219293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bragança",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.11042641734357,
+          -3.687690980957351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasil Novo",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8381.0,
+        "production": 8381.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.26105411318223,
+          -3.0830437091043796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Breu Branco",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 134.0,
+        "production": 134.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501782"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.230490595459486,
+          -3.403120362076355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Piriá",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.91643536676947,
+          -2.967668039344036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cametá",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6396.0,
+        "production": 6396.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.543245990971954,
+          -4.42066148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canaã dos Carajás",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.80719026467396,
+          -3.69587377581997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castanhal",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 180.0,
+        "production": 180.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.59915240796179,
+          -4.611658031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Concórdia do Pará",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 290.0,
+        "production": 290.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.01330238938425,
+          -3.6791231810444742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cumaru do Norte",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1772400442915,
+          -3.6053920594176097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dom Eliseu",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3583033317958,
+          -3.096750837531827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Eldorado do Carajás",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.545348963223596,
+          -3.325383971547633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gurupá",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.96973112964595,
+          -4.384845490766613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Igarapé-Miri",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 462.0,
+        "production": 462.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79763603440307,
+          -3.192712029103798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Inhangapi",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 310.0,
+        "production": 310.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9853682465155,
+          -3.395124982227255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipixuna do Pará",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.28517187883402,
+          -4.552309538961778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irituia",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.216899367146624,
+          -4.292638041258286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaituba",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.84811027495047,
+          -2.9321150601668453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itupiranga",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85956574919465,
+          -4.365653795840394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacareacanga",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.82216829308481,
+          -3.8844048599615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Limoeiro do Ajuru",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1428808671189,
+          -3.085633645795862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Medicilândia",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 46503.0,
+        "production": 46503.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.24584206117708,
+          -3.3954749754700404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Melgaço",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83971844576264,
+          -3.668032180575014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mocajuba",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 700.0,
+        "production": 700.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.15646445045625,
+          -4.6447040059605715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Moju",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.387524573226976,
+          -3.9963325059246735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mojuí dos Campos",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83976401325876,
+          -4.308630562748136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Alegre",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 241.0,
+        "production": 241.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0767883117854,
+          -3.3428924084353797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Ipixuna",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.36881565498298,
+          -3.5209625329423453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Progresso",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.65695353186815,
+          -3.4786588363896054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Repartimento",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4840.0,
+        "production": 4840.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.27324120467018,
+          -3.1202712624799167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Óbidos",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.561440603180586,
+          -2.9438472690194444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeiras do Pará",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.89986126668236,
+          -4.313977293315378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ourilândia do Norte",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 930.0,
+        "production": 930.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.94590382217634,
+          -3.373782024635345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pacajá",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6169.0,
+        "production": 6169.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8555387294905,
+          -2.802600206944514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paragominas",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.47650420295389,
+          -4.493659525833589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parauapebas",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.761137357454864,
+          -3.2988525295016515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Placas",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 13900.0,
+        "production": 13900.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85519623839006,
+          -4.155169968932039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto de Moz",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.12246581835773,
+          -3.599622146188791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prainha",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.48439087495176,
+          -4.359864713765683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rurópolis",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2450.0,
+        "production": 2450.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.97413011045065,
+          -3.3119098434865046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Izabel do Pará",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 388.0,
+        "production": 388.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.72165136754407,
+          -2.759642764466747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santarém",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 187.0,
+        "production": 187.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.25557114812373,
+          -3.6502389890628244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Domingos do Araguaia",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.77474290775466,
+          -3.1277111453532687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Domingos do Capim",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.75320941269896,
+          -3.082196704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Félix do Xingu",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5000.0,
+        "production": 5000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5633354152472,
+          -4.566747303301947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Geraldo do Araguaia",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1060.0,
+        "production": 1060.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.87212846463622,
+          -2.961417055708435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João da Ponta",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.85437271284029,
+          -3.965327625504477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Senador José Porfírio",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4156.0,
+        "production": 4156.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00196516762357,
+          -3.2459183227027775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tailândia",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.08640200397083,
+          -2.9183917480072203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tomé-Açu",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3770.0,
+        "production": 3770.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.289949808748396,
+          -3.9002368313726414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Trairão",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1650.0,
+        "production": 1650.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.49064922987324,
+          -4.477571777410734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tucumã",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6600.0,
+        "production": 6600.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.108025235380445,
+          -3.922960236629578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tucuruí",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.74249294645481,
+          -4.501731052435448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ulianópolis",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64721390084523,
+          -4.604591659871788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uruará",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 18786.0,
+        "production": 18786.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.88327728782578,
+          -3.3577483463994593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vitória do Xingu",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5509.0,
+        "production": 5509.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.755855901251714,
+          -3.9329163905248743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Xinguara",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.756835967507286,
+          -2.7350982395020624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quixeré",
+        "state": "CE",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2311504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.98364632082283,
+          -5.4873908378799765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Russas",
+        "state": "CE",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2311801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0565414324755,
+          -5.885665719822244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aiquara",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2017.0,
+        "production": 2017.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2900603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.199902611520734,
+          -13.000767979473954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alcobaça",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2900801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.84166682250102,
+          -14.084141991005163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Almadina",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2178.0,
+        "production": 2178.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2900900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.60457533791058,
+          -14.284534667793439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Amargosa",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1504.0,
+        "production": 1504.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2901007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.365535693198424,
+          -13.259768704322699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Apuarema",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2090.0,
+        "production": 2090.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2901957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.25636888343216,
+          -12.644622777496863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arataca",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8973.0,
+        "production": 8973.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31389579245138,
+          -13.544628469976281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aratuípe",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 63.0,
+        "production": 63.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.44619070487755,
+          -13.574205843838808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aurelino Leal",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5350.0,
+        "production": 5350.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.19603960604288,
+          -12.649615909568762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra do Rocha",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4949.0,
+        "production": 4949.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.05920089133465,
+          -14.156295482481193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barreiras",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.40070495100362,
+          -12.30242509449667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barro Preto",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7147.0,
+        "production": 7147.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.69479564555753,
+          -13.783322604807257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Belmonte",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 11495.0,
+        "production": 11495.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36442465622979,
+          -13.046719137106916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Belo Campo",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.41280487267088,
+          -13.080020239196209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Nova",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 372.0,
+        "production": 372.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.263543038164634,
+          -13.8928429014375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Jesus da Lapa",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 28.0,
+        "production": 28.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.54638220856418,
+          -13.326886456472854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brejões",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2904308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.16793388676075,
+          -13.37211865368267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Buerarema",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7462.0,
+        "production": 7462.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2904704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.88391436714348,
+          -14.156732047314497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caatiba",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2904803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.52393972032972,
+          -12.534562015452911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 28.0,
+        "production": 28.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2904902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.25679670989132,
+          -13.24800162574546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camacan",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7462.0,
+        "production": 7462.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.99367548043681,
+          -14.090808391446465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camamu",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 11667.0,
+        "production": 11667.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.19282212086149,
+          -12.96461576916309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canavieiras",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4296.0,
+        "production": 4296.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.25876594526991,
+          -13.573003262391696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caravelas",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.729000938972256,
+          -13.88071754987731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castro Alves",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2907301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.759664389218294,
+          -13.588025021101695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coaraci",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4232.0,
+        "production": 4232.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2908002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.28316642107002,
+          -14.135656432293391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Conceição do Almeida",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 62.0,
+        "production": 62.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2908309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.134049771150345,
+          -13.736021531610453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cravolândia",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2909505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.19742388284283,
+          -13.69404614372669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dário Meira",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3314.0,
+        "production": 3314.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2910008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4345400442915,
+          -13.183892059417609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dom Macedo Costa",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 21.0,
+        "production": 21.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2910206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.23658360101849,
+          -12.935965321543113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Elísio Medrado",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 261.0,
+        "production": 261.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2910305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9351625206871,
+          -13.12888484760864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Eunápolis",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 412.0,
+        "production": 412.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2910727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.214658574563195,
+          -13.283864598433937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Firmino Alves",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 280.0,
+        "production": 280.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2910909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.364346219903915,
+          -12.434516868244652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Floresta Azul",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1987.0,
+        "production": 1987.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2911006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.505560581409725,
+          -13.78280436636211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gandu",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8217.0,
+        "production": 8217.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2911204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.493544368121334,
+          -12.384508694532357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gongogi",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1009.0,
+        "production": 1009.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2911501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.07691425521419,
+          -13.306879981153287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaratinga",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3593.0,
+        "production": 3593.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2911808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.47597858646141,
+          -12.815400819753629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibicaraí",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2570.0,
+        "production": 2570.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2912103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.171432614076295,
+          -13.573036775664825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibicuí",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 609.0,
+        "production": 609.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2912301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.21143396624022,
+          -13.823074230951319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibirapitanga",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 18494.0,
+        "production": 18494.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2912707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.78338423388291,
+          -13.637465361819013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibirataia",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8966.0,
+        "production": 8966.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2912905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.014135967507286,
+          -12.313598239502062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Igrapiúna",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6400.0,
+        "production": 6400.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.40739760296311,
+          -13.784059381870174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iguaí",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1505.0,
+        "production": 1505.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.23710372418071,
+          -12.410431819298308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilhéus",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 38294.0,
+        "production": 38294.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82283005867878,
+          -12.459592387139983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipiaú",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5047.0,
+        "production": 5047.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.34313595022391,
+          -13.662691583152752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itabela",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1664.0,
+        "production": 1664.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.62965402393395,
+          -12.664756707700297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itabuna",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7381.0,
+        "production": 7381.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.20320382217634,
+          -12.952282024635345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itacaré",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 16788.0,
+        "production": 16788.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.61388938098942,
+          -12.368938486489535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itagi",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4024.0,
+        "production": 4024.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.12966852827323,
+          -13.156251942796032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itagibá",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3999.0,
+        "production": 3999.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.99264000241561,
+          -12.33279261760644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itagimirim",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.10541027495047,
+          -12.510615060166845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaju do Colônia",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 816.0,
+        "production": 816.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.814505643594764,
+          -14.237128351678264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itajuípe",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 13248.0,
+        "production": 13248.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.60274176267823,
+          -13.617843235272739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itamaraju",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6200.0,
+        "production": 6200.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.33310365736925,
+          -13.260624091984502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itamari",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4536.0,
+        "production": 4536.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.33314447329871,
+          -13.036659231713251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itambé",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 188.0,
+        "production": 188.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.676327535751085,
+          -12.799380747632995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itanhém",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2916005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7983221959319,
+          -13.996331860221545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapé",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 817.0,
+        "production": 817.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2916203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.58432937177835,
+          -13.984747107455982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapebi",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1129.0,
+        "production": 1129.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2916302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.02565099448683,
+          -12.711172167733789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapetinga",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2916401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.64616621646274,
+          -13.912110791968011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapitanga",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1227.0,
+        "production": 1227.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2916609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.33887622560592,
+          -12.959279049667092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itororó",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1550.0,
+        "production": 1550.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.80383057367075,
+          -13.278619172459504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ituberá",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4700.0,
+        "production": 4700.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.50686584870191,
+          -14.241179935446752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguaquara",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1330.0,
+        "production": 1330.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.56866821078406,
+          -13.364663290510707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguaripe",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 341.0,
+        "production": 341.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85682298454736,
+          -13.536575395219227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequié",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7518.0,
+        "production": 7518.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82395810873852,
+          -13.146694300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jiquiriçá",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4901.0,
+        "production": 4901.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.89495579784139,
+          -13.465642345491442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jitaúna",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5506.0,
+        "production": 5506.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.87218304687498,
+          -14.266960154160724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jucuruçu",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.21777562254052,
+          -12.332326050898264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jussari",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2266.0,
+        "production": 2266.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91041120805797,
+          -12.513963847095024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Laje",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2970.0,
+        "production": 2970.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7717334675571,
+          -13.161293533872342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Macarani",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2919702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.44593400884244,
+          -13.149843153726254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maiquinique",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2920007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.020980283887845,
+          -13.095108429127343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maraú",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10404.0,
+        "production": 10404.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2920700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85645240796179,
+          -14.190158031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mascote",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5778.0,
+        "production": 5778.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2920908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.85257619536036,
+          -13.467561687749367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mata de São João",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2921005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.87211143457994,
+          -14.20240553260665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mucuri",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 961.0,
+        "production": 961.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.71977953605917,
+          -12.94400832982926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Muniz Ferreira",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 113.0,
+        "production": 113.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.545685527318014,
+          -14.16751997292881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mutuípe",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8624.0,
+        "production": 8624.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.32021472370738,
+          -12.296411871616735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nazaré",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.36151484291481,
+          -13.232203609099727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nilo Peçanha",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6900.0,
+        "production": 6900.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.205444617100454,
+          -14.250798921071139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Canaã",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 216.0,
+        "production": 216.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.561676398135006,
+          -13.10514408828692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Ibiá",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6161.0,
+        "production": 6161.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31389579245138,
+          -13.544628469976281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Viçosa",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 54.0,
+        "production": 54.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2923001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.2491054494136,
+          -12.855887516893032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pau Brasil",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2049.0,
+        "production": 2049.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2923902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.48779059545949,
+          -12.981620362076354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piraí do Norte",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6600.0,
+        "production": 6600.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2924678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753025039920466,
+          -13.436362217066218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Seguro",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1717.0,
+        "production": 1717.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.014135967507286,
+          -12.313598239502062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Potiraguá",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.178120486526474,
+          -12.840740273890207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prado",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1040.0,
+        "production": 1040.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.97742694423408,
+          -13.98529147704954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Tancredo Neves",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8400.0,
+        "production": 8400.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.63283360932826,
+          -14.135015967561094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Riachão das Neves",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 32.0,
+        "production": 32.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2926202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.81242169544111,
+          -12.581921123652284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ribeirão do Largo",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 43.0,
+        "production": 43.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2926657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.48439566321857,
+          -13.645316044055924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz Cabrália",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 222.0,
+        "production": 222.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2927705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.54782013921844,
+          -13.797536080661283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz da Vitória",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 320.0,
+        "production": 320.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2927804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.26520299700879,
+          -13.041911979160306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Luzia",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7267.0,
+        "production": 7267.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2928059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7596959606196,
+          -14.006004835266625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Amaro",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 151.0,
+        "production": 151.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2928604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.814505643594764,
+          -14.237128351678264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio de Jesus",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 343.0,
+        "production": 343.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2928703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.12222303532223,
+          -13.400221549686353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Felipe",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2929107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.99760876636503,
+          -13.763838905666251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Francisco do Conde",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 157.0,
+        "production": 157.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2929206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.25636888343216,
+          -12.644622777496863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José da Vitória",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2704.0,
+        "production": 2704.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2929354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.74397216684744,
+          -13.633098958933804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel das Matas",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2400.0,
+        "production": 2400.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2929404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.877791591958626,
+          -12.880999315203693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taperoá",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2700.0,
+        "production": 2700.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.772792477088274,
+          -14.227185051915306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teixeira de Freitas",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 78.0,
+        "production": 78.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.485602277839526,
+          -14.26594350520405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teolândia",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7336.0,
+        "production": 7336.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.676327535751085,
+          -12.799380747632995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubaíra",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3500.0,
+        "production": 3500.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.80102327242698,
+          -13.346812262630948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubaitaba",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2234.0,
+        "production": 2234.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.62672004556577,
+          -12.35838013771476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubatã",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5506.0,
+        "production": 5506.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.74943866879741,
+          -13.56745445017185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Una",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 14382.0,
+        "production": 14382.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91550894582834,
+          -13.878575300097763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uruçuca",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 20992.0,
+        "production": 20992.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.68392496818996,
+          -13.67271068251409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Utinga",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 28.0,
+        "production": 28.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.39241728619965,
+          -12.363470859981625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valença",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8498.0,
+        "production": 8498.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.02002047867224,
+          -13.877424242874978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Varzedo",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 582.0,
+        "production": 582.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.85262189064977,
+          -13.147694810620173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vereda",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 57.0,
+        "production": 57.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.855011370940616,
+          -13.481958684918558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Wenceslau Guimarães",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10714.0,
+        "production": 10714.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.40719204847991,
+          -13.069703687659388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aimorés",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3101102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.574489945175166,
+          -19.423267033253612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Almenara",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3101706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.01253388676075,
+          -18.59381865368267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bandeira",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3105202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.42152535607398,
+          -19.23042757019367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itueta",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3134103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.182491685946594,
+          -17.70092064765096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jordânia",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3136504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.89513884094358,
+          -17.668376058461064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Leopoldina",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3138401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.63040992833123,
+          -19.058788281237902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mantena",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3139607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.863037357454864,
+          -18.09905252950165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mata Verde",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3140555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.97972204901979,
+          -17.903420106212167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmópolis",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3146750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.64155528303061,
+          -19.1828507314162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Afonso Cláudio",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.73669616855336,
+          -18.572333232193454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Águia Branca",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 268.0,
+        "production": 268.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.777870529122055,
+          -18.608740436742465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Água Doce do Norte",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.133687096286046,
+          -18.65472340539858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alegre",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.096160683461505,
+          -19.149941874114134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alfredo Chaves",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.007201652151,
+          -19.535734470333676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Rio Novo",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.16691917257433,
+          -19.677413919387135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anchieta",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 61.0,
+        "production": 61.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.35561172753846,
+          -19.571822207086853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aracruz",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.40233057367075,
+          -19.171519172459504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baixo Guandu",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.57745136754407,
+          -18.231042764466746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra de São Francisco",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.226014953143384,
+          -18.719806864935716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Esperança",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 36.0,
+        "production": 36.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.97321636983657,
+          -19.906914748610063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeiro de Itapemirim",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.098275840759094,
+          -19.02151618836552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cariacica",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.57298356456136,
+          -18.26111757788846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colatina",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 730.0,
+        "production": 730.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.41845521294202,
+          -19.07226579485454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Conceição da Barra",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 86.0,
+        "production": 86.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.40868742976618,
+          -19.796527330215234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Domingos Martins",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85866159015723,
+          -18.53262462929523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ecoporanga",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.12351315630334,
+          -19.776059105157895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fundão",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 37.0,
+        "production": 37.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.12171266373223,
+          -19.692463833574248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Governador Lindenberg",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 160.0,
+        "production": 160.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.64903884094358,
+          -18.339576058461063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapari",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 152.0,
+        "production": 152.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.23012690407294,
+          -19.02162741355454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibiraçu",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.508911208057974,
+          -18.40686384709502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iconha",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 55.0,
+        "production": 55.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.13159458556629,
+          -19.048636422633443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaguaçu",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.07441809800673,
+          -18.281290467449406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itarana",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.35561172753846,
+          -19.571822207086853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguaré",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 119.0,
+        "production": 119.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85726594526991,
+          -19.465903262391695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jerônimo Monteiro",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.076615284539926,
+          -19.86507954518688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "João Neiva",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 191.0,
+        "production": 191.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.60263050904634,
+          -19.073729087513566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Laranja da Terra",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.092044368121336,
+          -18.277408694532355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Linhares",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10964.0,
+        "production": 10964.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.1987802230123,
+          -18.347987926575527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marilândia",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.45112189064977,
+          -19.04059481062017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Venécia",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 131.0,
+        "production": 131.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.65343603440307,
+          -18.664112029103798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pancas",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.18938817200219,
+          -18.25156162395011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pedro Canário",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.391074365022014,
+          -19.197758816009628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinheiros",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.68171377220632,
+          -19.071413526424916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piúma",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.744595184168524,
+          -18.448690482605695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ponto Belo",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.14163391316172,
+          -19.941834977993274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Bananal",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 669.0,
+        "production": 669.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.35225089391452,
+          -18.787977897813633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Novo do Sul",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.91645135472589,
+          -20.10629632132524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Leopoldina",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.26813545663743,
+          -19.45966596287888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria de Jetibá",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.374148240358195,
+          -20.096340052381514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Teresa",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 75.0,
+        "production": 75.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.333111618029506,
+          -19.194851387699273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Domingos do Norte",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.88119680335442,
+          -20.14780504333206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Gabriel da Palha",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.964035693198426,
+          -19.1526687043227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Mateus",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 650.0,
+        "production": 650.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.996065458946994,
+          -19.500872333143313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Roque do Canaã",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 32.0,
+        "production": 32.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204955"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4132450258813,
+          -18.2713314562215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serra",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3205002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.40010939550534,
+          -19.28686555657266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sooretama",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3205010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.899264698285805,
+          -19.259006032908882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Viana",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3205101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.83508360101849,
+          -18.828865321543113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Pavão",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3205150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.719721719248426,
+          -19.320960894194002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Valério",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 58.0,
+        "production": 58.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3205176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.65708771187493,
+          -18.585169261766545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aripuanã",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5101407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.72905411318224,
+          -12.05294370910438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasnorte",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5101902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.06446786066351,
+          -12.069359965070488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carlinda",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5102793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.283123353550444,
+          -13.462391145145503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colniza",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5103254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.28052361734619,
+          -13.426855739253062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cotriguaçu",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 315.0,
+        "production": 315.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5103379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.741727099196694,
+          -13.596768572834847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Juína",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5105150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3821326140763,
+          -12.964436775664826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Mundo",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5106265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.64587845802536,
+          -13.138000677520706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paranaíta",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5106299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.92742670011488,
+          -12.178926977202025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Estrela",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5106851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.28052361734619,
+          -13.426855739253062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rondolândia",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5107578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5839641728846,
+          -12.455581139614525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Terra Nova do Norte",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5108055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.413903822176344,
+          -12.343682024635346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Madeira-Guaporé",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1626.0,
+        "production": 1626.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.2761393441891,
+          -11.20546669653632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Leste Rondoniense",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5805.0,
+        "production": 5805.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.96844539706783,
+          -12.116625504133637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Amazonense",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 87.0,
+        "production": 87.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.04807114165585,
+          -4.618174730557049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Amazonense",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 422.0,
+        "production": 422.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.64151384552595,
+          -5.484575625354871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Amazonense",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 486.0,
+        "production": 486.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.082519406805304,
+          -5.512529050305346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul de Roraima",
+        "state": "RR",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 95.0,
+        "production": 95.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.079726612692546,
+          3.5513002184023046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baixo Amazonas",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 15032.0,
+        "production": 15032.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.09816668962762,
+          -3.2046268344033133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marajó",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 84.0,
+        "production": 84.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.24584206117708,
+          -3.3954749754700404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Belém",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2578.0,
+        "production": 2578.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92082048652647,
+          -3.2622402738902068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Paraense",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 14237.0,
+        "production": 14237.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.264773298307006,
+          -3.3611966961972977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Paraense",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 110626.0,
+        "production": 110626.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.551980377858,
+          -2.958038950563545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Paraense",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 19279.0,
+        "production": 19279.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.72890429110457,
+          -4.443654865974439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguaribe",
+        "state": "CE",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.81564461710045,
+          -6.458698921071139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Extremo Oeste Baiano",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.57666312361242,
+          -13.903837046939758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale São-Franciscano da Bahia",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 28.0,
+        "production": 28.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.715572030813114,
+          -13.931745845804667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Norte Baiano",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 261.0,
+        "production": 261.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7596959606196,
+          -14.006004835266625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Salvador",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1918.0,
+        "production": 1918.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.90554350318315,
+          -13.259893713857387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Sul Baiano",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 54598.0,
+        "production": 54598.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.09173558568529,
+          -13.030702507914706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Baiano",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 368973.0,
+        "production": 368973.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36618583828861,
+          -13.946601383326762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequitinhonha",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 113.0,
+        "production": 113.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.47071565498298,
+          -18.321162532942346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Rio Doce",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 23.0,
+        "production": 23.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.6159334149383,
+          -18.81170366021028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Zona da Mata",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.50363974580232,
+          -17.556212101065118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Espírito-santense",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 2061.0,
+        "production": 2061.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.8476054494136,
+          -18.74878751689303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Litoral Norte Espírito-santense",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 13038.0,
+        "production": 13038.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.00443934418911,
+          -18.88316669653632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Central Espírito-santense",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 534.0,
+        "production": 534.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.814382173901116,
+          -19.577124373169386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Espírito-santense",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.41861564634755,
+          -19.450584544016944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Mato-grossense",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 789.0,
+        "production": 789.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.850844188611426,
+          -12.598965154944363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Mato-grossense",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.45730225805217,
+          -11.823745982508642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Velho",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1625.0,
+        "production": 1625.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.63358436368998,
+          -10.70297687930321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guajará-Mirim",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.76515579784139,
+          -11.680842345491442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ariquemes",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1244.0,
+        "production": 1244.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.07564461710045,
+          -12.465998921071138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ji-Paraná",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 4004.0,
+        "production": 4004.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.54652753575108,
+          -11.014580747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alvorada D'Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 71.0,
+        "production": 71.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.43822496417242,
+          -10.976167874931267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacoal",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 339.0,
+        "production": 339.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.79958886846444,
+          -12.106099838063882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vilhena",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 95.0,
+        "production": 95.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.86284000241561,
+          -10.54799261760644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colorado do Oeste",
+        "state": "RO",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 52.0,
+        "production": 52.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.20053708514064,
+          -12.378133038890928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Solimões",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 87.0,
+        "production": 87.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.602935693198425,
+          -4.930168704322699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tefé",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.23004000241561,
+          -4.00319261760644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coari",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 190.0,
+        "production": 190.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.10958304687498,
+          -5.937360154160725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manaus",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.316766095329115,
+          -5.633565333549862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itacoatiara",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.84025948338317,
+          -4.5577557238158155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parintins",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.144124969345334,
+          -4.21341751361353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boca do Acre",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.020784233882914,
+          -5.307865361819012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Madeira",
+        "state": "AM",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 480.0,
+        "production": 480.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.293245247373875,
+          -4.558413124560597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste de Roraima",
+        "state": "RR",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 95.0,
+        "production": 95.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "14004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.27929941489221,
+          2.564790424145347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Óbidos",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.561440603180586,
+          -2.9438472690194444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santarém",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 14965.0,
+        "production": 14965.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.25557114812373,
+          -3.6502389890628244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Almeirim",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 57.0,
+        "production": 57.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06633462735893,
+          -4.2875946606979305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Portel",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 84.0,
+        "production": 84.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.230490595459486,
+          -3.403120362076355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Belém",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1700.0,
+        "production": 1700.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.108025235380445,
+          -3.922960236629578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castanhal",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 878.0,
+        "production": 878.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.59915240796179,
+          -4.611658031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salgado",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.73637548043681,
+          -4.5123083914464654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bragantina",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.818484715691234,
+          -3.145389349926716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cametá",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8388.0,
+        "production": 8388.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.543245990971954,
+          -4.42066148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tomé-Açu",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5420.0,
+        "production": 5420.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.289949808748396,
+          -3.9002368313726414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guamá",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 401.0,
+        "production": 401.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.16537346023627,
+          -4.470665780150894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaituba",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5165.0,
+        "production": 5165.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.84811027495047,
+          -2.9321150601668453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Altamira",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 105461.0,
+        "production": 105461.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.35017657269312,
+          -3.3428432995326123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tucuruí",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5096.0,
+        "production": 5096.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.74249294645481,
+          -4.501731052435448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paragominas",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 130.0,
+        "production": 130.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.47650420295389,
+          -4.493659525833589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Félix do Xingu",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 12548.0,
+        "production": 12548.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5633354152472,
+          -4.566747303301947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parauapebas",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 345.0,
+        "production": 345.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.761137357454864,
+          -3.2988525295016515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marabá",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64645369203947,
+          -3.7997607020460635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Redenção",
+        "state": "PA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1130.0,
+        "production": 1130.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.74564200554793,
+          -2.8798412294877753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baixo Jaguaribe",
+        "state": "CE",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.983418553759215,
+          -5.850146551884254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barreiras",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.40070495100362,
+          -12.30242509449667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Jesus da Lapa",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 28.0,
+        "production": 28.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.54638220856418,
+          -13.326886456472854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Feira de Santana",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 261.0,
+        "production": 261.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.434116574571306,
+          -13.479268715326171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Catu",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.53309458556629,
+          -13.155736422633442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio de Jesus",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1749.0,
+        "production": 1749.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.12222303532223,
+          -13.400221549686353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salvador",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 157.0,
+        "production": 157.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.279543684803,
+          -12.334371724679814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seabra",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 28.0,
+        "production": 28.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.892565586101064,
+          -13.875790060770028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequié",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 46542.0,
+        "production": 46542.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82395810873852,
+          -13.146694300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vitória da Conquista",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 6162.0,
+        "production": 6162.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.48142650273675,
+          -13.214562581176159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapetinga",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1866.0,
+        "production": 1866.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.64616621646274,
+          -13.912110791968011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valença",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 66269.0,
+        "production": 66269.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.02002047867224,
+          -13.877424242874978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilhéus-Itabuna",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 286058.0,
+        "production": 286058.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31024911085011,
+          -13.482543850112666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Seguro",
+        "state": "BA",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 16646.0,
+        "production": 16646.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.014135967507286,
+          -12.313598239502062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Almenara",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 113.0,
+        "production": 113.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.01253388676075,
+          -18.59381865368267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mantena",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.863037357454864,
+          -18.09905252950165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aimorés",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.574489945175166,
+          -19.423267033253612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cataguases",
+        "state": "MG",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.08118360101849,
+          -18.157665321543114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra de São Francisco",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 62.0,
+        "production": 62.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.226014953143384,
+          -18.719806864935716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Venécia",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 608.0,
+        "production": 608.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.65343603440307,
+          -18.664112029103798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colatina",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 1391.0,
+        "production": 1391.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.41845521294202,
+          -19.07226579485454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montanha",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 54.0,
+        "production": 54.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.76780899024247,
+          -19.139613856448264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Mateus",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 863.0,
+        "production": 863.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.996065458946994,
+          -19.500872333143313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Linhares",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 12121.0,
+        "production": 12121.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.1987802230123,
+          -18.347987926575527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Afonso Cláudio",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.73669616855336,
+          -18.572333232193454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Teresa",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 158.0,
+        "production": 158.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.333111618029506,
+          -19.194851387699273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vitória",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 34.0,
+        "production": 34.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.91489542109238,
+          -18.33085319945627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapari",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 329.0,
+        "production": 329.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.23012690407294,
+          -19.02162741355454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alegre",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.096160683461505,
+          -19.149941874114134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeiro de Itapemirim",
+        "state": "ES",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 19.0,
+        "production": 19.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.098275840759094,
+          -19.02151618836552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aripuanã",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 752.0,
+        "production": 752.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.72905411318224,
+          -12.05294370910438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alta Floresta",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.317234709058894,
+          -12.558731271279006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colíder",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.36481745344867,
+          -12.990704298276654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tangará da Serra",
+        "state": "MT",
+        "crop": "Cacau (em amêndoa)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.35994205525846,
+          -13.123775226414148
+        ]
+      }
+    }
+  ]
+}

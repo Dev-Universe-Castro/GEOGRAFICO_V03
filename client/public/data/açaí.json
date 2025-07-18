@@ -1,0 +1,7606 @@
+{
+  "type": "FeatureCollection",
+  "name": "Açaí_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alta Floresta D'Oeste",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.47108362081896,
+          -10.656134520148264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ariquemes",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.07564461710045,
+          -12.465998921071138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Costa Marques",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.00508478546875,
+          -11.14548713243165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guajará-Mirim",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.76515579784139,
+          -11.680842345491442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaru",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.67403057367075,
+          -11.493819172459503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ji-Paraná",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.54652753575108,
+          -11.014580747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Brasilândia D'Oeste",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.36481135333994,
+          -11.38568795223679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ouro Preto do Oeste",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.41508377555539,
+          -12.257183906040966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Velho",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 88.0,
+        "production": 88.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.63358436368998,
+          -10.70297687930321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rolim de Moura",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.27038086711889,
+          -10.87933364579586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel do Guaporé",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.53096235767705,
+          -11.646019929768352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Mamoré",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.836082238306204,
+          -11.40668837618645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Paraíso",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3043165745713,
+          -11.69446871532617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Buritis",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.18659542109238,
+          -10.653153199456273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Horizonte do Oeste",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.35162650273675,
+          -11.429762581176158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacaulândia",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.643838963814304,
+          -10.665928757355275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Candeias do Jamari",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 36.0,
+        "production": 36.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.784453531868145,
+          -11.272358836389603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cujubim",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1100940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.66580633387573,
+          -11.981285168630647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapuã do Oeste",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.776151391294626,
+          -10.514610080263935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mirante da Serra",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.48499549300005,
+          -11.961857622275188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova União",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0361243430993,
+          -10.806849968045134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Primavera de Rondônia",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.44617177332965,
+          -10.875916926893682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Francisco do Guaporé",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1709646982858,
+          -11.581306032908882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Paraíso",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3959981009997,
+          -10.511338329591068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Acrelândia",
+        "state": "AC",
+        "crop": "Açaí",
+        "hectares": 19.0,
+        "production": 19.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1200013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59514436812134,
+          -8.117808694532357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Epitaciolândia",
+        "state": "AC",
+        "crop": "Açaí",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1200252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0674822383062,
+          -8.92478837618645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Plácido de Castro",
+        "state": "AC",
+        "crop": "Açaí",
+        "hectares": 33.0,
+        "production": 33.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1200385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44148401407092,
+          -9.505783016569053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alvarães",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0357221959319,
+          -5.666731860221546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Amaturá",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.02924205138022,
+          -5.401733922788264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anamã",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.058035415247204,
+          -5.815647303301946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anori",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0488649125767,
+          -4.366224824726519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Autazes",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.37797728782578,
+          -4.606648346399459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barcelos",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.74130664605113,
+          -5.603471290844499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Benjamin Constant",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.715515284539926,
+          -5.64257954518688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Beruri",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 29.0,
+        "production": 29.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.67284396082554,
+          -4.133614054890217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caapiranga",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.45830583390284,
+          -5.893920405783088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canutama",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1300904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.345727075710016,
+          -5.770230199043253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carauari",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.23989208901886,
+          -5.618969623235571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Careiro",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.88917761849975,
+          -4.665031187166753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coari",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 220.0,
+        "production": 220.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.10958304687498,
+          -5.937360154160725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Codajás",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 4200.0,
+        "production": 4200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.14335139129463,
+          -3.969810080263935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Eirunepé",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.88222457322698,
+          -5.2452325059246725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Envira",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.913727535751086,
+          -4.469780747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fonte Boa",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.05058844401365,
+          -4.11116949674811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Humaitá",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 700.0,
+        "production": 700.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.37296554833976,
+          -4.169614902211137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itacoatiara",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 72.0,
+        "production": 72.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.84025948338317,
+          -4.5577557238158155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itamarati",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.50680409394203,
+          -5.656607434313416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Japurá",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.69835755413887,
+          -5.449844999578779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jutaí",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.133623637594425,
+          -5.198541331896601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lábrea",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.85074837972674,
+          -5.338470233178043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manacapuru",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.687089496109195,
+          -4.135109972986614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manaus",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 61.0,
+        "production": 61.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.316766095329115,
+          -5.633565333549862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manicoré",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 72.0,
+        "production": 72.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.316766095329115,
+          -5.633565333549862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Olinda do Norte",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.152908945828344,
+          -5.548975300097762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Airão",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.12059771216959,
+          -4.51050139250369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Aripuanã",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.14294350318315,
+          -4.930293713857386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Figueiredo",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 400.0,
+        "production": 400.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.64787402771335,
+          -5.232137664628209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Preto da Eva",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 84.0,
+        "production": 84.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.24790941269896,
+          -4.331096704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio do Içá",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.22424128138704,
+          -4.213126215743218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Gabriel da Cachoeira",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.415520486526475,
+          -4.511140273890207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Paulo de Olivença",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.480898753788594,
+          -5.0567682693018865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Silves",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.16887975654458,
+          -4.348857059979726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tabatinga",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.89060642620482,
+          -5.463229848391632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tapauá",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 148.0,
+        "production": 148.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.26375099117262,
+          -4.323738493599267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tefé",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 92.0,
+        "production": 92.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.23004000241561,
+          -4.00319261760644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uarini",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2638819853014,
+          -5.461615767978133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Urucará",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.55535135472589,
+          -5.8837963213252396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Urucurituba",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.54438536195706,
+          -5.177636594590044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Amajari",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8431152795287,
+          3.364440856436163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caroebe",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.72621484291481,
+          2.795896390900272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iracema",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.77209760296311,
+          2.2440406181298265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mucajaí",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.499584785468755,
+          3.097812867568348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pacaraima",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.138750766377065,
+          2.455022410922658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rorainópolis",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1344557879898,
+          2.9792301969685298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João da Baliza",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.976621765346934,
+          1.9665425235172518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Luiz",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1400605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.567180217620866,
+          3.73367714129792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Abaetetuba",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 20000.0,
+        "production": 20000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.80190089133465,
+          -4.577795482481193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Abel Figueiredo",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 23.0,
+        "production": 23.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.87500533500761,
+          -3.521733579821166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Acará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 4800.0,
+        "production": 4800.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79790543865896,
+          -4.474564730770357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Água Azul do Norte",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 48.0,
+        "production": 48.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.15009760296311,
+          -4.205559381870174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alenquer",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 1044.0,
+        "production": 1044.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.39063875190689,
+          -3.679611225503399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Almeirim",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 130.0,
+        "production": 130.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06633462735893,
+          -4.2875946606979305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Altamira",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 44.0,
+        "production": 44.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.35017657269312,
+          -3.3428432995326123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anajás",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 7750.0,
+        "production": 7750.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06291472370738,
+          -2.717911871616736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ananindeua",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 27.0,
+        "production": 27.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.08757433521904,
+          -2.907767585492958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anapu",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 275.0,
+        "production": 275.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.71982073238164,
+          -4.039614282600856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Augusto Corrêa",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 230.0,
+        "production": 230.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.65695353186815,
+          -3.4786588363896054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aurora do Pará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 1225.0,
+        "production": 1225.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1500958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.25348963934446,
+          -3.0692849371208215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aveiro",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 45.0,
+        "production": 45.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.464400505399674,
+          -2.887313281280502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bagre",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 7700.0,
+        "production": 7700.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.54884382600857,
+          -4.382324079998043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baião",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 1500.0,
+        "production": 1500.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1894634693573,
+          -3.6385539477218893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barcarena",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 10000.0,
+        "production": 10000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.97537821166217,
+          -3.4217981004219293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Belém",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.108025235380445,
+          -3.922960236629578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Belterra",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 24.0,
+        "production": 24.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.05998112408905,
+          -3.526863837823437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Benevides",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.65088487862293,
+          -3.290632533875015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Jesus do Tocantins",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.63019099079526,
+          -3.977939276799733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bonito",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0927197283299,
+          -3.546823121233645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bragança",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 160.0,
+        "production": 160.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.11042641734357,
+          -3.687690980957351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasil Novo",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.26105411318223,
+          -3.0830437091043796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Breu Branco",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501782"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.230490595459486,
+          -3.403120362076355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Breves",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 2810.0,
+        "production": 2810.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.07407686033237,
+          -3.917022246037085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bujaru",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 6200.0,
+        "production": 6200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.228302277839525,
+          -4.687443505204049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Piriá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 900.0,
+        "production": 900.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.91643536676947,
+          -2.967668039344036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Arari",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 600.0,
+        "production": 600.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.49645089391452,
+          -3.3165778978136355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cametá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 30000.0,
+        "production": 30000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.543245990971954,
+          -4.42066148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canaã dos Carajás",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 85.0,
+        "production": 85.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.80719026467396,
+          -3.69587377581997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capanema",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.97980372418071,
+          -2.8319318192983087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capitão Poço",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 1200.0,
+        "production": 1200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.17559792527761,
+          -4.058575313401521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castanhal",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 1200.0,
+        "production": 1200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.59915240796179,
+          -4.611658031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colares",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.58706271829129,
+          -3.936887409779054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Concórdia do Pará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 2100.0,
+        "production": 2100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.01330238938425,
+          -3.6791231810444742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curionópolis",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.76143635332389,
+          -3.615761892376602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curralinho",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 2250.0,
+        "production": 2250.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.08640200397083,
+          -2.9183917480072203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curuá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 430.0,
+        "production": 430.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.540218274619335,
+          -2.814756349553554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curuçá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.877190046261624,
+          -4.348427837313711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dom Eliseu",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 53.0,
+        "production": 53.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3583033317958,
+          -3.096750837531827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Eldorado do Carajás",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.545348963223596,
+          -3.325383971547633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Garrafão do Norte",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503077"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.87595585722682,
+          -2.819622940070236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Goianésia do Pará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.14312002838497,
+          -2.73609406615929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gurupá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 380.0,
+        "production": 380.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.96973112964595,
+          -4.384845490766613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Igarapé-Açu",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 800.0,
+        "production": 800.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5324917613051,
+          -3.7542416376115364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Igarapé-Miri",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 52000.0,
+        "production": 52000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79763603440307,
+          -3.192712029103798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Inhangapi",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 2570.0,
+        "production": 2570.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9853682465155,
+          -3.395124982227255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipixuna do Pará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 110.0,
+        "production": 110.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.28517187883402,
+          -4.552309538961778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irituia",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 560.0,
+        "production": 560.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.216899367146624,
+          -4.292638041258286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaituba",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.84811027495047,
+          -2.9321150601668453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itupiranga",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85956574919465,
+          -4.365653795840394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacareacanga",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.82216829308481,
+          -3.8844048599615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacundá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.48839217358934,
+          -3.724334699116856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Juruti",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.107046219903914,
+          -2.8560168682446516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Limoeiro do Ajuru",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 9000.0,
+        "production": 9000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1428808671189,
+          -3.085633645795862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mãe do Rio",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.34358362081896,
+          -2.8624345201482653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Magalhães Barata",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.19589586824903,
+          -3.118102959472668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marabá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64645369203947,
+          -3.7997607020460635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maracanã",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.577034352288194,
+          -4.290657924063412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marapanim",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 69.0,
+        "production": 69.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.48835511859021,
+          -3.919474192837907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Medicilândia",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 130.0,
+        "production": 130.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.24584206117708,
+          -3.3954749754700404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Melgaço",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 4500.0,
+        "production": 4500.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83971844576264,
+          -3.668032180575014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mocajuba",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 6700.0,
+        "production": 6700.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.15646445045625,
+          -4.6447040059605715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Moju",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 5000.0,
+        "production": 5000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.387524573226976,
+          -3.9963325059246735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mojuí dos Campos",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83976401325876,
+          -4.308630562748136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Alegre",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 38.0,
+        "production": 38.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0767883117854,
+          -3.3428924084353797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Muaná",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 3850.0,
+        "production": 3850.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76905099117262,
+          -3.074838493599267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Esperança do Piriá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.97413011045065,
+          -3.3119098434865046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Ipixuna",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.36881565498298,
+          -3.5209625329423453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Timboteua",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.592656639884595,
+          -2.756629916679742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Progresso",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 128.0,
+        "production": 128.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.65695353186815,
+          -3.4786588363896054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Novo Repartimento",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.27324120467018,
+          -3.1202712624799167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Óbidos",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.561440603180586,
+          -2.9438472690194444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeiras do Pará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 3400.0,
+        "production": 3400.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.89986126668236,
+          -4.313977293315378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ourém",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.49213866879741,
+          -3.9889544501718497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ourilândia do Norte",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.94590382217634,
+          -3.373782024635345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pacajá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 55.0,
+        "production": 55.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8555387294905,
+          -2.802600206944514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paragominas",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 305.0,
+        "production": 305.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.47650420295389,
+          -4.493659525833589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parauapebas",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 240.0,
+        "production": 240.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.761137357454864,
+          -3.2988525295016515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Peixe-Boi",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00196516762357,
+          -3.2459183227027775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ponta de Pedras",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 3600.0,
+        "production": 3600.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.630382938587786,
+          -4.583779155688526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Portel",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 4200.0,
+        "production": 4200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.230490595459486,
+          -3.403120362076355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto de Moz",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 270.0,
+        "production": 270.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.12246581835773,
+          -3.599622146188791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prainha",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 180.0,
+        "production": 180.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.48439087495176,
+          -4.359864713765683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Primavera",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.19645957803804,
+          -3.3470461721052946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quatipuru",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.69863530216167,
+          -4.516896725881075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rondon do Pará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.419027535751084,
+          -3.220880747632995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salvaterra",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.56553005867878,
+          -2.881092387139983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Bárbara do Pará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.471700938972255,
+          -4.302217549877312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Izabel do Pará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 5000.0,
+        "production": 5000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.72165136754407,
+          -2.759642764466747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria do Pará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 220.0,
+        "production": 220.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6776406841695,
+          -3.6107628530298843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santarém",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 56.0,
+        "production": 56.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.25557114812373,
+          -3.6502389890628244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santarém Novo",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.543245990971954,
+          -4.42066148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio do Tauá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 600.0,
+        "production": 600.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.069074480620415,
+          -4.322369164586477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Caetano de Odivelas",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.109402193612055,
+          -3.8739684086809376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Domingos do Araguaia",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 160.0,
+        "production": 160.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.77474290775466,
+          -3.1277111453532687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Domingos do Capim",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 3000.0,
+        "production": 3000.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.75320941269896,
+          -3.082196704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Francisco do Pará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.20715242717694,
+          -2.715246269732232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Geraldo do Araguaia",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.87212846463622,
+          -2.961417055708435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João da Ponta",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 110.0,
+        "production": 110.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.85437271284029,
+          -3.965327625504477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João de Pirabas",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.38886621646274,
+          -4.333610791968012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João do Araguaia",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.24956584870191,
+          -4.662679935446753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel do Guamá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 380.0,
+        "production": 380.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.24503953085742,
+          -3.8110109623620465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Sebastião da Boa Vista",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 5300.0,
+        "production": 5300.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.55720564359476,
+          -4.658628351678264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tailândia",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.08640200397083,
+          -2.9183917480072203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Terra Alta",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 135.0,
+        "production": 135.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1507961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.64141969960511,
+          -4.537107232757726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tomé-Açu",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 3520.0,
+        "production": 3520.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.289949808748396,
+          -3.9002368313726414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tracuateua",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.87859179606755,
+          -3.8911144705540286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Trairão",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 147.0,
+        "production": 147.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.49064922987324,
+          -4.477571777410734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tucumã",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.108025235380445,
+          -3.922960236629578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tucuruí",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.74249294645481,
+          -4.501731052435448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ulianópolis",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 47.0,
+        "production": 47.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64721390084523,
+          -4.604591659871788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uruará",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 136.0,
+        "production": 136.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.88327728782578,
+          -3.3577483463994593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vigia",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.84811027495047,
+          -2.9321150601668453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Viseu",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 1160.0,
+        "production": 1160.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.57349732652119,
+          -4.047795665414481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vitória do Xingu",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.755855901251714,
+          -3.9329163905248743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Xinguara",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1508407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.756835967507286,
+          -2.7350982395020624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bernardo Sayão",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1703206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.026139385245386,
+          -10.368296491448373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Buriti do Tocantins",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1703800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.402305643594765,
+          -11.121928351678264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Couto Magalhães",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1706001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.66022335355044,
+          -10.955791145145502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Esperantina",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1707405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.255632588358765,
+          -9.662042241292966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Goianorte",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1708304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.675428730780474,
+          -10.367667533906612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaraí",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1709302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.06626942584755,
+          -10.878957587225832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaguatins",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1710706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.33652753350399,
+          -10.584088143699747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapiratins",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1710904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.31321953934971,
+          -9.635197304082169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lagoa da Confusão",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 171.0,
+        "production": 171.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1711902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.819230110450654,
+          -9.775209843486504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pedro Afonso",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1716505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.42237577313689,
+          -9.21115494044534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colméia",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1716703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.999754986033075,
+          -10.148983669056834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Nacional",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1718204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.396932870873115,
+          -10.9946202914613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmas",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1721000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.360592477088275,
+          -11.111985051915306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Xambioá",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1722107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.05269112101159,
+          -9.98627829524863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Amapá do Maranhão",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 19.0,
+        "production": 19.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2100550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.57537748941397,
+          -5.670227676333438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Amarante do Maranhão",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2100600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.038444911454214,
+          -5.400148140915154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arari",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 38.0,
+        "production": 38.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2101004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.26202234568401,
+          -5.188988925895993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bacabal",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2101202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.413956639884596,
+          -4.005529916679741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra do Corda",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2101608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.294605348977086,
+          -5.6714588947326625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Vista do Gurupi",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 45.0,
+        "production": 45.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2101970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.175419184435526,
+          -5.881774047219933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cândido Mendes",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2102606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.47072496934533,
+          -4.21341751361353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carutapera",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 72.0,
+        "production": 72.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2102903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.01269566619313,
+          -5.734985659647673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro do Guilherme",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2103158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.14092535607398,
+          -5.679127570193668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Formosa da Serra Negra",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2104099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.913263489902,
+          -5.191490835108179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Godofredo Viana",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2104305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.808387720007794,
+          -4.465887839398519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Governador Nunes Freire",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 45.0,
+        "production": 45.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2104677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.53067262595486,
+          -4.040978139610089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Grajaú",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2104800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.17373386194669,
+          -4.924479860267583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaipava do Grajaú",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2105351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1642802230123,
+          -4.12548792657553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Junco do Maranhão",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2105658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.952288242480535,
+          -5.574209498510584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Luís Domingues",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 42.0,
+        "production": 42.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2106201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.04503158394409,
+          -4.723865622633966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maracaçumé",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2106326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.74147058144019,
+          -4.9787873062298456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maranhãozinho",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2106375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.52777613720992,
+          -5.034885284369957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Matinha",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2106508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.999178458025355,
+          -5.417000677520704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Penalva",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2108306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.71285606333581,
+          -5.510824111146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Luzia do Paruá",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 42.0,
+        "production": 42.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2110039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.0537402279546,
+          -5.937979508243347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Viana",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2112803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.80058360101849,
+          -4.606365321543113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vila Nova dos Martírios",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2112852"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.70026902450206,
+          -4.442549614460047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cascavel",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2303501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.50519706529497,
+          -5.286882244065547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibiapina",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2305308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.46522860193161,
+          -5.503027181569804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Limoeiro do Norte",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2307601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.57880243512395,
+          -5.600254018876625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paracuru",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2310209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.25187410883724,
+          -6.024227386978177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tianguá",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2313401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.48271346699854,
+          -6.216858147878329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubajara",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2313609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.32689521794006,
+          -6.100136222566965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Viçosa do Ceará",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2314102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.044316574571305,
+          -5.687168715326172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maraial",
+        "state": "PE",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2609204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.941082552510395,
+          -8.716322649407482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Atalaia",
+        "state": "AL",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2700409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.249070581440186,
+          -9.589187306229848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boca da Mata",
+        "state": "AL",
+        "crop": "Açaí",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2701001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.04676392430218,
+          -10.510189359625253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Japaratinga",
+        "state": "AL",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2703601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.3852009193925,
+          -9.127287461367207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maragogi",
+        "state": "AL",
+        "crop": "Açaí",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2704500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.857815735378686,
+          -8.862280681452242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paripueira",
+        "state": "AL",
+        "crop": "Açaí",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2706448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.35478877221266,
+          -8.574876991652253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pilar",
+        "state": "AL",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2706901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.78328321195784,
+          -9.07702014928488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aiquara",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2900603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.199902611520734,
+          -13.000767979473954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Apuarema",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2901957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.25636888343216,
+          -12.644622777496863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arataca",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 399.0,
+        "production": 399.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31389579245138,
+          -13.544628469976281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra do Rocha",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.05920089133465,
+          -14.156295482481193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barro Preto",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.69479564555753,
+          -13.783322604807257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Nova",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.263543038164634,
+          -13.8928429014375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camamu",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 85.0,
+        "production": 85.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.19282212086149,
+          -12.96461576916309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canavieiras",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.25876594526991,
+          -13.573003262391696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilhéus",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 241.0,
+        "production": 241.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82283005867878,
+          -12.459592387139983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itagi",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.12966852827323,
+          -13.156251942796032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itajuípe",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 106.0,
+        "production": 106.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.60274176267823,
+          -13.617843235272739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itamaraju",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.33310365736925,
+          -13.260624091984502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itanhém",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2916005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7983221959319,
+          -13.996331860221545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguaquara",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.56866821078406,
+          -13.364663290510707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequié",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82395810873852,
+          -13.146694300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jitaúna",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.87218304687498,
+          -14.266960154160724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maraú",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2920700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85645240796179,
+          -14.190158031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mutuípe",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.32021472370738,
+          -12.296411871616735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Seguro",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.014135967507286,
+          -12.313598239502062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Taperoá",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.772792477088274,
+          -14.227185051915306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubaíra",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.80102327242698,
+          -13.346812262630948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubaitaba",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 31.0,
+        "production": 31.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.62672004556577,
+          -12.35838013771476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Una",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 298.0,
+        "production": 298.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91550894582834,
+          -13.878575300097763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uruçuca",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 149.0,
+        "production": 149.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.68392496818996,
+          -13.67271068251409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valença",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 143.0,
+        "production": 143.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.02002047867224,
+          -13.877424242874978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alfredo Chaves",
+        "state": "ES",
+        "crop": "Açaí",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.007201652151,
+          -19.535734470333676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anchieta",
+        "state": "ES",
+        "crop": "Açaí",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.35561172753846,
+          -19.571822207086853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colatina",
+        "state": "ES",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.41845521294202,
+          -19.07226579485454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iconha",
+        "state": "ES",
+        "crop": "Açaí",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3202603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.13159458556629,
+          -19.048636422633443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Leopoldina",
+        "state": "ES",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.26813545663743,
+          -19.45966596287888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colíder",
+        "state": "MT",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5103205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.36481745344867,
+          -12.990704298276654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Madeira-Guaporé",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 268.0,
+        "production": 268.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.2761393441891,
+          -11.20546669653632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Leste Rondoniense",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 61.0,
+        "production": 61.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.96844539706783,
+          -12.116625504133637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Acre",
+        "state": "AC",
+        "crop": "Açaí",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.67385881011255,
+          -9.694208821837321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Amazonense",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 112.0,
+        "production": 112.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.193089133188046,
+          -5.165939787979778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Amazonense",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 207.0,
+        "production": 207.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.04807114165585,
+          -4.618174730557049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Amazonense",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 5533.0,
+        "production": 5533.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.64151384552595,
+          -5.484575625354871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Amazonense",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 1080.0,
+        "production": 1080.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.082519406805304,
+          -5.512529050305346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte de Roraima",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 24.0,
+        "production": 24.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.68309500012854,
+          2.328406989216294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul de Roraima",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 425.0,
+        "production": 425.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.079726612692546,
+          3.5513002184023046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baixo Amazonas",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 2287.0,
+        "production": 2287.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.09816668962762,
+          -3.2046268344033133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marajó",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 42970.0,
+        "production": 42970.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.24584206117708,
+          -3.3954749754700404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Belém",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 26117.0,
+        "production": 26117.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92082048652647,
+          -3.2622402738902068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Paraense",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 151329.0,
+        "production": 151329.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.264773298307006,
+          -3.3611966961972977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Paraense",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 1155.0,
+        "production": 1155.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.551980377858,
+          -2.958038950563545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Paraense",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 2099.0,
+        "production": 2099.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.72890429110457,
+          -4.443654865974439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ocidental do Tocantins",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 212.0,
+        "production": 212.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4025450258813,
+          -9.2632314562215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oriental do Tocantins",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "1702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.386232548604,
+          -9.806135226405777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Maranhense",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 141.0,
+        "production": 141.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.258731797134395,
+          -4.400894048186614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeste Maranhense",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 381.0,
+        "production": 381.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.70457728782578,
+          -4.606648346399459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Maranhense",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 19.0,
+        "production": 19.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.49149901649388,
+          -4.005593354423441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Cearense",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.974546219903914,
+          -4.642416868244652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Cearense",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.12660382578484,
+          -5.478362986513041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguaribe",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.81564461710045,
+          -6.458698921071139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mata Pernambucana",
+        "state": "PE",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.56209500012854,
+          -9.222893010783707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Leste Alagoano",
+        "state": "AL",
+        "crop": "Açaí",
+        "hectares": 58.0,
+        "production": 58.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.83493946599681,
+          -9.612516038594809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Sul Baiano",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 45.0,
+        "production": 45.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.09173558568529,
+          -13.030702507914706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Baiano",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 1665.0,
+        "production": 1665.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36618583828861,
+          -13.946601383326762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Espírito-santense",
+        "state": "ES",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.8476054494136,
+          -18.74878751689303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Central Espírito-santense",
+        "state": "ES",
+        "crop": "Açaí",
+        "hectares": 91.0,
+        "production": 91.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.814382173901116,
+          -19.577124373169386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Mato-grossense",
+        "state": "MT",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.850844188611426,
+          -12.598965154944363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Velho",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 260.0,
+        "production": 260.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.63358436368998,
+          -10.70297687930321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guajará-Mirim",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.76515579784139,
+          -11.680842345491442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ariquemes",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.07564461710045,
+          -12.465998921071138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ji-Paraná",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.54652753575108,
+          -11.014580747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alvorada D'Oeste",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.43822496417242,
+          -10.976167874931267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacoal",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 21.0,
+        "production": 21.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.79958886846444,
+          -12.106099838063882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vilhena",
+        "state": "RO",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "11007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.86284000241561,
+          -10.54799261760644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Branco",
+        "state": "AC",
+        "crop": "Açaí",
+        "hectares": 52.0,
+        "production": 52.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "12004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.961295582124,
+          -9.428658517488996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasiléia",
+        "state": "AC",
+        "crop": "Açaí",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "12005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.209389668062,
+          -8.161718776310932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Negro",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.79167221045083,
+          -4.815746521314717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Japurá",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.69835755413887,
+          -5.449844999578779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Solimões",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 123.0,
+        "production": 123.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.602935693198425,
+          -4.930168704322699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Juruá",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 84.0,
+        "production": 84.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.17173054076063,
+          -4.092376074592054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tefé",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 107.0,
+        "production": 107.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.23004000241561,
+          -4.00319261760644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coari",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 4599.0,
+        "production": 4599.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.10958304687498,
+          -5.937360154160725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manaus",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 213.0,
+        "production": 213.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.316766095329115,
+          -5.633565333549862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Preto da Eva",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 484.0,
+        "production": 484.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.24790941269896,
+          -4.331096704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itacoatiara",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 122.0,
+        "production": 122.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.84025948338317,
+          -4.5577557238158155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parintins",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.144124969345334,
+          -4.21341751361353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Purus",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 208.0,
+        "production": 208.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.293245247373875,
+          -4.558413124560597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Madeira",
+        "state": "AM",
+        "crop": "Açaí",
+        "hectares": 872.0,
+        "production": 872.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "13013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.293245247373875,
+          -4.558413124560597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Vista",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 24.0,
+        "production": 24.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "14001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.384720478672236,
+          2.150675757125021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caracaraí",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "14003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.03386792043871,
+          3.0683829872699473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste de Roraima",
+        "state": "RR",
+        "crop": "Açaí",
+        "hectares": 395.0,
+        "production": 395.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "14004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.27929941489221,
+          2.564790424145347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Óbidos",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.561440603180586,
+          -2.9438472690194444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santarém",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 1852.0,
+        "production": 1852.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.25557114812373,
+          -3.6502389890628244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Almeirim",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 400.0,
+        "production": 400.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06633462735893,
+          -4.2875946606979305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Portel",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 16780.0,
+        "production": 16780.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.230490595459486,
+          -3.403120362076355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Furos de Breves",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 18110.0,
+        "production": 18110.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.38437410883724,
+          -4.237827386978178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arari",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 8080.0,
+        "production": 8080.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.44072234568401,
+          -3.9400889258959935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Belém",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 10547.0,
+        "production": 10547.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.108025235380445,
+          -3.922960236629578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castanhal",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 15570.0,
+        "production": 15570.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.59915240796179,
+          -4.611658031666888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salgado",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 894.0,
+        "production": 894.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.73637548043681,
+          -4.5123083914464654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bragantina",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 2680.0,
+        "production": 2680.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.818484715691234,
+          -3.145389349926716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cametá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 122600.0,
+        "production": 122600.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.543245990971954,
+          -4.42066148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tomé-Açu",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 15720.0,
+        "production": 15720.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.289949808748396,
+          -3.9002368313726414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guamá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 9435.0,
+        "production": 9435.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.16537346023627,
+          -4.470665780150894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaituba",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 380.0,
+        "production": 380.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.84811027495047,
+          -2.9321150601668453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Altamira",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 775.0,
+        "production": 775.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.35017657269312,
+          -3.3428432995326123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tucuruí",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 595.0,
+        "production": 595.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.74249294645481,
+          -4.501731052435448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paragominas",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 599.0,
+        "production": 599.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.47650420295389,
+          -4.493659525833589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Félix do Xingu",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5633354152472,
+          -4.566747303301947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parauapebas",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 428.0,
+        "production": 428.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.761137357454864,
+          -3.2988525295016515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marabá",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 310.0,
+        "production": 310.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64645369203947,
+          -3.7997607020460635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Redenção",
+        "state": "PA",
+        "crop": "Açaí",
+        "hectares": 77.0,
+        "production": 77.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "15021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.74564200554793,
+          -2.8798412294877753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bico do Papagaio",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "17001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6217242736727,
+          -9.449286249285098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araguaína",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "17002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.404710060083296,
+          -10.982617771111492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Miracema do Tocantins",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "17003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.13093391316172,
+          -10.933734977993275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Formoso",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 171.0,
+        "production": 171.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "17004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.91455235774225,
+          -10.84287112886631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Nacional",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 24.0,
+        "production": 24.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "17006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.396932870873115,
+          -10.9946202914613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jalapão",
+        "state": "TO",
+        "crop": "Açaí",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Norte",
+        "ibge_code": "17007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.86538240889321,
+          -9.995119239254256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baixada Maranhense",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 141.0,
+        "production": 141.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "21005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.62258771187493,
+          -4.362669261766546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gurupi",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 322.0,
+        "production": 322.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "21007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.41902860193161,
+          -4.965527181569804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pindaré",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 42.0,
+        "production": 42.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "21008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.867751702861256,
+          -5.870200236775913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Imperatriz",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 17.0,
+        "production": 17.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "21009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.38795810873852,
+          -4.817094300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Médio Mearim",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "21010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.37902176919256,
+          -5.223348170268825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alto Mearim e Grajaú",
+        "state": "MA",
+        "crop": "Açaí",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "21011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.82920299700879,
+          -4.712311979160306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibiapaba",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.33984451785837,
+          -4.983622536568296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baixo Curu",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.07236219904769,
+          -5.4047968929267345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cascavel",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.50519706529497,
+          -5.286882244065547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baixo Jaguaribe",
+        "state": "CE",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.983418553759215,
+          -5.850146551884254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mata Meridional Pernambucana",
+        "state": "PE",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "26015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.834555227839004,
+          -8.908940892980363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mata Alagoana",
+        "state": "AL",
+        "crop": "Açaí",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "27009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.453600945484624,
+          -9.404427459184582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Litoral Norte Alagoano",
+        "state": "AL",
+        "crop": "Açaí",
+        "hectares": 23.0,
+        "production": 23.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "27010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.40465128960459,
+          -8.931687607868128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maceió",
+        "state": "AL",
+        "crop": "Açaí",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "27011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.04676392430218,
+          -10.510189359625253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel dos Campos",
+        "state": "AL",
+        "crop": "Açaí",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "27012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.678366704636574,
+          -9.683381211289147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequié",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82395810873852,
+          -13.146694300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vitória da Conquista",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.48142650273675,
+          -13.214562581176159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valença",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 253.0,
+        "production": 253.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.02002047867224,
+          -13.877424242874978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilhéus-Itabuna",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 1281.0,
+        "production": 1281.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31024911085011,
+          -13.482543850112666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Seguro",
+        "state": "BA",
+        "crop": "Açaí",
+        "hectares": 131.0,
+        "production": 131.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.014135967507286,
+          -12.313598239502062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colatina",
+        "state": "ES",
+        "crop": "Açaí",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.41845521294202,
+          -19.07226579485454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Teresa",
+        "state": "ES",
+        "crop": "Açaí",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.333111618029506,
+          -19.194851387699273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapari",
+        "state": "ES",
+        "crop": "Açaí",
+        "hectares": 83.0,
+        "production": 83.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.23012690407294,
+          -19.02162741355454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Colíder",
+        "state": "MT",
+        "crop": "Açaí",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.36481745344867,
+          -12.990704298276654
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1246 @@
+{
+  "type": "FeatureCollection",
+  "name": "Centeio (em grão)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campina do Simão",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76167051346922,
+          -24.953386363238785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carambeí",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.052040616867274,
+          -25.6047203875302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Castro",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92750372418071,
+          -24.01313181929831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Fernandes Pinheiro",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.08074262281275,
+          -25.137297159343085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Goioxim",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.454613446666386,
+          -24.630998612824463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guamiranga",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64633530216167,
+          -25.698096725881076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapuava",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.238220139218434,
+          -25.400236080661283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Imbituva",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 220.0,
+        "production": 220.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4887221959319,
+          -25.599031860221547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipiranga",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.63622562632207,
+          -25.82512501192528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irati",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.81486355637029,
+          -24.36246769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ivaí",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4111407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.969943684803,
+          -23.937071724679814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mallet",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4113908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76731425521419,
+          -24.909579981153286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmas",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4117602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.46319247708827,
+          -25.829885051915305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmeira",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4117701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6255625206871,
+          -24.73158484760864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinhão",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00429579245138,
+          -25.147328469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piraí do Sul",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03641026323701,
+          -24.470359881488754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ponta Grossa",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 385.0,
+        "production": 385.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83068141753443,
+          -24.213114855884015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Amazonas",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.869650071842386,
+          -24.357181283534437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prudentópolis",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.868452553854915,
+          -24.898126862482794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rebouças",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.949165945269904,
+          -25.175703262391696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Reserva",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4121703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.687271926273105,
+          -24.900887660399174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Azul",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4122008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.70177748941396,
+          -25.602527676333438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João do Triunfo",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4125100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.320410878260056,
+          -25.24716393889961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teixeira Soares",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4127007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.20616826411123,
+          -24.24938626341732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tibagi",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4127502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.17223462006731,
+          -24.477363951876967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Turvo",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4127965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.11123849782739,
+          -24.36543685107321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ajuricaba",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.894838903009514,
+          -30.67207027333356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Branco",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.677963363897824,
+          -30.40372962239311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chiapetta",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.35008315566099,
+          -29.861271459036743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 705.0,
+        "production": 705.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Giruá",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.10865468997908,
+          -29.077890283258007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guabiju",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.141381496442115,
+          -30.916499684984394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmeira das Missões",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64991058307983,
+          -30.149708333619415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Panambi",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passa Sete",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.087150222213694,
+          -29.432340743404925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tapera",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9337748215832,
+          -29.317088685731573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Oriental Paranaense",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 665.0,
+        "production": 665.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.49094599097195,
+          -25.60186148979174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro-Sul Paranaense",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 780.0,
+        "production": 780.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.37871492078486,
+          -25.44258769392081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Paranaense",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 880.0,
+        "production": 880.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.700909412698955,
+          -24.263396704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Curitiba",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.614362550445165,
+          -25.20470843584119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Rio-grandense",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 1895.0,
+        "production": 1895.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.808064698285804,
+          -30.110206032908884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Rio-grandense",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95697582006793,
+          -29.547062613117284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Oriental Rio-grandense",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 85.0,
+        "production": 85.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.262714353641655,
+          -30.845451245877808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Telêmaco Borba",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.62473054076062,
+          -24.024676074592055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguariaíva",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.49953287087311,
+          -25.712520291461303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ponta Grossa",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 575.0,
+        "production": 575.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83068141753443,
+          -24.213114855884015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapuava",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 680.0,
+        "production": 680.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.238220139218434,
+          -25.400236080661283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmas",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.46319247708827,
+          -25.829885051915305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prudentópolis",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 660.0,
+        "production": 660.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.868452553854915,
+          -24.898126862482794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irati",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 210.0,
+        "production": 210.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.81486355637029,
+          -24.36246769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Mateus do Sul",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56255724287319,
+          -24.09035359674158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lapa",
+        "state": "PR",
+        "crop": "Centeio (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.89787260513806,
+          -24.701920965597537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 840.0,
+        "production": 840.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 260.0,
+        "production": 260.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 705.0,
+        "production": 705.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Não-Me-Toque",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.09815522783901,
+          -30.129840892980365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz do Sul",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.183627535751086,
+          -29.543480747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Sul",
+        "state": "RS",
+        "crop": "Centeio (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60166052156125,
+          -29.97518757011881
+        ]
+      }
+    }
+  ]
+}

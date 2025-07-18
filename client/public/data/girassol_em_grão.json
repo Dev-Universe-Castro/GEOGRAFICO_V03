@@ -1,0 +1,3546 @@
+{
+  "type": "FeatureCollection",
+  "name": "Girassol (em grão)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araguari",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3103504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.32057858646141,
+          -18.03710081975363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araporã",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3103751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.892679445101614,
+          -18.799403586474554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centralina",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 487.0,
+        "production": 487.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3115805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.661510060083295,
+          -19.319517771111492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Estrela do Sul",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3124807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.86637987525143,
+          -19.21298631852781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ituiutaba",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3134202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.97972204901979,
+          -17.903420106212167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Carmelo",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 287.0,
+        "production": 287.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3143104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.10980299700879,
+          -18.263611979160306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Ponte",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 390.0,
+        "production": 390.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3145000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.42051978370509,
+          -19.126860625377606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Prata",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 504.0,
+        "production": 504.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3152808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.70105240796179,
+          -19.41185803166689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sacramento",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3156908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.170974480620416,
+          -19.122569164586476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tupaciguara",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 3280.0,
+        "production": 3280.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3169604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.82202694423408,
+          -19.206991477049538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uberaba",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3170107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.84220876636503,
+          -18.98553890566625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uberlândia",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 1440.0,
+        "production": 1440.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3170206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.420571773329655,
+          -17.882416926893683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bariri",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3505203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18369913713026,
+          -23.32721321495023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Esperança do Sul",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3506706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29962389828077,
+          -23.82273372673383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boracéia",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3507308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.05879179606755,
+          -23.72961447055403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campos Novos Paulista",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 24.0,
+        "production": 24.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3509809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.32185917179189,
+          -24.25592318433141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cesário Lange",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3511607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.57292489693842,
+          -23.515858200986553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Corumbataí",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3512704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.679174912488065,
+          -24.009549334486632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gavião Peixoto",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3516853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.8530228935949,
+          -23.316217046660096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iacanga",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3519105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.469754301307205,
+          -22.796477826763265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaju",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3522000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.99868471569123,
+          -22.983889349926717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itápolis",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3522703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38970588663671,
+          -23.819556204345062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Matão",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3529302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74685810873852,
+          -23.406694300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Europa",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3532900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.982100891334646,
+          -24.416295482481193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paraíso",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3535705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.739490437352465,
+          -23.491044212474208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quadra",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3541653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.03539623839006,
+          -23.99366996893204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Riolândia",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3544202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69064216860269,
+          -22.870871978402935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Bárbara d'Oeste",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3545803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57517898841823,
+          -23.268808750214586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José do Rio Preto",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3549805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.84776088406008,
+          -23.321006210845574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sumaré",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 170.0,
+        "production": 170.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3552403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.03068966806201,
+          -22.688418776310932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tabatinga",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3552700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57610642620482,
+          -24.05282984839163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Kaloré",
+        "state": "PR",
+        "crop": "Girassol (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4113106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.36744636749308,
+          -24.03905044890245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mariluz",
+        "state": "PR",
+        "crop": "Girassol (em grão)",
+        "hectares": 73.0,
+        "production": 73.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4115101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.631352657452176,
+          -25.81344162372427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quarto Centenário",
+        "state": "PR",
+        "crop": "Girassol (em grão)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.61789901649388,
+          -23.93789335442344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alegria",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.218983211957834,
+          -29.54032014928488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Vista das Missões",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.53721311934954,
+          -29.638153226032397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bossoroca",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.16633974580232,
+          -29.07861210106512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cândido Godói",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 37.0,
+        "production": 37.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.30890939550534,
+          -30.138065556572663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chiapetta",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.35008315566099,
+          -29.861271459036743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Entre-Ijuís",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83405235774225,
+          -30.70217112886631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Giruá",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.10865468997908,
+          -29.077890283258007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Horizontina",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.04039458556629,
+          -29.89983642263344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Independência",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.64787728782578,
+          -29.68034834639946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Candelária",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.90081718743749,
+          -30.96852325441474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Lucena",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.47590243512395,
+          -30.136454018876627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Roque Gonzales",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.564693609731165,
+          -29.47376526183401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Rosa",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio das Missões",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.65364192683142,
+          -29.862404463088087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Borja",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 800.0,
+        "production": 800.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.436688868464444,
+          -30.634999838063884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Jerônimo",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98928745779012,
+          -30.079441848766102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Luiz Gonzaga",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.73613990024785,
+          -29.904808049455752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Pedro do Butiá",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.98759479631006,
+          -30.6354225872918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três de Maio",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.988636979004255,
+          -29.25741440066726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tupanciretã",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 235.0,
+        "production": 235.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.520455901251715,
+          -30.255516390524875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Grande",
+        "state": "MS",
+        "crop": "Girassol (em grão)",
+        "hectares": 390.0,
+        "production": 390.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5002704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.50917881241019,
+          -21.658814005802103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paraíso das Águas",
+        "state": "MS",
+        "crop": "Girassol (em grão)",
+        "hectares": 600.0,
+        "production": 600.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5006275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.31138360101849,
+          -20.417665321543115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sidrolândia",
+        "state": "MS",
+        "crop": "Girassol (em grão)",
+        "hectares": 240.0,
+        "production": 240.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5007901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.18729623839006,
+          -21.21536996893204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasnorte",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 1400.0,
+        "production": 1400.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5101902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.06446786066351,
+          -12.069359965070488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Novo do Parecis",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 960.0,
+        "production": 960.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5102637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.09838293858779,
+          -13.553679155688526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campos de Júlio",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5102686"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.78006661404973,
+          -12.397891643390754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Diamantino",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 1104.0,
+        "production": 1104.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5103502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.350981417534435,
+          -12.001814855884016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Poxoréu",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5107008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.88422802394218,
+          -12.75784843029193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Primavera do Leste",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5107040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.34270711272056,
+          -12.60373687078838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tangará da Serra",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5107958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.35994205525846,
+          -13.123775226414148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Acreúna",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1080.0,
+        "production": 1080.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5200134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.95647203045002,
+          -15.483565546404774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bela Vista de Goiás",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1170.0,
+        "production": 1170.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5203302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.44601472370738,
+          -14.832911871616735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Buriti Alegre",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1170.0,
+        "production": 1170.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5203906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.84521892452701,
+          -15.458495387193839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira Dourada",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 133.0,
+        "production": 133.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5204250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.57955957803804,
+          -15.462046172105294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Alegre de Goiás",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 275.0,
+        "production": 275.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5204805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.427403447164636,
+          -15.741803025491798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Limpo de Goiás",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5204854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.06832119003692,
+          -15.507306739129856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Catalão",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 2720.0,
+        "production": 2720.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5205109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.159724273672694,
+          -15.100986249285098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chapadão do Céu",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5205471"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.64415411318223,
+          -15.198043709104379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Corumbaíba",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5205901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.293212840369264,
+          -16.53789990435581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cristalina",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 903.0,
+        "production": 903.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5206206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.532992048479905,
+          -15.606203687659388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Doverlândia",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1000.0,
+        "production": 1000.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5207253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.10221047300532,
+          -14.980796623417573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gameleira de Goiás",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 135.0,
+        "production": 135.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5208152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.471122887203535,
+          -15.405035464407431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Goiandira",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 130.0,
+        "production": 130.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5208509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.43278536195706,
+          -16.043736594590044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Goiatuba",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1550.0,
+        "production": 1550.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5209101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.46467622560592,
+          -15.495779049667092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gouvelândia",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 260.0,
+        "production": 260.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5209150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.95659732652119,
+          -16.16279566541448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Inaciolândia",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 64.0,
+        "production": 64.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5209937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.01836558610106,
+          -16.41229006077003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Indiara",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5209952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.92199075473844,
+          -15.744158624213018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipameri",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 3375.0,
+        "production": 3375.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5210109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.52913218589343,
+          -14.880198659787924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itumbiara",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1500.0,
+        "production": 1500.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5211503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.02451969960511,
+          -16.652107232757725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaraguá",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 48.0,
+        "production": 48.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5211800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.13895590125171,
+          -16.047916390524875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jataí",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 950.0,
+        "production": 950.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5211909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.50556581835773,
+          -15.714622146188791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Joviânia",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 680.0,
+        "production": 680.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5212105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.45885128960459,
+          -15.187387607868128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Luziânia",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1000.0,
+        "production": 1000.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5212501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.94613207938546,
+          -16.337498770366796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mairipotaba",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5212600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.85168112556692,
+          -15.373421863969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marzagão",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5212907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.281631649328816,
+          -14.891685310536607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montividiu",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 645.0,
+        "production": 645.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5213756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.882911727538456,
+          -16.215422207086856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Morrinhos",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5213806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.24802303532223,
+          -15.936721549686354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Orizona",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1800.0,
+        "production": 1800.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5215306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.53627402771335,
+          -16.098237664628208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Panamá",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 340.0,
+        "production": 340.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5216007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.6760687705926,
+          -15.264306230085941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paraúna",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1000.0,
+        "production": 1000.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5216403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.21366724281921,
+          -15.996787824622151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Perolândia",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5216452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.37240225805216,
+          -14.968845982508642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piracanjuba",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1670.0,
+        "production": 1670.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5217104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.673049808748395,
+          -16.01523683137264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pontalina",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5217708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.62041135333994,
+          -15.70698795223679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Professor Jamil",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 245.0,
+        "production": 245.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5218391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.575707567511984,
+          -16.306464340902618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quirinópolis",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 440.0,
+        "production": 440.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5218508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.08148913318804,
+          -16.032039787979777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Verde",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 2844.0,
+        "production": 2844.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5218805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.613590595459485,
+          -15.518120362076354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz de Goiás",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5219209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.469773224809856,
+          -16.57547058253046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Senador Canedo",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 240.0,
+        "production": 240.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5220454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.806962814106704,
+          -16.674508725485953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serranópolis",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 600.0,
+        "production": 600.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5220504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.64220382578484,
+          -15.80696298651304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Silvânia",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 5000.0,
+        "production": 5000.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5220603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.775949424278735,
+          -16.7579704162861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vianópolis",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 700.0,
+        "production": 700.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5222005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.36499279576999,
+          -14.906349170824443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasília",
+        "state": "DF",
+        "crop": "Girassol (em grão)",
+        "hectares": 700.0,
+        "production": 700.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5300108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.55027622560592,
+          -15.495479049667093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Triângulo Mineiro/Alto Paranaíba",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 7328.0,
+        "production": 7328.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.47071565498298,
+          -18.321162532942346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José do Rio Preto",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.84776088406008,
+          -23.321006210845574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bauru",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 310.0,
+        "production": 310.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.67441462961119,
+          -22.8635032473512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araraquara",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 555.0,
+        "production": 555.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.03539623839006,
+          -23.99366996893204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piracicaba",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.09220899024247,
+          -23.506713856448265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campinas",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03346905546602,
+          -23.619102033732982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Assis",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 24.0,
+        "production": 24.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.6926557879898,
+          -23.30886980303147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapetininga",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.235763562402056,
+          -23.582262487841714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Paranaense",
+        "state": "PR",
+        "crop": "Girassol (em grão)",
+        "hectares": 73.0,
+        "production": 73.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09082002838497,
+          -23.91729406615929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Ocidental Paranaense",
+        "state": "PR",
+        "crop": "Girassol (em grão)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.745605438658956,
+          -25.655764730770358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Central Paranaense",
+        "state": "PR",
+        "crop": "Girassol (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.083917187437486,
+          -25.82712325441474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Rio-grandense",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 1934.0,
+        "production": 1934.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.808064698285804,
+          -30.110206032908884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Ocidental Rio-grandense",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 235.0,
+        "production": 235.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05512013921844,
+          -30.541636080661284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Porto Alegre",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02017114812373,
+          -29.972838989062826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Rio-grandense",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 800.0,
+        "production": 800.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85262288720354,
+          -29.612635464407433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Norte de Mato Grosso do Sul",
+        "state": "MS",
+        "crop": "Girassol (em grão)",
+        "hectares": 630.0,
+        "production": 630.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.14462361734619,
+          -21.517155739253063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Leste de Mato Grosso do Sul",
+        "state": "MS",
+        "crop": "Girassol (em grão)",
+        "hectares": 600.0,
+        "production": 600.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.45302488555013,
+          -20.809706731853385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Mato-grossense",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 3764.0,
+        "production": 3764.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.850844188611426,
+          -12.598965154944363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Mato-grossense",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.45730225805217,
+          -11.823745982508642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Mato-grossense",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.68229207114178,
+          -13.078456466640795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Goiano",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1558.0,
+        "production": 1558.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.899438963814305,
+          -14.987228757355275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Leste Goiano",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1903.0,
+        "production": 1903.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.97842189064977,
+          -15.684194810620173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Goiano",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 32036.0,
+        "production": 32036.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.651160177917625,
+          -15.122753595772533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Distrito Federal",
+        "state": "DF",
+        "crop": "Girassol (em grão)",
+        "hectares": 700.0,
+        "production": 700.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.556722887203534,
+          -15.404735464407432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ituiutaba",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 60.0,
+        "production": 60.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.97972204901979,
+          -17.903420106212167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uberlândia",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 5891.0,
+        "production": 5891.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.420571773329655,
+          -17.882416926893683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Patrocínio",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 437.0,
+        "production": 437.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.94265725993869,
+          -19.06000252645475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uberaba",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.84220876636503,
+          -18.98553890566625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araxá",
+        "state": "MG",
+        "crop": "Girassol (em grão)",
+        "hectares": 440.0,
+        "production": 440.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.969063556370294,
+          -17.98146769978391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Votuporanga",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 90.0,
+        "production": 90.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.805484670926084,
+          -23.73057135850887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José do Rio Preto",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.84776088406008,
+          -23.321006210845574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Catanduva",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.48752013469656,
+          -23.243184145857704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bauru",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.67441462961119,
+          -22.8635032473512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaú",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 190.0,
+        "production": 190.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.97097944510161,
+          -23.837703586474554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araraquara",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 555.0,
+        "production": 555.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.03539623839006,
+          -23.99366996893204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Claro",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.13332065996216,
+          -24.537847427385692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campinas",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03346905546602,
+          -23.619102033732982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Assis",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 24.0,
+        "production": 24.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.6926557879898,
+          -23.30886980303147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tatuí",
+        "state": "SP",
+        "crop": "Girassol (em grão)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.14993112964595,
+          -24.22334549076661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Umuarama",
+        "state": "PR",
+        "crop": "Girassol (em grão)",
+        "hectares": 73.0,
+        "production": 73.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.847561266682355,
+          -25.49517729331538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Goioerê",
+        "state": "PR",
+        "crop": "Girassol (em grão)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76731425521419,
+          -24.909579981153286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Faxinal",
+        "state": "PR",
+        "crop": "Girassol (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.058126417343566,
+          -24.86889098095735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Rosa",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 427.0,
+        "production": 427.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Três Passos",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 160.0,
+        "production": 160.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3220450258813,
+          -29.122531456221502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Largo",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 27.0,
+        "production": 27.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61383470905889,
+          -29.911431271279007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 930.0,
+        "production": 930.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santiago",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 235.0,
+        "production": 235.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03231315630334,
+          -30.627259105157897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Jerônimo",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98928745779012,
+          -30.079441848766102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campanha Ocidental",
+        "state": "RS",
+        "crop": "Girassol (em grão)",
+        "hectares": 800.0,
+        "production": 800.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24159144638365,
+          -29.28241346222009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Grande",
+        "state": "MS",
+        "crop": "Girassol (em grão)",
+        "hectares": 630.0,
+        "production": 630.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "50004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.50917881241019,
+          -21.658814005802103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cassilândia",
+        "state": "MS",
+        "crop": "Girassol (em grão)",
+        "hectares": 600.0,
+        "production": 600.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "50005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.00307756410681,
+          -20.85269764228362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aripuanã",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 1400.0,
+        "production": 1400.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.72905411318224,
+          -12.05294370910438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parecis",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 2364.0,
+        "production": 2364.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.96697491248807,
+          -13.140949334486633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tangará da Serra",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.35994205525846,
+          -13.123775226414148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Primavera do Leste",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.34270711272056,
+          -12.60373687078838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tesouro",
+        "state": "MT",
+        "crop": "Girassol (em grão)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.73458669467098,
+          -11.68559447625746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anápolis",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 148.0,
+        "production": 148.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "52007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.68692519388054,
+          -16.78453658201682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Goiânia",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1410.0,
+        "production": 1410.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "52010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.529561549341054,
+          -16.74274268531469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Entorno de Brasília",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 1903.0,
+        "production": 1903.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "52012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.812890612415714,
+          -14.896515716895754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste de Goiás",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 6539.0,
+        "production": 6539.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "52013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.50252389828077,
+          -16.09923372673383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Rio dos Bois",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 2330.0,
+        "production": 2330.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "52014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.897133414938295,
+          -16.12650366021028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Meia Ponte",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 7932.0,
+        "production": 7932.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "52015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.29953536676947,
+          -15.082668039344036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pires do Rio",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 7735.0,
+        "production": 7735.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "52016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.03398487862293,
+          -15.405632533875014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Catalão",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 6800.0,
+        "production": 6800.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "52017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.159724273672694,
+          -15.100986249285098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quirinópolis",
+        "state": "GO",
+        "crop": "Girassol (em grão)",
+        "hectares": 700.0,
+        "production": 700.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "52018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.08148913318804,
+          -16.032039787979777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasília",
+        "state": "DF",
+        "crop": "Girassol (em grão)",
+        "hectares": 700.0,
+        "production": 700.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "53001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.55027622560592,
+          -15.495479049667093
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2906 @@
+{
+  "type": "FeatureCollection",
+  "name": "Azeitona_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio de Contas",
+        "state": "BA",
+        "crop": "Azeitona",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2926707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.798432548604,
+          -12.921335226405777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aiuruoca",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3101201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.203785399872615,
+          -17.991341422273024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alagoa",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 42.0,
+        "production": 42.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3101300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.65962176919256,
+          -18.774648170268826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Andradas",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 37.0,
+        "production": 37.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3102605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.55071911275053,
+          -18.952569052854024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Antônio Carlos",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3102902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.05085731528211,
+          -18.191279190397083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Baependi",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3104908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.72112175429162,
+          -18.67016692775979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barbacena",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 32.0,
+        "production": 32.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3105608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.37179478384087,
+          -18.148190878824046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bocaina de Minas",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3107208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.38408290736203,
+          -18.718387026795604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brazópolis",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3108909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.51376792043871,
+          -18.18141701273005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caldas",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3110301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.84439294645481,
+          -19.30193105243545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camanducaia",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3110509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.21931636983657,
+          -19.235714748610064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cambuí",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3110608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.75278487862293,
+          -18.090832533875016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Catas Altas da Noruega",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3115409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.862835412293215,
+          -19.429654664025037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Consolação",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3118502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.42534066020871,
+          -17.563729705739036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cristina",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 46.0,
+        "production": 46.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3120508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.43418841940606,
+          -17.54744585047974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Datas",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3121001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.47132004556577,
+          -17.58008013771476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Delfim Moreira",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 37.0,
+        "production": 37.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3121100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.67416820310048,
+          -17.915556973605774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Extrema",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3125101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.945498591764924,
+          -17.711752240281374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gonçalves",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3127404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.498812950540994,
+          -18.36076758372714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itanhandu",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3133105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.12218240889321,
+          -18.332019239254254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapeva",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3133600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.442198994121995,
+          -18.041878868062213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maria da Fé",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3139904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9574387294905,
+          -17.602800206944515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passa Quatro",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3147600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.75055139129463,
+          -17.521110080263934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passa Vinte",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3147808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6163334675571,
+          -18.382993533872344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piranguçu",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3150901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.108143038164634,
+          -19.1145429014375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pouso Alto",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3152600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.108143038164634,
+          -19.1145429014375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santana dos Montes",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3159100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.52558557317077,
+          -18.818563601609128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sapucaí-Mirim",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 45.0,
+        "production": 45.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3165404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.47132004556577,
+          -17.58008013771476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seritinga",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3166402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.55962661269255,
+          -17.698499781597697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serranos",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3167004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.542016070783475,
+          -18.494591239495026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vieiras",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3171402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.18857322480986,
+          -19.26067058253046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Wenceslau Braz",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3172202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.02385007184239,
+          -17.976181283534437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alfredo Chaves",
+        "state": "ES",
+        "crop": "Azeitona",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3200300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.007201652151,
+          -19.535734470333676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Leopoldina",
+        "state": "ES",
+        "crop": "Azeitona",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.26813545663743,
+          -19.45966596287888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Teresa",
+        "state": "ES",
+        "crop": "Azeitona",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3204609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.333111618029506,
+          -19.194851387699273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Águas da Prata",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3500402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00611377220632,
+          -23.438513526424916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cabreúva",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3508405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.720703447416305,
+          -22.59239975985445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cunha",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3513603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.937035967507285,
+          -22.57359823950206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Divinolândia",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3513900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.94467987525143,
+          -24.25128631852781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Antônio do Pinhal",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3548203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.25494935655705,
+          -24.258590398640706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Bento do Sapucaí",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3548609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.32185917179189,
+          -24.25592318433141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Sebastião da Grama",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3550803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18369913713026,
+          -23.32721321495023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aceguá",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95323400884244,
+          -29.893943153726255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alegrete",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.483710473005324,
+          -29.188396623417574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Anta Gorda",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.723182173901115,
+          -30.42832437316939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arroio dos Ratos",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.43980558145818,
+          -30.059041042280082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bagé",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83934935655705,
+          -30.742690398640708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra do Ribeiro",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 48.0,
+        "production": 48.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.411053692039474,
+          -30.122360702046066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Jesus",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.77790238938425,
+          -30.001723181044476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Butiá",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.41081042723109,
+          -29.61153080746991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caçapava do Sul",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 138.0,
+        "production": 138.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79046642107002,
+          -30.879756432293394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacequi",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.90081718743749,
+          -30.96852325441474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Sul",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 276.0,
+        "production": 276.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60166052156125,
+          -29.97518757011881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camaquã",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.67322434309931,
+          -29.335749968045135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Candiota",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 54.0,
+        "production": 54.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.42280894582834,
+          -30.622675300097765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canela",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.67945627330318,
+          -29.966284707209464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canguçu",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 250.0,
+        "production": 250.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76409670989132,
+          -29.992101625745462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capão do Leão",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.73839994498661,
+          -29.505026157271935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Chuvisca",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.110531493557296,
+          -30.688748316824135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dois Lajeados",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.09404789366699,
+          -29.471483407765128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dom Feliciano",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.638866184891384,
+          -29.2502582369199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dom Pedrito",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 217.0,
+        "production": 217.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.810806050275204,
+          -30.943381395829213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Encruzilhada do Sul",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 550.0,
+        "production": 550.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.85043595022391,
+          -30.406791583152753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Formigueiro",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60964155073011,
+          -29.156350777446068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gramado",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.30349075473844,
+          -29.95175862421302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaíba",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 48.0,
+        "production": 48.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.52143596750729,
+          -29.057698239502063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Hulha Negra",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.50994843732492,
+          -29.99587001689718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibarama",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55783884094358,
+          -29.190776058461065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mariana Pimentel",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79046642107002,
+          -30.879756432293394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montenegro",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.643191796067555,
+          -30.21371447055403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Muitos Capões",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83918636573236,
+          -31.029042663014568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pantano Grande",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.137723055032275,
+          -30.15420100823503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pedras Altas",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.97105698830856,
+          -30.76792966655738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinheiro Machado",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 230.0,
+        "production": 230.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.254252898061424,
+          -29.91230474789222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piratini",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.00963953085742,
+          -30.13361096236205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quaraí",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.44537016393726,
+          -29.91101448584461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Restinga Sêca",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9337748215832,
+          -29.317088685731573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rosário do Sul",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 31.0,
+        "production": 31.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.01120664605113,
+          -30.677171290844502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Margarida do Sul",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 42.0,
+        "production": 42.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.558921891137395,
+          -29.228102040570743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sant'Ana do Livramento",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 136.0,
+        "production": 136.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.91323934418911,
+          -29.734366696536323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santiago",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03231315630334,
+          -30.627259105157897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Gabriel",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 72.0,
+        "production": 72.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3187649125767,
+          -29.43992482472652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Jerônimo",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 42.0,
+        "production": 42.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98928745779012,
+          -30.079441848766102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João do Polêsine",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.79470902800316,
+          -30.964144312410934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Lourenço do Sul",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.555379445101615,
+          -30.321803586474555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Sepé",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 57.0,
+        "production": 57.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.563145247373875,
+          -29.632113124560597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sentinela do Sul",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4320354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.70333960604288,
+          -29.393715909568762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teutônia",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4321451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.941416574571306,
+          -30.223368715326174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Triunfo",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 48.0,
+        "production": 48.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02306826411123,
+          -29.390786263417322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tupanciretã",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.520455901251715,
+          -30.255516390524875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Venâncio Aires",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.21341911275053,
+          -30.474969052854025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Viamão",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4323002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.51143050904634,
+          -29.92492908751357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Sul Baiano",
+        "state": "BA",
+        "crop": "Azeitona",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.09173558568529,
+          -13.030702507914706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequitinhonha",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.47071565498298,
+          -18.321162532942346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Belo Horizonte",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.727184670926086,
+          -18.69227135850887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul/Sudoeste de Minas",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 513.0,
+        "production": 513.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.050044617100454,
+          -19.47249892107114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo das Vertentes",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 46.0,
+        "production": 46.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.75919941489221,
+          -18.685009575854654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Zona da Mata",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.50363974580232,
+          -17.556212101065118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Central Espírito-santense",
+        "state": "ES",
+        "crop": "Azeitona",
+        "hectares": 52.0,
+        "production": 52.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.814382173901116,
+          -19.577124373169386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campinas",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 107.0,
+        "production": 107.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03346905546602,
+          -23.619102033732982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Macro Metropolitana Paulista",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.851177564106806,
+          -23.630997642283617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale do Paraíba Paulista",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 56.0,
+        "production": 56.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.23056091806265,
+          -23.253505560042232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Rio-grandense",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.808064698285804,
+          -30.110206032908884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Rio-grandense",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 43.0,
+        "production": 43.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95697582006793,
+          -29.547062613117284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Ocidental Rio-grandense",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 153.0,
+        "production": 153.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05512013921844,
+          -30.541636080661284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Oriental Rio-grandense",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 317.0,
+        "production": 317.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.262714353641655,
+          -30.845451245877808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Porto Alegre",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 567.0,
+        "production": 567.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02017114812373,
+          -29.972838989062826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Rio-grandense",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 686.0,
+        "production": 686.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85262288720354,
+          -29.612635464407433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Rio-grandense",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 1291.0,
+        "production": 1291.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.39162912997211,
+          -30.424787177850607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seabra",
+        "state": "BA",
+        "crop": "Azeitona",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.892565586101064,
+          -13.875790060770028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Diamantina",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.84873050904634,
+          -18.402529087513567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Conselheiro Lafaiete",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 16.0,
+        "production": 16.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.309052427176944,
+          -17.51544626973223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Poços de Caldas",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 57.0,
+        "production": 57.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.63717436502201,
+          -18.52655881600963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pouso Alegre",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 127.0,
+        "production": 127.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.11520238938425,
+          -18.479323181044474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Lourenço",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 96.0,
+        "production": 96.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.62109944478164,
+          -18.42492836936005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Andrelândia",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.618650766377066,
+          -18.79477758907734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itajubá",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 168.0,
+        "production": 168.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.170974480620416,
+          -19.122569164586476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barbacena",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 46.0,
+        "production": 46.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.37179478384087,
+          -18.148190878824046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Muriaé",
+        "state": "MG",
+        "crop": "Azeitona",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.84158062753703,
+          -18.544098110630255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Teresa",
+        "state": "ES",
+        "crop": "Azeitona",
+        "hectares": 41.0,
+        "production": 41.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.333111618029506,
+          -19.194851387699273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guarapari",
+        "state": "ES",
+        "crop": "Azeitona",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "32010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.23012690407294,
+          -19.02162741355454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João da Boa Vista",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 107.0,
+        "production": 107.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.84899234551775,
+          -24.120695650634378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sorocaba",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55642861768743,
+          -23.9393637958908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campos do Jordão",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 41.0,
+        "production": 41.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72014329255285,
+          -24.375563656828206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paraibuna/Paraitinga",
+        "state": "SP",
+        "crop": "Azeitona",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.18421650637188,
+          -23.681666376445115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vacaria",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 38.0,
+        "production": 38.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.068873819283326,
+          -30.690161538296266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santiago",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03231315630334,
+          -30.627259105157897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Maria",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 62.0,
+        "production": 62.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02017114812373,
+          -29.972838989062826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Restinga Seca",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 86.0,
+        "production": 86.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.72507562254052,
+          -29.076426050898263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz do Sul",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 21.0,
+        "production": 21.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.183627535751086,
+          -29.543480747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lajeado-Estrela",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64962427481441,
+          -29.634378444921094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Sul",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 290.0,
+        "production": 290.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60166052156125,
+          -29.97518757011881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Montenegro",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.643191796067555,
+          -30.21371447055403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gramado-Canela",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.82458112408905,
+          -29.84946383782344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Jerônimo",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 116.0,
+        "production": 116.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98928745779012,
+          -30.079441848766102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Alegre",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 193.0,
+        "production": 193.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00385649206964,
+          -30.714237244232002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camaquã",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 206.0,
+        "production": 206.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.67322434309931,
+          -29.335749968045135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campanha Ocidental",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24159144638365,
+          -29.28241346222009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campanha Central",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 281.0,
+        "production": 281.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.98252750044917,
+          -30.428067186059028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campanha Meridional",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 394.0,
+        "production": 394.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.608198591764925,
+          -29.234152240281375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serras de Sudeste",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 1032.0,
+        "production": 1032.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.56588771187493,
+          -29.436369261766547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pelotas",
+        "state": "RS",
+        "crop": "Azeitona",
+        "hectares": 259.0,
+        "production": 259.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.11187533791058,
+          -31.02863466779344
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection",
+  "name": "Chá-da-índia (folha verde)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Registro",
+        "state": "SP",
+        "crop": "Chá-da-índia (folha verde)",
+        "hectares": 77.0,
+        "production": 77.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3542602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.787081897761404,
+          -23.312171664377342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel Arcanjo",
+        "state": "SP",
+        "crop": "Chá-da-índia (folha verde)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3550209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55041495314338,
+          -23.086906864935717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sete Barras",
+        "state": "SP",
+        "crop": "Chá-da-índia (folha verde)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3551801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94886039864061,
+          -23.136043810826322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Macro Metropolitana Paulista",
+        "state": "SP",
+        "crop": "Chá-da-índia (folha verde)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.851177564106806,
+          -23.630997642283617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Litoral Sul Paulista",
+        "state": "SP",
+        "crop": "Chá-da-índia (folha verde)",
+        "hectares": 87.0,
+        "production": 87.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72392327242698,
+          -23.60681226263095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piedade",
+        "state": "SP",
+        "crop": "Chá-da-índia (folha verde)",
+        "hectares": 120.0,
+        "production": 120.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40101528453992,
+          -24.23217954518688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Registro",
+        "state": "SP",
+        "crop": "Chá-da-índia (folha verde)",
+        "hectares": 87.0,
+        "production": 87.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.787081897761404,
+          -23.312171664377342
+        ]
+      }
+    }
+  ]
+}

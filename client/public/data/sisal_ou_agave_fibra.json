@@ -1,0 +1,1946 @@
+{
+  "type": "FeatureCollection",
+  "name": "Sisal ou agave (fibra)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caririaçu",
+        "state": "CE",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 27.0,
+        "production": 27.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2303204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.0636654501673,
+          -6.413305885597737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Granjeiro",
+        "state": "CE",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2304806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.16758604431639,
+          -4.877254228119114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alcantil",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2500536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.64026821078406,
+          -7.314163290510708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Algodão de Jandaíra",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 28.0,
+        "production": 28.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2500577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.74864636749308,
+          -6.38585044890245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra de Santa Rosa",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 1500.0,
+        "production": 1500.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2501609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.05520566332881,
+          -7.430582002634303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cacimbas",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 26.0,
+        "production": 26.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2503555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.52150756751198,
+          -7.719464340902619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campina Grande",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2504009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.05400974028068,
+          -7.023076924684223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cubati",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2505006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.53419421713804,
+          -8.15084841024332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cuité",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2505105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.71953875190689,
+          -7.207611225503399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Esperança",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2506004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.75258557317077,
+          -7.5463636016091264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gado Bravo",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2506251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.59696017791762,
+          -6.535753595772534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Imaculada",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2506707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.38009028937262,
+          -6.578658432872685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monteiro",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2509701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.181723816830164,
+          -6.962614279450278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Floresta",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2510105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.31509875378859,
+          -7.335868269301887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Olivedos",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2510501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.78979504283962,
+          -7.569287930914074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Picuí",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2511400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.5061400442915,
+          -7.133392059417609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pocinhos",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 2800.0,
+        "production": 2800.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2512002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.611082907362025,
+          -7.446187026795605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Remígio",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2512705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.22196778892766,
+          -7.5261836429455276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Solânea",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2516003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.41761026323701,
+          -6.817159881488756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sossêgo",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2516151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.18076728109922,
+          -6.96453584506039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teixeira",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2516706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.89239365888725,
+          -7.844631706746203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Zabelê",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2517407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.47202002838497,
+          -6.2640940661592905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araci",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 8254.0,
+        "production": 8254.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.28316642107002,
+          -14.135656432293391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barro Alto",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 84.0,
+        "production": 84.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.505698706132605,
+          -13.537938559167852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barrocas",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 1140.0,
+        "production": 1140.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.614217239533,
+          -13.748852531541846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brejões",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2904308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.16793388676075,
+          -13.37211865368267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cafarnaum",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 337.0,
+        "production": 337.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.14787653150118,
+          -12.420635001876693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Formoso",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 27500.0,
+        "production": 27500.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36442465622979,
+          -13.046719137106916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canarana",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 173.0,
+        "production": 173.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.40333218589343,
+          -12.343698659787924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cansanção",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 600.0,
+        "production": 600.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.87211143457994,
+          -14.20240553260665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canudos",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.834334352288195,
+          -13.869157924063412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capela do Alto Alegre",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.97516392430218,
+          -14.229389359625252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capim Grosso",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.79619075473844,
+          -13.207658624213018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Central",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2907608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.91425353186815,
+          -13.057158836389604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Conceição do Coité",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 10300.0,
+        "production": 10300.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2908408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.70598202099369,
+          -13.803464474581325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Euclides da Cunha",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2910701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.337891685946595,
+          -12.479220647650958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Filadélfia",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2910859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.27383916795241,
+          -13.627276462861373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gavião",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 75.0,
+        "production": 75.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2911253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.5970165397052,
+          -13.301525128041131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibititá",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 98.0,
+        "production": 98.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.86355774986647,
+          -12.482721647571966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irajuba",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.64167410883724,
+          -13.816327386978177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iraquara",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 670.0,
+        "production": 670.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.365535693198424,
+          -13.259768704322699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaguaçu da Bahia",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.705659761414736,
+          -13.367671396488477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itatim",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2916856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.72988994517517,
+          -14.201567033253612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itiúba",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 1250.0,
+        "production": 1250.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.28269680335442,
+          -14.25490504333206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacobina",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 2205.0,
+        "production": 2205.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.39969205452306,
+          -14.08743624434574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maracás",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2920502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.35103998137686,
+          -12.41267624599277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Miguel Calmon",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 36.0,
+        "production": 36.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2921203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.46669098498523,
+          -14.073569246211104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Milagres",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2921302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.334502443477284,
+          -12.912731178391333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mirangaba",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 657.0,
+        "production": 657.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2921401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.14634192683142,
+          -13.118304463088085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Santo",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2921500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.41047402771335,
+          -13.56173766462821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Morro do Chapéu",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 1281.0,
+        "production": 1281.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2921708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91550894582834,
+          -13.878575300097763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mulungu do Morro",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 1061.0,
+        "production": 1061.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.1565207209544,
+          -13.282921168220009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordestina",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 1500.0,
+        "production": 1500.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.17830629427128,
+          -12.643299981854295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Fátima",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 420.0,
+        "production": 420.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.94252119003692,
+          -12.970806739129856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Itarana",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.320891008931724,
+          -13.12819573499087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ourolândia",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 1100.0,
+        "production": 1100.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2923357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.67039654959096,
+          -12.783582154878186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piritiba",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2924801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.47516595437556,
+          -13.326175482790248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ponto Novo",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.263543038164634,
+          -13.8928429014375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Queimadas",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 236.0,
+        "production": 236.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.09436052156125,
+          -13.23108757011881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quijingue",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 158.0,
+        "production": 158.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.11056905546602,
+          -13.359102033732983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Retirolândia",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 4000.0,
+        "production": 4000.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2926103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.47159207114178,
+          -13.687056466640794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Riachão do Jacuípe",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2926301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.820793658887254,
+          -13.895131706746202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santaluz",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 16200.0,
+        "production": 16200.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2928000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31404408605245,
+          -12.48749718271924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Domingos",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 2700.0,
+        "production": 2700.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2928950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.47846942584755,
+          -13.994157587225832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Souto Soares",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 180.0,
+        "production": 180.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2930808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.239192795769995,
+          -12.369849170824443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teofilândia",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 1250.0,
+        "production": 1250.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.06816633216113,
+          -12.619101036490363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tucano",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 2987.0,
+        "production": 2987.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8110938766949,
+          -14.147527378967105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uauá",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 181.0,
+        "production": 181.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.47591809800673,
+          -12.388390467449407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Umburanas",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 1300.0,
+        "production": 1300.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.19013415021713,
+          -14.010602918920373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Valente",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 3400.0,
+        "production": 3400.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.269967668957875,
+          -12.945931527922902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Várzea Nova",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 6000.0,
+        "production": 6000.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.397138232048256,
+          -12.98972557256701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Cearense",
+        "state": "CE",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 29.0,
+        "production": 29.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.426790437352466,
+          -5.438944212474208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sertão Paraibano",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 58.0,
+        "production": 58.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.83934216860269,
+          -6.5603719784029355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Borborema",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 247.0,
+        "production": 247.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.842933414938294,
+          -7.539503660210281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Agreste Paraibano",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 4832.0,
+        "production": 4832.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.971876300565114,
+          -6.99494814671591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale São-Franciscano da Bahia",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.715572030813114,
+          -13.931745845804667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Norte Baiano",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 44059.0,
+        "production": 44059.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7596959606196,
+          -14.006004835266625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Baiano",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 54081.0,
+        "production": 54081.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.74872753350399,
+          -13.699288143699746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Sul Baiano",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 163.0,
+        "production": 163.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.09173558568529,
+          -13.030702507914706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caririaçu",
+        "state": "CE",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 29.0,
+        "production": 29.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.0636654501673,
+          -6.413305885597737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serra do Teixeira",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 58.0,
+        "production": 58.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.02864938859449,
+          -6.960943898231179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seridó Oriental Paraibano",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 218.0,
+        "production": 218.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.09756039864061,
+          -6.825543810826323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cariri Ocidental",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.56621135333994,
+          -7.119987952236791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cariri Oriental",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.300439900247845,
+          -7.11020804945575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curimataú Ocidental",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 4633.0,
+        "production": 4633.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.93767091420064,
+          -7.833715387248946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curimataú Oriental",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.55906847823049,
+          -7.8471374497369375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Esperança",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.75258557317077,
+          -7.5463636016091264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campina Grande",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.05400974028068,
+          -7.023076924684223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Umbuzeiro",
+        "state": "PB",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "25019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.6624124630798,
+          -8.14432744038574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 140.0,
+        "production": 140.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.47444491145421,
+          -13.729748140915154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Senhor do Bonfim",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 30052.0,
+        "production": 30052.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.65903974580232,
+          -12.334512101065116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irecê",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 2683.0,
+        "production": 2683.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.62181132300508,
+          -12.769014676713192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacobina",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 11311.0,
+        "production": 11311.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.39969205452306,
+          -14.08743624434574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Feira de Santana",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.434116574571306,
+          -13.479268715326171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Euclides da Cunha",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 5922.0,
+        "production": 5922.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.337891685946595,
+          -12.479220647650958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serrinha",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 48159.0,
+        "production": 48159.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.048079445101614,
+          -13.577703586474556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequié",
+        "state": "BA",
+        "crop": "Sisal ou agave (fibra)",
+        "hectares": 163.0,
+        "production": 163.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82395810873852,
+          -13.146694300099886
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1806 @@
+{
+  "type": "FeatureCollection",
+  "name": "Ervilha (em grão)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Alfredo Vasconcelos",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3101631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.65478742976618,
+          -19.125327330215235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barbacena",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3105608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.37179478384087,
+          -18.148190878824046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bueno Brandão",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3109105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.31982750044917,
+          -18.905667186059027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camanducaia",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3110509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.21931636983657,
+          -19.235714748610064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coromandel",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 80.0,
+        "production": 80.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3119302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.72892912997211,
+          -18.902387177850606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Extrema",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3125101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.945498591764924,
+          -17.711752240281374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gonçalves",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3127404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.498812950540994,
+          -18.36076758372714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manga",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3139300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.78555265745218,
+          -19.43244162372427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Munhoz",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3143807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.05523352980785,
+          -18.4105564760762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Olegário",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3153400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.99094192683142,
+          -18.340004463088086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Romaria",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 225.0,
+        "production": 225.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3156403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.03531848569781,
+          -18.071803477821792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Senador Amaral",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3165578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.53291492078486,
+          -19.06158769392081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Sucesso de Itararé",
+        "state": "SP",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3507159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72014329255285,
+          -24.375563656828206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jundiaí",
+        "state": "SP",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3525904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62175283441864,
+          -23.009181564254263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel Arcanjo",
+        "state": "SP",
+        "crop": "Ervilha (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3550209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55041495314338,
+          -23.086906864935717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Paulo",
+        "state": "SP",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3550308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.68623946599681,
+          -23.591716038594807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araucária",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4101804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4601557879898,
+          -24.65156980303147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barracão",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4102604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.76618471569123,
+          -24.326589349926717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bituruna",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4102901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.44342503992046,
+          -25.03906221706622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Jesus do Sul",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.877030975482334,
+          -25.68178159947719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Braganey",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4103354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.343606426204815,
+          -25.395529848391632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Magro",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.008795000128536,
+          -25.302393010783707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carlópolis",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.63590979512252,
+          -25.0036285469629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Conselheiro Mairinck",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.302539531640264,
+          -25.75396065939014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Dois Vizinhos",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.77826724281921,
+          -25.06298782462215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Figueira",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83964205525845,
+          -25.335075226414148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Francisco Beltrão",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4108403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.091338056516925,
+          -25.79294177899794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guapirama",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.412684513060974,
+          -24.24821749903331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaboti",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4111704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.66960949649852,
+          -25.20949368268311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacarezinho",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4111803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.243349639610926,
+          -25.60544685720712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Manfrinópolis",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4114351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.357446083487865,
+          -25.277885439429678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinhalão",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 8.0,
+        "production": 8.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4119202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.19354206117708,
+          -24.57667497547004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quatiguá",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4120705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9330682465155,
+          -24.576324982227256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São José dos Pinhais",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4125506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.16851528453992,
+          -25.57487954518688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tomazina",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4127809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.008795000128536,
+          -25.302393010783707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Verê",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4128609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.75097227572641,
+          -24.014991735361797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Largo",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61383470905889,
+          -29.911431271279007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Eugênio de Castro",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82751472370738,
+          -29.040511871616737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guabiju",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.141381496442115,
+          -30.916499684984394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Bassano",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.54245744996065,
+          -29.904410808322886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pinhal Grande",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82078764708399,
+          -30.481810386887396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pirapó",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.29220134275215,
+          -30.852472938869774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Porto Xavier",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.48178356456136,
+          -29.11231757788846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Luiz Gonzaga",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4318903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.73613990024785,
+          -29.904808049455752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Nicolau",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.129111323005084,
+          -29.513114676713194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Paulo das Missões",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06402309288423,
+          -30.57244197006219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Venâncio Aires",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.21341911275053,
+          -30.474969052854025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Veranópolis",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09688841940606,
+          -29.06984585047974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasília",
+        "state": "DF",
+        "crop": "Ervilha (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5300108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.55027622560592,
+          -15.495479049667093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste de Minas",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.16155069261387,
+          -18.522674865109558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte de Minas",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.579211618029504,
+          -18.523651387699275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Triângulo Mineiro/Alto Paranaíba",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 305.0,
+        "production": 305.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.47071565498298,
+          -18.321162532942346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul/Sudoeste de Minas",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 46.0,
+        "production": 46.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.050044617100454,
+          -19.47249892107114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo das Vertentes",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.75919941489221,
+          -18.685009575854654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapetininga",
+        "state": "SP",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.235763562402056,
+          -23.582262487841714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Macro Metropolitana Paulista",
+        "state": "SP",
+        "crop": "Ervilha (em grão)",
+        "hectares": 21.0,
+        "production": 21.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.851177564106806,
+          -23.630997642283617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de São Paulo",
+        "state": "SP",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72630128429943,
+          -23.319948087832888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Pioneiro Paranaense",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 33.0,
+        "production": 33.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.03028401407092,
+          -25.375183016569054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Oeste Paranaense",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.34267898841823,
+          -24.611508750214586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Paranaense",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.59391042723109,
+          -24.47013080746991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Paranaense",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.700909412698955,
+          -24.263396704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Curitiba",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.614362550445165,
+          -25.20470843584119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Rio-grandense",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 136.0,
+        "production": 136.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.808064698285804,
+          -30.110206032908884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Rio-grandense",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95697582006793,
+          -29.547062613117284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Ocidental Rio-grandense",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05512013921844,
+          -30.541636080661284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Oriental Rio-grandense",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.262714353641655,
+          -30.845451245877808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Distrito Federal",
+        "state": "DF",
+        "crop": "Ervilha (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.556722887203534,
+          -15.404735464407432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Paracatu",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.6159334149383,
+          -18.81170366021028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Januária",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.76010894582834,
+          -19.100275300097763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Patrocínio",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 305.0,
+        "production": 305.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.94265725993869,
+          -19.06000252645475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pouso Alegre",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 46.0,
+        "production": 46.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.11520238938425,
+          -18.479323181044474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barbacena",
+        "state": "MG",
+        "crop": "Ervilha (em grão)",
+        "hectares": 7.0,
+        "production": 7.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.37179478384087,
+          -18.148190878824046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itapeva",
+        "state": "SP",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.52049899412199,
+          -23.080178868062212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Piedade",
+        "state": "SP",
+        "crop": "Ervilha (em grão)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40101528453992,
+          -24.23217954518688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jundiaí",
+        "state": "SP",
+        "crop": "Ervilha (em grão)",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62175283441864,
+          -23.009181564254263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Paulo",
+        "state": "SP",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "35061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.68623946599681,
+          -23.591716038594807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacarezinho",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.243349639610926,
+          -25.60544685720712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibaiti",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 22.0,
+        "production": 22.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.62473054076062,
+          -24.024676074592055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Wenceslau Braz",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.869650071842386,
+          -24.357181283534437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cascavel",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.58539706529497,
+          -24.68168224406555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Francisco Beltrão",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.091338056516925,
+          -25.79294177899794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "União da Vitória",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.217594783840866,
+          -24.529190878824046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Curitiba",
+        "state": "PR",
+        "crop": "Ervilha (em grão)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "41037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83649518416852,
+          -24.158490482605696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cerro Largo",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61383470905889,
+          -29.911431271279007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 133.0,
+        "production": 133.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caxias do Sul",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.09162937177835,
+          -30.728847107455984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santiago",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03231315630334,
+          -30.627259105157897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz do Sul",
+        "state": "RS",
+        "crop": "Ervilha (em grão)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.183627535751086,
+          -29.543480747632994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brasília",
+        "state": "DF",
+        "crop": "Ervilha (em grão)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "53001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.55027622560592,
+          -15.495479049667093
+        ]
+      }
+    }
+  ]
+}

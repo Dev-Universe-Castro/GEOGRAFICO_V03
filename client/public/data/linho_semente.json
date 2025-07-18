@@ -1,0 +1,946 @@
+{
+  "type": "FeatureCollection",
+  "name": "Linho (semente)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Almirante Tamandaré do Sul",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4300471"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2465655823941,
+          -29.44115742667106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Vista das Missões",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.53721311934954,
+          -29.638153226032397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bozano",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.357256639884596,
+          -29.079229916679743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capão do Cipó",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 1800.0,
+        "production": 1800.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.506427084589866,
+          -29.0466545196779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 108.0,
+        "production": 108.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Catuípe",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.628678779885895,
+          -29.987246352101863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Condor",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 63.0,
+        "production": 63.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.10865468997908,
+          -29.077890283258007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Coronel Barros",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.53295099448683,
+          -29.45527216773379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Encruzilhada do Sul",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.85043595022391,
+          -30.406791583152753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Entre-Ijuís",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.83405235774225,
+          -30.70217112886631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Eugênio de Castro",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82751472370738,
+          -29.040511871616737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Garruchos",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4308656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.99169566321857,
+          -30.389416044055924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Giruá",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4309001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.10865468997908,
+          -29.077890283258007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Independência",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4310405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.64787728782578,
+          -29.68034834639946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jóia",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 150.0,
+        "production": 150.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4311155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.96024439244179,
+          -29.755758679085904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Minas do Leão",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.114776572693124,
+          -29.665443299532612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Ramada",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.47397262595486,
+          -29.114678139610092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmeira das Missões",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.64991058307983,
+          -30.149708333619415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Panambi",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4313904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Passo do Sobrado",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 98.0,
+        "production": 98.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.52143596750729,
+          -29.057698239502063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pejuçara",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 130.0,
+        "production": 130.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4314308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2669959606196,
+          -30.750104835266626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quinze de Novembro",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 28.0,
+        "production": 28.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.00874638940012,
+          -30.25869906001278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Rio Pardo",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 570.0,
+        "production": 570.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4315701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.88706581835773,
+          -29.92222214618879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Saldanha Marinho",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61271027495047,
+          -29.254715060166845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Bárbara do Sul",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 500.0,
+        "production": 500.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4316709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60436401325876,
+          -30.631230562748136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 35.0,
+        "production": 35.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Augusto",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4317806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02017114812373,
+          -29.972838989062826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Miguel das Missões",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4319158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.73613990024785,
+          -29.904808049455752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tupanciretã",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 160.0,
+        "production": 160.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.520455901251715,
+          -30.255516390524875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ubiretama",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4322343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61508966806201,
+          -29.172518776310934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Rio-grandense",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 2531.0,
+        "production": 2531.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.808064698285804,
+          -30.110206032908884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Ocidental Rio-grandense",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 1960.0,
+        "production": 1960.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05512013921844,
+          -30.541636080661284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Oriental Rio-grandense",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 668.0,
+        "production": 668.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.262714353641655,
+          -30.845451245877808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Porto Alegre",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02017114812373,
+          -29.972838989062826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudoeste Rio-grandense",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.85262288720354,
+          -29.612635464407433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Rio-grandense",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.39162912997211,
+          -30.424787177850607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Rosa",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98833158394409,
+          -29.797565622633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santo Ângelo",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 839.0,
+        "production": 839.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90683649003667,
+          -29.539838459090504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ijuí",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 296.0,
+        "production": 296.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55972215733508,
+          -30.231228523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Carazinho",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 468.0,
+        "production": 468.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.69767173707459,
+          -29.138073229303107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cruz Alta",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 878.0,
+        "production": 878.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.821195792451384,
+          -30.288728469976284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santiago",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 1960.0,
+        "production": 1960.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03231315630334,
+          -30.627259105157897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cachoeira do Sul",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 668.0,
+        "production": 668.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.60166052156125,
+          -29.97518757011881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Jerônimo",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98928745779012,
+          -30.079441848766102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campanha Ocidental",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24159144638365,
+          -29.28241346222009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serras de Sudeste",
+        "state": "RS",
+        "crop": "Linho (semente)",
+        "hectares": 200.0,
+        "production": 200.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.56588771187493,
+          -29.436369261766547
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2246 @@
+{
+  "type": "FeatureCollection",
+  "name": "Mamona (baga)_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Viagem",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2302404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.07511024931068,
+          -4.700215321254589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canindé",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 42.0,
+        "production": 42.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2302800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.909152002037835,
+          -5.336885670132087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itatira",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 25.0,
+        "production": 25.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2306603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.92815135472589,
+          -6.42129632132524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monsenhor Tabosa",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2308609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.66474573378772,
+          -5.014165445126448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Quitéria",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2312205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.304931797134394,
+          -4.938394048186614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tamboril",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 40.0,
+        "production": 40.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2313203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2189568602262,
+          -5.237659246399051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ouricuri",
+        "state": "PE",
+        "crop": "Mamona (baga)",
+        "hectares": 320.0,
+        "production": 320.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2609907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.254209412698955,
+          -8.183896704084077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Cruz",
+        "state": "PE",
+        "crop": "Mamona (baga)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2612455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.18404570129768,
+          -9.551058798620355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Filomena",
+        "state": "PE",
+        "crop": "Mamona (baga)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2612554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.514761329002724,
+          -8.668785211790698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serra Talhada",
+        "state": "PE",
+        "crop": "Mamona (baga)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2613909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.09365663988459,
+          -7.858329916679742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "América Dourada",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 1325.0,
+        "production": 1325.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2901155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.98360566332882,
+          -13.481082002634302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Andaraí",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2901304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.33204935655705,
+          -13.998590398640706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Antônio Gonçalves",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2901809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.46259421713804,
+          -14.20134841024332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Aracatu",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.05242215733508,
+          -13.487128523662093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 478.0,
+        "production": 478.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.47444491145421,
+          -13.729748140915154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra do Mendes",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 477.0,
+        "production": 477.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.95704938859449,
+          -13.011443898231178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barro Alto",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 3411.0,
+        "production": 3411.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.505698706132605,
+          -13.537938559167852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boa Vista do Tupim",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 65.0,
+        "production": 65.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.77649944478164,
+          -13.20322836936005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bonito",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 100.0,
+        "production": 100.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2904050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3500197283299,
+          -13.125323121233645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caém",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 18.0,
+        "production": 18.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.806418243154496,
+          -13.042803114322808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cafarnaum",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 2697.0,
+        "production": 2697.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.14787653150118,
+          -12.420635001876693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caldeirão Grande",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 218.0,
+        "production": 218.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2905503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.64014418861142,
+          -13.207565154944362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Formoso",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 227.0,
+        "production": 227.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36442465622979,
+          -13.046719137106916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canarana",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 5689.0,
+        "production": 5689.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.40333218589343,
+          -12.343698659787924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Capim Grosso",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.79619075473844,
+          -13.207658624213018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Central",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 998.0,
+        "production": 998.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2907608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.91425353186815,
+          -13.057158836389604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Contendas do Sincorá",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2908804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.33887622560592,
+          -12.959279049667092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Filadélfia",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 315.0,
+        "production": 315.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2910859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.27383916795241,
+          -13.627276462861373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Gentio do Ouro",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 36.0,
+        "production": 36.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2911303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.767742168602695,
+          -12.610871978402935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibipeba",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 2666.0,
+        "production": 2666.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2912400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.23943975850099,
+          -13.955110686332265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibiquera",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2912608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.022640798142845,
+          -14.0416848678938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibitiara",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6156033317958,
+          -12.675250837531827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ibititá",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 3632.0,
+        "production": 3632.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2913101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.86355774986647,
+          -12.482721647571966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ipupiara",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.63542801415941,
+          -14.086485623671283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iramaia",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.79780344741631,
+          -12.33239975985445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iraquara",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 1670.0,
+        "production": 1670.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.365535693198424,
+          -13.259768704322699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irecê",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 220.0,
+        "production": 220.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.62181132300508,
+          -12.769014676713192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaberaba",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2914703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7717334675571,
+          -13.161293533872342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaeté",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 480.0,
+        "production": 480.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.12966852827323,
+          -13.156251942796032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaguaçu da Bahia",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 215.0,
+        "production": 215.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2915353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.705659761414736,
+          -13.367671396488477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Iuiu",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82033207938546,
+          -13.800998770366796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacobina",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 70.0,
+        "production": 70.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.39969205452306,
+          -14.08743624434574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jaguarari",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 53.0,
+        "production": 53.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2917706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.37672389828077,
+          -13.56273372673383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "João Dourado",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 2062.0,
+        "production": 2062.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.39953649003667,
+          -12.7957384590905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jussara",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 2861.0,
+        "production": 2861.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2918506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.62181132300508,
+          -12.769014676713192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lajedinho",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 55.0,
+        "production": 55.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2919009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.98893897048522,
+          -13.594740352545964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lapão",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 2863.0,
+        "production": 2863.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2919157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.59085522783901,
+          -13.385740892980362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Lençóis",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2919306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.65276843632649,
+          -13.224990489110812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Maracás",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 9.0,
+        "production": 9.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2920502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.35103998137686,
+          -12.41267624599277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marcionílio Souza",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2920809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.28740902800316,
+          -14.220044312410934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Miguel Calmon",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 129.0,
+        "production": 129.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2921203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.46669098498523,
+          -14.073569246211104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mirangaba",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 284.0,
+        "production": 284.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2921401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.14634192683142,
+          -13.118304463088085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Morro do Chapéu",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 1591.0,
+        "production": 1591.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2921708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91550894582834,
+          -13.878575300097763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mulungu do Morro",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 3259.0,
+        "production": 3259.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.1565207209544,
+          -13.282921168220009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Muquém do São Francisco",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.76759161240812,
+          -12.99068827853689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nova Redenção",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 1000.0,
+        "production": 1000.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2922854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.97641047300532,
+          -12.444296623417573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ourolândia",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 1115.0,
+        "production": 1115.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2923357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.67039654959096,
+          -12.783582154878186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Palmeiras",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2923506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.751514629611194,
+          -12.6035032473512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pindobaçu",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 14.0,
+        "production": 14.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2924603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.26137950835088,
+          -12.607686223006326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Planaltino",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 44.0,
+        "production": 44.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2924900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85189202737811,
+          -13.365266901410116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Poções",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.25876594526991,
+          -13.573003262391696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ponto Novo",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 85.0,
+        "production": 85.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.263543038164634,
+          -13.8928429014375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Presidente Dutra",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 949.0,
+        "production": 949.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.580570540361315,
+          -13.448410771426706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Quixabeira",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2925931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3007646982858,
+          -13.366106032908883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Riachão das Neves",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2926202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.81242169544111,
+          -12.581921123652284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Riacho de Santana",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 165.0,
+        "production": 165.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2926400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.945509795122526,
+          -13.4009285469629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São Gabriel",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 2422.0,
+        "production": 2422.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2929255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.811464912576696,
+          -12.695824824726518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Saúde",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 84.0,
+        "production": 84.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2929800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.819207653309576,
+          -13.831831820996939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seabra",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 55.0,
+        "production": 55.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2929909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.892565586101064,
+          -13.875790060770028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Senhor do Bonfim",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 62.0,
+        "production": 62.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2930105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.65903974580232,
+          -12.334512101065116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serra do Ramalho",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2930154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.246602258052164,
+          -12.432345982508641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serrolândia",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 59.0,
+        "production": 59.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2930600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.58674789366699,
+          -12.727383407765126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Souto Soares",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 1020.0,
+        "production": 1020.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2930808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.239192795769995,
+          -12.369849170824443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Tapiramutá",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 50.0,
+        "production": 50.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.320425441405284,
+          -14.287479654439657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Teolândia",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2931608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.676327535751085,
+          -12.799380747632995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Uibaí",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 1893.0,
+        "production": 1893.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.676327535751085,
+          -12.799380747632995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Umburanas",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 350.0,
+        "production": 350.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2932457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.19013415021713,
+          -14.010602918920373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Várzea Nova",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 81.0,
+        "production": 81.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.397138232048256,
+          -12.98972557256701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Wagner",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 15.0,
+        "production": 15.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.63283360932826,
+          -14.135015967561094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Xique-Xique",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2933604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.28740902800316,
+          -14.220044312410934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Campo Novo do Parecis",
+        "state": "MT",
+        "crop": "Mamona (baga)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5102637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.09838293858779,
+          -13.553679155688526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Noroeste Cearense",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.974546219903914,
+          -4.642416868244652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Cearense",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 67.0,
+        "production": 67.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.12660382578484,
+          -5.478362986513041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sertões Cearenses",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 360.0,
+        "production": 360.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.07395698830856,
+          -6.231729666557378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sertão Pernambucano",
+        "state": "PE",
+        "crop": "Mamona (baga)",
+        "hectares": 355.0,
+        "production": 355.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.26213735745486,
+          -8.400552529501653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Extremo Oeste Baiano",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.57666312361242,
+          -13.903837046939758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vale São-Franciscano da Bahia",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 711.0,
+        "production": 711.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.715572030813114,
+          -13.931745845804667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Norte Baiano",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 45116.0,
+        "production": 45116.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7596959606196,
+          -14.006004835266625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Sul Baiano",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 1985.0,
+        "production": 1985.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.09173558568529,
+          -13.030702507914706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul Baiano",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36618583828861,
+          -13.946601383326762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte Mato-grossense",
+        "state": "MT",
+        "crop": "Mamona (baga)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.850844188611426,
+          -12.598965154944363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Santa Quitéria",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.304931797134394,
+          -4.938394048186614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Canindé",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 67.0,
+        "production": 67.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.909152002037835,
+          -5.336885670132087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sertão de Cratéus",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 340.0,
+        "production": 340.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.26997640405563,
+          -5.676360743309672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sertão de Quixeramobim",
+        "state": "CE",
+        "crop": "Mamona (baga)",
+        "hectares": 20.0,
+        "production": 20.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "23019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.776124343099305,
+          -4.799549968045135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Araripina",
+        "state": "PE",
+        "crop": "Mamona (baga)",
+        "hectares": 345.0,
+        "production": 345.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "26001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.103395582124,
+          -9.218558517488997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Pajeú",
+        "state": "PE",
+        "crop": "Mamona (baga)",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "26003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.37858478546875,
+          -8.453487132431652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barreiras",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 30.0,
+        "production": 30.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.40070495100362,
+          -12.30242509449667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Barra",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 708.0,
+        "production": 708.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.47444491145421,
+          -13.729748140915154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Bom Jesus da Lapa",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.54638220856418,
+          -13.326886456472854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Senhor do Bonfim",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 1025.0,
+        "production": 1025.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.65903974580232,
+          -12.334512101065116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Irecê",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 40150.0,
+        "production": 40150.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.62181132300508,
+          -12.769014676713192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacobina",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 3755.0,
+        "production": 3755.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.39969205452306,
+          -14.08743624434574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itaberaba",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 186.0,
+        "production": 186.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7717334675571,
+          -13.161293533872342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Boquira",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 6.0,
+        "production": 6.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.916109369227364,
+          -12.400315609257444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seabra",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 1702.0,
+        "production": 1702.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.892565586101064,
+          -13.875790060770028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jequié",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 68.0,
+        "production": 68.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82395810873852,
+          -13.146694300099886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guanambi",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 195.0,
+        "production": 195.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3007646982858,
+          -13.366106032908883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Brumado",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 11.0,
+        "production": 11.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.80221044258575,
+          -13.488932774863798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vitória da Conquista",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.48142650273675,
+          -13.214562581176159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Ilhéus-Itabuna",
+        "state": "BA",
+        "crop": "Mamona (baga)",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.31024911085011,
+          -13.482543850112666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Parecis",
+        "state": "MT",
+        "crop": "Mamona (baga)",
+        "hectares": 300.0,
+        "production": 300.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "51004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.96697491248807,
+          -13.140949334486633
+        ]
+      }
+    }
+  ]
+}

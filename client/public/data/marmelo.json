@@ -1,0 +1,546 @@
+{
+  "type": "FeatureCollection",
+  "name": "Marmelo_production",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Morro do Chapéu",
+        "state": "BA",
+        "crop": "Marmelo",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2921708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91550894582834,
+          -13.878575300097763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mucugê",
+        "state": "BA",
+        "crop": "Marmelo",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2921906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.85415170687514,
+          -14.144371763578713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Delfim Moreira",
+        "state": "MG",
+        "crop": "Marmelo",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3121100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.67416820310048,
+          -17.915556973605774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Marmelópolis",
+        "state": "MG",
+        "crop": "Marmelo",
+        "hectares": 12.0,
+        "production": 12.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3140407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.86046976104155,
+          -17.5463652347296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "São João do Paraíso",
+        "state": "MG",
+        "crop": "Marmelo",
+        "hectares": 27.0,
+        "production": 27.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3162708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4533568602262,
+          -18.25145924639905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serro",
+        "state": "MG",
+        "crop": "Marmelo",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3167103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.96682303532223,
+          -18.621921549686355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Arvorezinha",
+        "state": "RS",
+        "crop": "Marmelo",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4301404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.65517653150118,
+          -29.164735001876696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Caçapava do Sul",
+        "state": "RS",
+        "crop": "Marmelo",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.79046642107002,
+          -30.879756432293394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Monte Alegre dos Campos",
+        "state": "RS",
+        "crop": "Marmelo",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4312377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.087150222213694,
+          -29.432340743404925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Cidade Ocidental",
+        "state": "GO",
+        "crop": "Marmelo",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5205497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.67218220856418,
+          -15.863386456472854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Norte Baiano",
+        "state": "BA",
+        "crop": "Marmelo",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7596959606196,
+          -14.006004835266625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Centro Sul Baiano",
+        "state": "BA",
+        "crop": "Marmelo",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "2906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.09173558568529,
+          -13.030702507914706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Norte de Minas",
+        "state": "MG",
+        "crop": "Marmelo",
+        "hectares": 27.0,
+        "production": 27.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.579211618029504,
+          -18.523651387699275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Metropolitana de Belo Horizonte",
+        "state": "MG",
+        "crop": "Marmelo",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.727184670926086,
+          -18.69227135850887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sul/Sudoeste de Minas",
+        "state": "MG",
+        "crop": "Marmelo",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "3110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.050044617100454,
+          -19.47249892107114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Nordeste Rio-grandense",
+        "state": "RS",
+        "crop": "Marmelo",
+        "hectares": 4.0,
+        "production": 4.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.95697582006793,
+          -29.547062613117284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Sudeste Rio-grandense",
+        "state": "RS",
+        "crop": "Marmelo",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "4307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.39162912997211,
+          -30.424787177850607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Leste Goiano",
+        "state": "GO",
+        "crop": "Marmelo",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "5204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.97842189064977,
+          -15.684194810620173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Jacobina",
+        "state": "BA",
+        "crop": "Marmelo",
+        "hectares": 2.0,
+        "production": 2.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.39969205452306,
+          -14.08743624434574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Seabra",
+        "state": "BA",
+        "crop": "Marmelo",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Nordeste",
+        "ibge_code": "29023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.892565586101064,
+          -13.875790060770028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Salinas",
+        "state": "MG",
+        "crop": "Marmelo",
+        "hectares": 27.0,
+        "production": 27.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.55414812843725,
+          -19.385304329448655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Conceição do Mato Dentro",
+        "state": "MG",
+        "crop": "Marmelo",
+        "hectares": 5.0,
+        "production": 5.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.75885353186815,
+          -18.278858836389606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Itajubá",
+        "state": "MG",
+        "crop": "Marmelo",
+        "hectares": 13.0,
+        "production": 13.0,
+        "year": 2023,
+        "region": "Sudeste",
+        "ibge_code": "31056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.170974480620416,
+          -19.122569164586476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Guaporé",
+        "state": "RS",
+        "crop": "Marmelo",
+        "hectares": 1.0,
+        "production": 1.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06636568390463,
+          -29.04786464875771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vacaria",
+        "state": "RS",
+        "crop": "Marmelo",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.068873819283326,
+          -30.690161538296266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Serras de Sudeste",
+        "state": "RS",
+        "crop": "Marmelo",
+        "hectares": 10.0,
+        "production": 10.0,
+        "year": 2023,
+        "region": "Sul",
+        "ibge_code": "43032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.56588771187493,
+          -29.436369261766547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Entorno de Brasília",
+        "state": "GO",
+        "crop": "Marmelo",
+        "hectares": 3.0,
+        "production": 3.0,
+        "year": 2023,
+        "region": "Centro-Oeste",
+        "ibge_code": "52012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.812890612415714,
+          -14.896515716895754
+        ]
+      }
+    }
+  ]
+}
